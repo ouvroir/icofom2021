@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/icofom2021",
   siteMetadata: {
     siteUrl: "https://confident-ramanujan-ee9003.netlify.app/", // No trailing slash allowed!
     image: "/meta_image.png", // Path to your image you placed in the 'static' folder
