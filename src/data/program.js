@@ -515,6 +515,7 @@ export const program = [
               en: "Synthesis and conclusions",
               fr: "Synthèse et conclusions",
               es: "Síntesis y conclusiones"
+            }
           }
         ],
       }
