@@ -1,6 +1,6 @@
 ---
 title: "Heritage Narratives at the Itaipu Archaeology Museum: Territory and Resistance through Artisanal Fishing"
-authors: [{name:"Maria De Simone Ferreira", institution: "Museu Histórico Nacional – Rio de Janeiro, Brazil"}]
+authors: [{name: "Maria De Simone Ferreira", institution: "Museu Histórico Nacional – Rio de Janeiro, Brazil"}]
 ---
 
 This paper analyzes the cultural and natural heritage narratives

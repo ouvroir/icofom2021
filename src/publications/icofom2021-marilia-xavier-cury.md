@@ -1,6 +1,6 @@
 ---
 title: "Metamuseology, Museology and decolonization – indigenous people and museums in Brazil"
-authors: [{name:"Marília Xavier Cury", institution:"Museum of Archaeology and Ethnology of the University of São Paulo – São Paulo, Brazil"}]
+authors: [{name: "Marília Xavier Cury", institution: "Museum of Archaeology and Ethnology of the University of São Paulo – São Paulo, Brazil"}]
 ---
 
 The decades after the 1970’s have been marked by identity-recognition

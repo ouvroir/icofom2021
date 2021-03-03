@@ -1,6 +1,6 @@
 ---
 title: "La leçon des Peuples Premiers"
-authors: [{name:"Michèle Rivet, C.M.0", institution:"Musée canadien pour les droits de la personne, Canada*"}]
+authors: [{name: "Michèle Rivet, C.M.0", institution: "Musée canadien pour les droits de la personne, Canada*"}]
 ---
 
 \*Vice-présidente, conseil d’administration. Ces opinions sont exprimées à titre personnel.

@@ -1,6 +1,6 @@
 ---
 title: "The right to ancestry in Paulo Nazareth’s works"
-authors: [{name:"Vivian Horta", institution:"Universidade Federal do Rio de Janeiro – Rio de Janeiro, Brazil"}]
+authors: [{name: "Vivian Horta", institution: "Universidade Federal do Rio de Janeiro – Rio de Janeiro, Brazil"}]
 ---
 
 Nazareth Cassiano de Jesus was a descendent from the Krenak[^1]

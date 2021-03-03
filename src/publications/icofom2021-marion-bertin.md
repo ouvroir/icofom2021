@@ -2,11 +2,11 @@
 authors: [
   {
     name: "Marion Bertin",
-    institution: "Ecole du Louvre & Université de la Rochelle — France"
+    institution: "École du Louvre & Université de la Rochelle — France"
   },
   {
     name: "Marion Bertin",
-    institution: "Ecole du Louvre & Université de la Rochelle — France"
+    institution: "École du Louvre & Université de la Rochelle — France"
   }
 ]
 title: "Que signifie \"Décoloniser les Musées ?\""

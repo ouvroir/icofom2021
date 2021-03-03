@@ -1,6 +1,6 @@
 ---
 title: "La descolonización de la Museología: Museos, mestizajes y mitos de origen"
-authors: [{name:"Yves Bergeron", institution:"Titular de la Cátedra Gobernanza de Museos y Derecho Cultural, UQAM"}, {name:"Michèle Rivet, C.M.", institution:"Vicepresidenta del Museo Canadiense por los Derechos Humanos. Miembro de la Junta Directiva, ICOM-Canada" }]
+authors: [{name: "Yves Bergeron", institution: "Titular de la Cátedra Gobernanza de Museos y Derecho Cultural, UQAM"}, {name: "Michèle Rivet, C.M.", institution: "Vicepresidenta del Museo Canadiense por los Derechos Humanos. Miembro de la Junta Directiva, ICOM-Canada" }]
 
 ---
 

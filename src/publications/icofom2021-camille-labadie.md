@@ -3,7 +3,7 @@ title: "Décoloniser les collections : enjeux et obstacles de la restitution des
 authors: [
 {
 	name: "Camille Labadie", 
-	institution: "Université du Québec à Montréal, Montréal, Canada"
+	institution: "Université du Québec à Montréal – Montréal, Canada"
 }]
 ---
 

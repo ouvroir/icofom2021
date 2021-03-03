@@ -1,6 +1,6 @@
 ---
 title: "Filled Containers, Felt Communities. Facts and Constructivism in Regional Museums"
-authors: [{name:"Markus Walz", institution:""}]
+authors: [{name: "Markus Walz", institution: ""}]
 ---
 
 The metaphor "container" belongs to the criticism that regional cultural

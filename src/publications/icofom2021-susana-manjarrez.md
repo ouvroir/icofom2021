@@ -1,6 +1,6 @@
 ---
 title: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben?"
-authors: [{name:"Susana Manjarrez", institution:"Coordinación Nacional de Museos y Exposiciones – INAH Ciudad de México, México"}]
+authors: [{name: "Susana Manjarrez", institution: "Coordinación Nacional de Museos y Exposiciones – INAH Ciudad de México – México"}]
 ---
 
 De inicio, resulta necesario tensar algunas nociones que atraviesan esta

@@ -1,6 +1,6 @@
 ---
 title: "The Decolonization of Museology: Museums, Mixing, and Myths of Origin"
-authors: [{name:"Yves Bergeron", institution:"UQAM Chair for Museum Governance and Cultural Law"}, {name:"Michèle Rivet, C.M.", institution:"Vice-president of the Canadian Museum for Human Rights. Board Member, ICOM-Canada" }]
+authors: [{name: "Yves Bergeron", institution: "UQAM Chair for Museum Governance and Cultural Law"}, {name: "Michèle Rivet, C.M.", institution: "Vice-president of the Canadian Museum for Human Rights. Board Member, ICOM-Canada" }]
 
 ---
 

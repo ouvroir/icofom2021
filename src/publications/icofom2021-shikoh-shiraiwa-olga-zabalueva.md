@@ -1,6 +1,6 @@
 ---
 title: "Museological Myths of Decolonization and Neutrality"
-authors: [{name:"Shikoh Shiraiwa", institution:"University of Helsinki, Finland"}, {name:"Olga Zabalueva", institution:"Linköping University, Sweden"}]
+authors: [{name: "Shikoh Shiraiwa", institution: "University of Helsinki – Finland"}, {name: "Olga Zabalueva", institution: "Linköping University – Sweden"}]
 ---
 
 > *"To have no museum in today's circumstances is to admit that one is

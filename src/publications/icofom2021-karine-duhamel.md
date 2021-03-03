@@ -1,6 +1,6 @@
 ---
 title: "All My Relations: (Re)Imagined Communities and Indigenous Peoples"
-authors: [{name:"Karine Duhamel, PhD", institution: "Canadian Museum for Human Rights – Winnipeg, Manitoba, Canada"}]
+authors: [{name: "Karine Duhamel, PhD", institution: "Canadian Museum for Human Rights – Winnipeg, Manitoba, Canada"}]
 ---
 
 In Canada, as in other countries with a colonial origin, museums have

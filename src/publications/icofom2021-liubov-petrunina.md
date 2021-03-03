@@ -1,6 +1,6 @@
 ---
 title: "Deconstruction of Museum Landscape"
-authors: [{name:"Liubov Petrunina", institution:"Independent museum consultant, PhD, Moscow, Russia"}]
+authors: [{name: "Liubov Petrunina", institution: "Independent museum consultant, PhD – Moscow, Russia"}]
 ---
 
 Theses proposed for the 43^rd^ ICOFOM symposium transfer the horizon of

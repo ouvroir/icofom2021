@@ -1,6 +1,6 @@
 ---
 title: "Decolonizing a Colonizer’s Tool"
-authors: [{name:"Leon Perelson Bellinha", institution:"Federal University of the State of Rio de Janeiro – Rio de Janeiro, Brazil"}]
+authors: [{name: "Leon Perelson Bellinha", institution: "Federal University of the State of Rio de Janeiro – Rio de Janeiro, Brazil"}]
 ---
 
 In order to discuss the decolonization of museology, we must understand

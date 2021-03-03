@@ -1,6 +1,6 @@
 ---
 title: "The Politics of Decolonization and the Museum Enigma"
-authors: [{name:"Lynn Maranda", institution:"Curator Emerita, Museum of Vancouver"}]
+authors: [{ name: "Lynn Maranda", institution: "Curator Emerita, Museum of Vancouver – Canada"}]
 ---
 
 Museums, a western construct, are constantly "reinventing" themselves to

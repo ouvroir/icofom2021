@@ -1,6 +1,6 @@
 ---
 title: "Digital strategies for widening the scope of dissemination of indigenous cultures: the Presença Karajá Project and the Tainacan Platform"
-authors: [{name:"Manuelina Maria Duarte Cândido", institution:"Université de Liège and PPGAS/FCS/UFG – Liège, Brazil"}, {name:"Luciana Conrado Martins", institution:"Percebe e Projeto Tainacan – Network Intelligence Laboratory/ FCI/UNB – São Paulo, Brazil"}, {name:"Andréa Dias Vial", institution: "Independent Researcher, Dra. História Social – São Paulo, Brazil"}]
+authors: [{name: "Manuelina Maria Duarte Cândido", institution: "Université de Liège and PPGAS/FCS/UFG – Liège, Brazil"}, {name: "Luciana Conrado Martins", institution: "Percebe e Projeto Tainacan – Network Intelligence Laboratory/ FCI/UNB – São Paulo, Brazil"}, {name: "Andréa Dias Vial", institution: "Independent Researcher, Dra. História Social – São Paulo, Brazil"}]
 ---
 
 The Karajá people today live in 20 villages along the Araguaia River in

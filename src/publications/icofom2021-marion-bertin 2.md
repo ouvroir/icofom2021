@@ -1,6 +1,6 @@
 ---
 title: "Que signifie « décoloniser » les musées ?"
-authors: [{name:"Marion Bertin", institution:"École du Louvre & Université de La Rochelle – France"}]
+authors: [{name: "Marion Bertin", institution: "École du Louvre & Université de La Rochelle – France"}]
 ---
 
 Depuis quelques années, décoloniser les savoirs et les modes de

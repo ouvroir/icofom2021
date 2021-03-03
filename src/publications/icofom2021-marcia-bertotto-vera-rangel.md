@@ -1,6 +1,6 @@
 ---
 title: "Uno museo Comunitario en el Sur del Brasil – Mixturas, Hibridismos y Participación"
-authors: [{name:"Márcia Bertotto", institution:"UFRGS – Porto Alegre, Brasil"}, {name:"Vera Rangel", institution:"Museóloga y Consultora Independiente – Porto Alegre, Brasil"}]
+authors: [{name: "Márcia Bertotto", institution: "UFRGS – Porto Alegre, Brasil"}, {name: "Vera Rangel", institution: "Museóloga y Consultora Independiente – Porto Alegre, Brasil"}]
 ---
 
 Brasil es el resultado de una colonización. Colonización que tuvo

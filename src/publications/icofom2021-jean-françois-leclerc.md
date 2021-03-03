@@ -1,6 +1,6 @@
 ---
 title: "La préservation du passé et des cultures immigrantes dans les musées : une définition du patrimoine à repenser"
-authors: [{name:"Jean-François Leclerc", institution:"Muzéum Expert-conseil – Montréal, Québec (Canada)"}]
+authors: [{name: "Jean-François Leclerc", institution: "Muzéum Expert-conseil – Montréal, Québec (Canada)"}]
 ---
 
 La représentativité est devenue un enjeu qui engage les institutions

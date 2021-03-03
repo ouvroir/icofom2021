@@ -1,6 +1,6 @@
 ---
 title: "L’accueil de *Qelemteleq* dans les collections du Musée des beaux-arts du Canada et l’apport autochtone au tournant performatif des musées"
-authors: [{name:"Mélanie Boucher", institution:"Université du Québec en Outaouais – Gatineau, Canada"}]
+authors: [{name: "Mélanie Boucher", institution: "Université du Québec en Outaouais – Gatineau, Canada"}]
 ---
 
 Chaque soir, après les heures de fermeture, les employés du Musée des

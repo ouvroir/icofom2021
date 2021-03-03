@@ -1,6 +1,6 @@
 ---
 title: "Africamuseum : réorganisation"
-authors: [{name:"Christine Bluard", institution:"Musée royal de l’Afrique centrale (Africamuseum) -- Tervuren, Belgique"}]
+authors: [{name: "Christine Bluard", institution: "Musée royal de l’Afrique centrale (Africamuseum) – Tervuren, Belgique"}]
 ---
 
 Le Musée royal de l’Afrique centrale est un musée et un institut

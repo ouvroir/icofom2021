@@ -1,6 +1,6 @@
 ---
 title: "La décolonisation et l’autochtonisation de la muséologie. Le cas du Musée McCord à Tiohtiá:ke/Montréal"
-authors: [{name: "Marie-Charlotte Franco", institution:"Centre interuniversitaire de recherches et d’études autochtones (CIÉRA) affiliée au département d’anthropologie de l’Université de Montréal – Montréal, Canada" }]
+authors: [{name: "Marie-Charlotte Franco", institution: "Centre interuniversitaire de recherches et d’études autochtones (CIÉRA) affiliée au département d’anthropologie de l’Université de Montréal – Montréal, Canada" }]
 ---
 
 Le processus de décolonisation et d’autochtonisation dans les musées au

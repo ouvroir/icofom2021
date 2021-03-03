@@ -1,8 +1,8 @@
 ---
 title: "Experimental Museology, its Principles and Practices: The Creation of the LGBTI+ Memory and Training Center"
-authors: [{name:"Silvilene Barros", institution:"Universidade Federal do Estado do Rio de Janeiro – Rio de Janeiro, Brazil"},
-{name:"Carolina Zanesi", institution:"Universidade Federal do Estado do Rio de Janeiro – Rio de Janeiro, Brazil"},
-{name:"Marina Pinheiro", institution:"Universidade Federal do Estado do Rio de Janeiro – Rio de Janeiro, Brazil"}]
+authors: [{name: "Silvilene Barros", institution: "Universidade Federal do Estado do Rio de Janeiro – Rio de Janeiro, Brazil"},
+{name: "Carolina Zanesi", institution: "Universidade Federal do Estado do Rio de Janeiro – Rio de Janeiro, Brazil"},
+{name: "Marina Pinheiro", institution: "Universidade Federal do Estado do Rio de Janeiro – Rio de Janeiro, Brazil"}]
 ---
 
 In this short paper, we bring together a description of the experience

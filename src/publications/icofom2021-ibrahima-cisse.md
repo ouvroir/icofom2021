@@ -1,6 +1,8 @@
 ---
 title: "La question du retour des objets sénégalais des musées européens : enjeux, stratégies d’intervention, expertises muséologiques et négociations diplomatiques"
-authors: [{name:"Ibrahima Cisse", institution:"Doctorant en muséologie, médiation patrimoine au sein de la Chaire sur la gouvernance des musées et le droit de la culture de l’Université du Québec à Montréal, Canada"}]
+authors: [{
+  name: "Ibrahima Cisse", 
+  institution: "Doctorant en muséologie, médiation patrimoine au sein de la Chaire sur la gouvernance des musées et le droit de la culture de l’Université du Québec à Montréal – Canada"}]
 ---
 
 Les États coloniaux de pays africains (Portugal, France, Allemagne,

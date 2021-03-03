@@ -1,6 +1,6 @@
 ---
 title: "Perspective Agoniste : Proposition pour l’Inclusion des Communautés Culturelles et leur Participation dans les Musées"
-authors: [{name:"Rébéca Lemay-Perreault", institution: "Université du Québec à Montréal – Montréal, Canada"}, {name:"Maryse Paquin", institution:"Université du Québec à Trois-Rivières – Trois-Rivières, Canada"}]
+authors: [{name: "Rébéca Lemay-Perreault", institution: "Université du Québec à Montréal – Montréal, Canada"}, {name: "Maryse Paquin", institution: "Université du Québec à Trois-Rivières – Trois-Rivières, Canada"}]
 ---
 
 Depuis plusieurs années déjà, le musée s’est engagé dans un processus de

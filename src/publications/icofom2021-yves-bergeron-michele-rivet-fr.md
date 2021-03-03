@@ -1,6 +1,6 @@
 ---
 title: "La décolonisation de la muséologie : musées, métissages et mythes d’origine"
-authors: [{name:"Yves Bergeron", institution:"Titulaire de la Chaire UQAM sur la gouvernance des musées et le droit de la culture"}, {name:"Michèle Rivet, C.M.", institution:"Vice-présidente du Musée canadien pour les droits de la personne, Membre du CA ICOM-Canada" }]
+authors: [{name: "Yves Bergeron", institution: "Titulaire de la Chaire UQAM sur la gouvernance des musées et le droit de la culture"}, {name: "Michèle Rivet, C.M.", institution: "Vice-présidente du Musée canadien pour les droits de la personne, Membre du CA ICOM-Canada" }]
 ---
 
 >  Le concept de « propriété » est nouveau dans notre histoire. Il était

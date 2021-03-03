@@ -1,6 +1,6 @@
 ---
 title: "Musealization is an Indigenous Business: Reflections About Objects and Subjects in the Museological Chain of the Indian Museum of Rio de Janeiro"
-authors: [{name:"Leandro Guedes", institution:"Federal University of Rio de Janeiro State – Rio de Janeiro, Brazil"}]
+authors: [{name: "Leandro Guedes", institution: "Federal University of Rio de Janeiro State – Rio de Janeiro, Brazil"}]
 ---
 
 Over the 1970’s, the Czech museologist Zbynek Zbyslav Stránský

@@ -1,6 +1,6 @@
 ---
 title: "Les musées et le métissage culturel *intra muros* à l’heure du vivre-ensemble: bousculer les conventions"
-authors: [{name:"Jean-François Gauvin", institution:"Université Laval – Québec, Canada"}, {name:"Manon Joly", institution:"Université Laval – Québec, Canada"}, {name:"Marie-Kim Gagnon", institution:"Université Laval – Québec, Canada"}]
+authors: [{name: "Jean-François Gauvin", institution: "Université Laval – Québec, Canada"}, {name: "Manon Joly", institution: "Université Laval – Québec, Canada"}, {name: "Marie-Kim Gagnon", institution: "Université Laval – Québec, Canada"}]
 ---
 
 Dans son plus récent ouvrage, *Why trust science ?*, Naomi Oreskes

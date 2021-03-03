@@ -1,6 +1,6 @@
 ---
 title: "Negotiating the Decolonisation of National Museums in Zimbabwe"
-authors: [{name:"Simbarashe Shadreck Chitima", institution:"Midlands State University-Gweru, Zimbabwe"}]
+authors: [{name: "Simbarashe Shadreck Chitima", institution: "Midlands State University-Gweru – Zimbabwe"}]
 ---
 
 ## Abstract

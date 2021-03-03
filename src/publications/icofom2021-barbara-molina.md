@@ -3,7 +3,7 @@ title: "La representación andina en los museos etnológicos europeos"
 authors: [
   {
     name: "Bárbara Molina",
-    institution: "Universidad de Barcelona-España"
+    institution: "Universidad de Barcelona – España"
   }
 ]
 ---

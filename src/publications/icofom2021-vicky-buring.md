@@ -1,6 +1,6 @@
 ---
 title: "L’exposition *Le modèle noir : de Géricault à Matisse* au Musée d’Orsay, un exercice de décolonisation dans un musée de beaux-arts ?"
-authors: [{name: "Vicky Buring", institution:"École du Louvre – Paris, France"}]
+authors: [{name: "Vicky Buring", institution: "École du Louvre – Paris, France"}]
 ---
 
 ## Préambule

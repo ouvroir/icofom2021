@@ -1,6 +1,6 @@
 ---
 title: "Colonial Collections and Restitution issues – The State of a Global Debate"
-authors: [{name:"Jos van Beurden", institution:"Free University, Amsterdam, the Netherlands"}]
+authors: [{name: "Jos van Beurden", institution: "Free University – Amsterdam, the Netherlands"}]
 ---
 
 During five centuries of European colonial expansion, a massive flow of

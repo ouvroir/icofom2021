@@ -1,6 +1,6 @@
 ---
 title: "Le musée face à l’héritage colonial : un *pharmakon* ?"
-authors: [{name:"Fanny Fouché", institution:"École du Louvre, Paris, France/IHAM, Université de Neuchâtel, Suisse"}]
+authors: [{name:"Fanny Fouché", institution:"École du Louvre – Paris, France/IHAM, Université de Neuchâtel, Suisse"}]
 ---
 
 L’énigme posée par la restitution de l’art africain presque

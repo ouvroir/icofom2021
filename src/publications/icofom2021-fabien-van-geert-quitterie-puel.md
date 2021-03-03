@@ -1,7 +1,7 @@
 ---
 title: "Le centre culturel Tjibaou, ou les complexités d’incarner le « destin commun » pluriethnique néo-calédonien"
 authors: [{name: "Fabien Van Geert", institution: "Université Sorbonne Nouvelle – Paris, France"},
-{name: "Quitterie Puel", institution: "Chercheuse indépendante, Perth, Australie"}]
+{name: "Quitterie Puel", institution: "Chercheuse indépendante – Perth, Australie"}]
 ---
 
 En politique, rien n’est possible sans références culturelles, sans la

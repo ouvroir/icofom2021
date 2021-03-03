@@ -1,6 +1,6 @@
 ---
 title: "Les musées africains et le patrimoine immatériel : quelques pistes pour une nouvelle muséologie"
-authors: [{name: "Cossi Zéphirin Daavo", istitution: "Ministère du Tourisme, de la Culture et des Arts (MTCA), Cotonou, Bénin"}]
+authors: [{name: "Cossi Zéphirin Daavo", institution: "Ministère du Tourisme, de la Culture et des Arts (MTCA) – Cotonou, Bénin"}]
 ---
 
 La diffusion de la culture africaine en Europe a commencé pendant la
