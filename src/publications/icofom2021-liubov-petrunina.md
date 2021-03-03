@@ -24,7 +24,7 @@ guest issue editor, they do not clarify situation faced by many museums,
 but rather raise even more questions (Mairesse 2018).
 
 In the last two decades in Russia a scientific direction has arisen that
-regards a museum as a [social]{.ul} institution (Petrunina 1991, Aculych
+regards a museum as a *social* institution (Petrunina 1991, Aculych
 2004q etc.). This point of view has been based on the deep historical
 analysis of the process of organizing museums in our country. Thus, the
 art collector’s movement that emerged in the 18^th^ century under the
@@ -37,8 +37,8 @@ In the second half of the 19^th^ century, after the reforms of Emperor
 Alexander II which significantly changed the economic system of Russia,
 we observe the increasing activity of various social groups. The new
 class of industrialists and traders that established itself in the
-economy came to the forefront of cultural life and [used museums to
-demonstrate its significance in the society]{.ul}. At that time such
+economy came to the forefront of cultural life and *used museums to
+demonstrate its significance in the society*. At that time such
 museums as the Historical Museum in Moscow, the Ostroukhov Gallery and
 the Moscow City Art Gallery of the Tretyakov brothers were founded.
 
@@ -50,8 +50,8 @@ merchants, etc. Societies of art amateurs appeared in Astrakhan',
 Vladimir, Kazan', Saratov, Smolensk, Odessa, Kharkov, Novgorod
 (Bityatskaya 1953, Pivnenko 1990, etc.), and on the basis of those
 societies the new self-sufficient museums were founded. The emergence of
-such a network of museums [reflected the claims of these intellectual
-groups to enhance their role in culture and society]{.ul}.
+such a network of museums reflected the claims of these intellectual
+groups to enhance their role in culture and society.
 
 This pre-revolutionary network of museums had become the basis of the
 state museum network in Soviet Russia. Unified in accordance with the
@@ -155,10 +155,10 @@ transfer of knowledge and memory, allowing everybody to gain identity.
 - Aculych Е.М. (2004*). Muzey kak sotsialnyi institut* \[Museum as a
   Social Institution\]. Ph.D. (Sociology). Thesis. Retrieved on March
   14, 2019 from
-  [[http://www.dissercat.com/content/muzei-kak-sotsialnyi-institut\#ixzz5fj2mh2bC]{.ul}](http://www.dissercat.com/content/muzei-kak-sotsialnyi-institut#ixzz5fj2mh2bC)
+  [http://www.dissercat.com/content/muzei-kak-sotsialnyi-institut\#ixzz5fj2mh2bC](http://www.dissercat.com/content/muzei-kak-sotsialnyi-institut#ixzz5fj2mh2bC)
 - Association of cultural managers. News. Retrieved on April 24, 2019
   from
-  [http://amcult.ru/news/v-seminare-po-proektirovaniju-festivalja-primut-uchastie-25-chastnyh-muzeev]{.ul}
+  [<http://amcult.ru/news/v-seminare-po-proektirovaniju-festivalja-primut-uchastie-25-chastnyh-muzeev>
 
 - Bityatskaya S.I. (1953). *Materialiy po istoriy russkogo
   kollekstionirovaniya*. \[Materials on the history of Russian
@@ -173,13 +173,13 @@ transfer of knowledge and memory, allowing everybody to gain identity.
   Nauchno-metodicheskiy elektronnyi zhurnal "Kontsept' \[Scientific and
   Methodological Electronic Journal "Concept"\]. Т. 2. (pp.476--480).
   Retrieved on March 14, 2019 from
-  [[http://ekoncept.ru/2016/46114.html]{.ul}](http://ekoncept.ru/2016/46114.html)
+  [http://ekoncept.ru/2016/46114.html](http://ekoncept.ru/2016/46114.html)
 
 - Lapteva, М.А. (2006). *Muzey kak sotsialnyi institut.
   Sotsialno-filosofskyi analiz \[*Museum as a Social Institution.
   Socio-Philosophical Analysis\]. Ph.D. (Philosophy). Thesis. Retrieved
   on March 14, 2019 from
-  [<http://cheloveknauka.com/muzey-kak-sotsialnyy-institut#ixzz5fmATmNOa>]{.ul}
+  <http://cheloveknauka.com/muzey-kak-sotsialnyy-institut#ixzz5fmATmNOa>
 
 - Mairesse, F. (2018). The politics and poetics of Museology. (17-23).
   *ICOFOM Study Series*, 46, Paris.
@@ -191,7 +191,7 @@ transfer of knowledge and memory, allowing everybody to gain identity.
   institut khudozhestvennoy kultury* \[Fine Art Museum as a Social
   Institution of Artistic Culture\]. Ph.D. (Philosophy). Thesis.
   Retrieved on March 14, 2019 from
-  [<http://cheloveknauka.com/muzey-izobrazitelnyh-iskusstv-kak-sotsialnyy-institut-hudozhestvennoy-kultury>]{.ul}
+  <http://cheloveknauka.com/muzey-izobrazitelnyh-iskusstv-kak-sotsialnyy-institut-hudozhestvennoy-kultury>
 
 - Pivnenko А. S. (1990). *Khudozhestvennay zhizn' Khar'kova vo vtoroy
   polovine XIX -- nachale XX veka (do 1917).* \[The artistic life of the

@@ -239,7 +239,7 @@ to urbanized groups.
 - Rozental y Rufer. (2016). Río Congo: El corazón de las tinieblas en el
   Museo Nacional de Antropología. March 8, 2020. In *Horizontal*.
   Retrieved from
-  [[https://horizontal.mx/rio-congo-en-el-museo-nacional-de-antropologia/]{.ul}](https://horizontal.mx/rio-congo-en-el-museo-nacional-de-antropologia/).
+  [https://horizontal.mx/rio-congo-en-el-museo-nacional-de-antropologia/](https://horizontal.mx/rio-congo-en-el-museo-nacional-de-antropologia/).
 
 - Spiridon & Sandu. (2016). Museums in the Life of the Public.
   *International Journal of Conservation Science*. Jan-Mar 2016, Vol. 7

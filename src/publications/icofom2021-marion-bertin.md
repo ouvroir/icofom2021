@@ -164,7 +164,7 @@ pleinement atteint.
 - Comité permanent pour la définition du musée, perpectives et potentiels
   (MDPP) (2018). Recommandations adoptées par le conseil d'administration.
   *ICOM*. Page consultée le 24 mai 2020, à l'adresse :
-  [[https://icom.museum/wp-content/uploads/2019/01/MDPP-report-and-recommendations-adopted-by-the-ICOM-EB-December-2018_FR.pdf]{.ul}](https://icom.museum/wp-content/uploads/2019/01/MDPP-report-and-recommendations-adopted-by-the-ICOM-EB-December-2018_FR.pdf).
+  [https://icom.museum/wp-content/uploads/2019/01/MDPP-report-and-recommendations-adopted-by-the-ICOM-EB-December-2018_FR.pdf](https://icom.museum/wp-content/uploads/2019/01/MDPP-report-and-recommendations-adopted-by-the-ICOM-EB-December-2018_FR.pdf).
 - Deliss, C. & Mutumba, Y. (Dir.) (2014). *Foreign exchange (or the
   stories you wouldn't tell a stranger)*. Zurich : Diaphanes.
 
@@ -204,10 +204,10 @@ pleinement atteint.
 - Rachet, O. (21 novembre 2019). Le plaidoyer de Nanette Snoe pour une
   décolonisation collaborative des arts. *The Art Newspaper*. Page
   consultée le 28 mai 2020 à l'adresse :
-  [[https://www.artnewspaper.fr/comment/le-plaidoyer-de-nanette-snoep-pour-une-decolonisation-collaborative-des-arts]{.ul}](https://www.artnewspaper.fr/comment/le-plaidoyer-de-nanette-snoep-pour-une-decolonisation-collaborative-des-arts).
+  [https://www.artnewspaper.fr/comment/le-plaidoyer-de-nanette-snoep-pour-une-decolonisation-collaborative-des-arts](https://www.artnewspaper.fr/comment/le-plaidoyer-de-nanette-snoep-pour-une-decolonisation-collaborative-des-arts).
 - Viso, O. (1er mai 2018). Decolonizing the Art Museum: The Next Wave.
   *The New York Times*. Page consultée le 28 mai 2020 à l'adresse :
-  [[https://www.nytimes.com/2018/05/01/opinion/decolonizing-art-museums.html?fbclid=IwAR09yceAlx5_WGiqWC9z-5p9N_PgvtO_q-prPySRw4UvdxSqCP5vRI5qVb4]{.ul}](https://www.nytimes.com/2018/05/01/opinion/decolonizing-art-museums.html?fbclid=IwAR09yceAlx5_WGiqWC9z-5p9N_PgvtO_q-prPySRw4UvdxSqCP5vRI5qVb4).
+  [https://www.nytimes.com/2018/05/01/opinion/decolonizing-art-museums.html?fbclid=IwAR09yceAlx5_WGiqWC9z-5p9N_PgvtO_q-prPySRw4UvdxSqCP5vRI5qVb4](https://www.nytimes.com/2018/05/01/opinion/decolonizing-art-museums.html?fbclid=IwAR09yceAlx5_WGiqWC9z-5p9N_PgvtO_q-prPySRw4UvdxSqCP5vRI5qVb4).
 
 - Zimmermann, P. (26 novembre 2019). Le Musée d'ethnographie prend un
   nouveau cap. *La Tribune de Genève*. Page consultée le 24 mai 2020, à

@@ -13,8 +13,8 @@ l’angle des Peuples Premiers.
 La colonisation du Canada par la France et l’Angleterre s’est faite
 souvent avec l’extinction des Autochtones qui y étaient installés. Parce
 que l’on croyait que la culture autochtone était sur le point de
-disparaître (Silverman), les anthropologues à la fin du 19^e^ et au
-début du 20^e^ siècle, ont ramené dans les musées des milliers d’objets,
+disparaître (Silverman), les anthropologues à la fin du 19<sup>e</sup> et au
+début du 20<sup>e</sup> siècle, ont ramené dans les musées des milliers d’objets,
 participant ainsi parfois à la destruction même de ces cultures
 (Phillips).
 
@@ -45,8 +45,8 @@ de réconciliation et remettra un rapport à l’automne 2021.
 La décolonisation repose sur la reconstruction des relations,
 l’établissement de partenariat et la « bonne façon » de faire les
 choses, comme bien des Aînés le disent. Les principes fondamentaux en
-sont le [respect]{.ul}, la [réciprocité]{.ul} et
-l’[interconnexion]{.ul}. (Rivet, 2019).
+sont le **respect**, la **réciprocité** et
+l’**interconnexion**. (Rivet, 2019).
 
 Le **respect** consiste à honorer, à prendre en compte les autres êtres
 vivants et à reconnaitre la tradition et lui donner toute sa portée.
@@ -171,7 +171,7 @@ Ces réflexions se font à l’aune de la transdisciplinarité.
 - Brulon-Soares, B., (2015). L’invention et la réinvention de la
   Nouvelle Muséologie dans Nouvelles tendances de la muséologie, (dir.
   Mairesse. F.) ICOFOM Study Series 43.
-  [[https://doi.org/10.4000/iss.563]{.ul}](https://doi.org/10.4000/iss.563)
+  [https://doi.org/10.4000/iss.563](https://doi.org/10.4000/iss.563)
 - Clavir, M. (2002). Preserving What is Valued: Museums, Conservation,
   and First Nations. Vancouver, UBC Press.
 
@@ -187,13 +187,13 @@ Ces réflexions se font à l’aune de la transdisciplinarité.
 
 - Hakiwai, A, McCarthy, C., Schorch, P. (2016). Globalizing Māori
   Museology: Reconceptualizing Engagement, Knowledge, and Virtuality
-  through Mana Taonga, [*[Museum
-  Anthropology]{.ul}*](https://www.researchgate.net/journal/1548-1379_Museum_Anthropology), 39(1).
+  through Mana Taonga, [*Museum
+  Anthropology*](https://www.researchgate.net/journal/1548-1379_Museum_Anthropology), 39(1).
 
-- Jerôme, L., Kaine, E. (2014). [[Représentations de soi et
+- Jerôme, L., Kaine, E. (2014). [Représentations de soi et
   décolonisation dans les musées : quelles voix pour les objets de
   l’exposition C’est notre histoire. Premières Nations et Inuit
-  du XXIe siècle?]{.ul}](https://www.erudit.org/fr/revues/as/2014-v38-n3-as01745/1029026ar/)
+  du XXIe siècle ?](https://www.erudit.org/fr/revues/as/2014-v38-n3-as01745/1029026ar/)
   Vue de l’autre, voix de l’objet : matérialiser l’immatériel dans
   les musées, *Anthropologie et société*, 38 (3), 231-254.
 
@@ -233,9 +233,9 @@ Ces réflexions se font à l’aune de la transdisciplinarité.
 
 - Museum of New Zeland Te Papa Tongarewa, Statement of Intent,
   2017-2022.
-  [[https://www.tepapa.govt.nz/sites/default/files/tp_statement_of_intent_20172021_online_002.pd)
+  [https://www.tepapa.govt.nz/sites/default/files/tp_statement_of_intent_20172021_online_002.pd)
   (
-  Page]{.ul}](https://www.tepapa.govt.nz/sites/default/files/tp_statement_of_intent_20172021_online_002.pd)%20(%20Page)
+  Page](https://www.tepapa.govt.nz/sites/default/files/tp_statement_of_intent_20172021_online_002.pd)%20(%20Page)
   consultée le 2 mai 2020).
 
 [^1]: Le traité est signé en 2000. Plusieurs autres traités le seront par la suite.

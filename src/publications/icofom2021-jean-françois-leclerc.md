@@ -139,16 +139,16 @@ et de singulier (Bouchard, Taylor 2008).
 ## Références
 
 - Bergeron, Y. (2010), L’invisible objet de l’exposition dans les
-  musées de société en Amérique du Nord, [*[Ethnologie
-  française]{.ul}*](https://www.cairn.info/revue-ethnologie-francaise.htm) [[/3
+  musées de société en Amérique du Nord, [*Ethnologie
+  française*](https://www.cairn.info/revue-ethnologie-francaise.htm) [/3
   (Vol.
-  40)]{.ul}](https://www.cairn.info/revue-ethnologie-francaise-2010-3.htm),
+  40)](https://www.cairn.info/revue-ethnologie-francaise-2010-3.htm),
   401 à 411.
 - Boily, F. (2012), Retour sur la Commission Bouchard-Taylor ou les
   difficultés de fonder l’avenir sur le pluralisme intégrateur,
   *International Journal of Canadian Studies / Revue internationale
   d’études canadiennes,* 45-46, 219-237. Page consultée le 22 mars 2020,
-  [[http://id.erudit.org/iderudit/1009904ar]{.ul}](http://id.erudit.org/iderudit/1009904ar).
+  [http://id.erudit.org/iderudit/1009904ar](http://id.erudit.org/iderudit/1009904ar).
 
 - Bouchard, G & Taylor, C. (2008), *Fonder l’avenir : le temps de la
   réconciliation, Rapport de la Commission de consultation sur les
@@ -159,12 +159,12 @@ et de singulier (Bouchard, Taylor 2008).
   l’exposition muséale. L’expérience du Centre d’histoire de Montréal,
   *Revue d’histoire de l’Amérique française*, 69, 1--2, Été-Automne
   2015, 99--136. Page consultée le 17 mars 2020,
-  [[https://www.erudit.org/fr/revues/haf/2015-v69-n1-2-haf02314/1034591ar/]{.ul}](https://www.erudit.org/fr/revues/haf/2015-v69-n1-2-haf02314/1034591ar/).
+  [https://www.erudit.org/fr/revues/haf/2015-v69-n1-2-haf02314/1034591ar/](https://www.erudit.org/fr/revues/haf/2015-v69-n1-2-haf02314/1034591ar/).
 
 - Guzin Lukić, N. (2005), La représentation des immigrants dans l’espace
   muséal et patrimonial de Québec, *Ethnologies,* 27, 1, 223-243. Page
   consultée le 11 mars
-  2020,1[[https://www.erudit.org/fr/revues/ethno/2005-v27-n1-ethno1438/014028ar/]{.ul}](https://www.erudit.org/fr/revues/ethno/2005-v27-n1-ethno1438/014028ar/).
+  2020,1 [https://www.erudit.org/fr/revues/ethno/2005-v27-n1-ethno1438/014028ar/](https://www.erudit.org/fr/revues/ethno/2005-v27-n1-ethno1438/014028ar/).
 
 - Fourcade, M.-B. (2011), *Habiter l’Arménie au Québec. Ethnographie
   d’un patrimoine en diaspora*, Presses de l’Université du Québec.
@@ -177,13 +177,13 @@ et de singulier (Bouchard, Taylor 2008).
   patrimoine commun*, Nos diverses cités,* 7, 104-109.
 
 - Leclerc, J.-F., (2017), Mémoire, histoire, fleurs bleues et quelques
-  exils, [*[TicArtToc,]{.ul}*
-  [Diversité/Arts/Réflexion(s)]{.ul}](https://www.erudit.org/fr/revues/ticarttoc/),
+  exils, *TicArtToc,*
+  [Diversité/Arts/Réflexion(s)](https://www.erudit.org/fr/revues/ticarttoc/),
   9, 2017, 4-71.
 
 - Leclerc, J.-F., (2019), Témoins discrets, Continuité, 159,
-  [*[Patrimoine et diversité. La rencontre en
-  héritage]{.ul}*](https://www.erudit.org/fr/revues/continuite/2019-n159-continuite04263/),
+  [*Patrimoine et diversité. La rencontre en
+  héritage*](https://www.erudit.org/fr/revues/continuite/2019-n159-continuite04263/),
   Hiver 2019, 24-26.
 
 - Lefebvre, S. & St-Laurent (dir.) (2018), *Dix ans plus tard : La
@@ -192,11 +192,11 @@ et de singulier (Bouchard, Taylor 2008).
 
 - Le Hégarat, T., (2015.) Un historique de la notion de patrimoine. Page
   consultée le 15 mars 2020,
-  [<https://halshs.archives-ouvertes.fr/halshs-01232019/document>.]{.ul}
+  <https://halshs.archives-ouvertes.fr/halshs-01232019/document>.
 
 - Micone, M. (2011, 16 novembre), Italophones en sol québécois - Un
   parcours cahoteux, *Le Devoir,* Page consultée le 3 avril 2020,
-  [[http://www.ledevoir.com/international/europe/336180/italophones-en-sol-quebecois-un-parcours-cahoteux.]{.ul}](http://www.ledevoir.com/international/europe/336180/italophones-en-sol-quebecois-un-parcours-cahoteux.)
+  [http://www.ledevoir.com/international/europe/336180/italophones-en-sol-quebecois-un-parcours-cahoteux.](http://www.ledevoir.com/international/europe/336180/italophones-en-sol-quebecois-un-parcours-cahoteux.)
 
 [^1]: À titre d’historien, de muséologue et de directeur de cette institution de la Ville de Montréal de 1996 à 2018.
 
@@ -204,4 +204,4 @@ et de singulier (Bouchard, Taylor 2008).
 
 [^3]: « La notion même de communauté italienne devient de plus en plus inapplicable dans l’espace montréalais. Des 299 660 Québécois d’origine ethnique italienne (dont 42 % d’origine mixte), au recensement de 2006, 71,5 % étaient nés sur place, tandis que la très grande majorité des autres a immigré et vit au Québec depuis au moins 30 ans. Chacun a été façonné ici par son milieu de vie ou de travail. Leur identité se décline désormais dans toutes les nuances du métissage. »
 
-[^4]: Voir Mémoires d’immigrations : [[https://ville.montreal.qc.ca/memoiresdesmontrealais/memoires-dimmigrations]{.ul}](https://ville.montreal.qc.ca/memoiresdesmontrealais/memoires-dimmigrations)
+[^4]: Voir Mémoires d’immigrations : [https://ville.montreal.qc.ca/memoiresdesmontrealais/memoires-dimmigrations](https://ville.montreal.qc.ca/memoiresdesmontrealais/memoires-dimmigrations)

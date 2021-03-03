@@ -196,7 +196,7 @@ impacts réels de ces diverses initiatives.
 - Ndiaye, Pap, & Ndiaye, Marie. (2009). *La condition noire:* essai sur
   une minorité française. Paris, France: Gallimard.
 
-[^1]: Murrell, Denise M. « Seeing Laure: Race and Modernity from Manet’s Olympia to Matisse, Bearden and Beyond ». Columbia University, 2014.  [[https://doi.org/10.7916/D8MK69VP]{.ul}](https://doi.org/10.7916/D8MK69VP).
+[^1]: Murrell, Denise M. « Seeing Laure: Race and Modernity from Manet’s Olympia to Matisse, Bearden and Beyond ». Columbia University, 2014.  [https://doi.org/10.7916/D8MK69VP](https://doi.org/10.7916/D8MK69VP).
 
 [^2]: Edouard Manet, *Olympia*¸ 1863, huile sur toile, Musée d’Orsay.
 
@@ -204,4 +204,4 @@ impacts réels de ces diverses initiatives.
 
 [^4]: Cécile Debray, entretien du 24/03/2020.
 
-[^5]: [[https://www.rijksmuseum.nl/en/research/terminology]{.ul}](https://www.rijksmuseum.nl/en/research/terminology),  consulté le 27/03/2020.
+[^5]: [https://www.rijksmuseum.nl/en/research/terminology](https://www.rijksmuseum.nl/en/research/terminology),  consulté le 27/03/2020.

@@ -174,7 +174,7 @@ also feeds back the ceramists\' inspiration and craftsmanship.
 - Leitão, R. M. (2012). *As bonecas de cerâmica Karajá e a pedagogia das
   ceramistas mestras: diálogos possíveis entre saberes de tradição oral
   e saberes baseados na escrita*. Retrieved May 30, 2020 from
-  [[http://www.29rba.abant.org.br/resources/anais/1/1402922836_ARQUIVO_ARTIGO-BONECASKARAJA1(SalvoAutomaticamente).pdf]{.ul}](http://www.29rba.abant.org.br/resources/anais/1/1402922836_ARQUIVO_ARTIGO-BONECASKARAJA1(SalvoAutomaticamente).pdf)
+  [http://www.29rba.abant.org.br/resources/anais/1/1402922836_ARQUIVO_ARTIGO-BONECASKARAJA1(SalvoAutomaticamente).pdf](http://www.29rba.abant.org.br/resources/anais/1/1402922836_ARQUIVO_ARTIGO-BONECASKARAJA1(SalvoAutomaticamente).pdf)
 
 - Macdougall, B. & Carlson, M.T. (2009). West side stories. The blending
   of voice and representation through a shared curatorial practice. In:
@@ -192,7 +192,7 @@ also feeds back the ceramists\' inspiration and craftsmanship.
   Filme Cultura. In: *XVIII Encontro Nacional de Pesquisa em Ciência da
   Informação*. Anais...\[\...\]. Marília: Unesp. Retrieved January 14,
   2019 from
-  [[http://enancib.marilia.unesp.br/index.php/xviiienancib/ENANCIB/paper/view/472/300]{.ul}](http://enancib.marilia.unesp.br/index.php/xviiienancib/ENANCIB/paper/view/472/300).
+  [http://enancib.marilia.unesp.br/index.php/xviiienancib/ENANCIB/paper/view/472/300](http://enancib.marilia.unesp.br/index.php/xviiienancib/ENANCIB/paper/view/472/300).
 
 - Silva, F. A. (2012). Os Asurini do Xingu no Museu de Arqueologia e
   Etnologia da Universidade de São Paulo (MAE-USP). In: Cury, M., C,
@@ -203,7 +203,7 @@ also feeds back the ceramists\' inspiration and craftsmanship.
 - UNESCO. (2015). *Recommendation concerning the Protection and
   Promotion of Museums and Collections*, their Diversity and their Role
   in Society. Paris, France: UNESCO. Retrieved May 29, 2020 from
-  [[http://unesdoc.unesco.org/images/0024/002471/247152por.pdf]{.ul}](http://unesdoc.unesco.org/images/0024/002471/247152por.pdf)
+  [http://unesdoc.unesco.org/images/0024/002471/247152por.pdf](http://unesdoc.unesco.org/images/0024/002471/247152por.pdf)
 
 - Vidal, L.B. Kuahí. (2013). *The Indians of the lower Oiapoque and
   their museum*. Vibrant, 10 (1): 387-423.

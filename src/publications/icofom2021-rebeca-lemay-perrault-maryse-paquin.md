@@ -171,7 +171,7 @@ années.
 - Laur, E. (2016). *Mesure de la participation des Québécoises et des
   Québécois des minorités ethnoculturelles. Rapport*. Québec : Ministère
   de l’Immigration, de la Diversité et de l’Inclusion.
-  [[http://www.mifi.gouv.qc.ca/publications/fr/recherches-statistiques/RAP_Mesure_participation_2016.pdf]{.ul}](http://www.mifi.gouv.qc.ca/publications/fr/recherches-statistiques/RAP_Mesure_participation_2016.pdf)
+  [http://www.mifi.gouv.qc.ca/publications/fr/recherches-statistiques/RAP_Mesure_participation_2016.pdf](http://www.mifi.gouv.qc.ca/publications/fr/recherches-statistiques/RAP_Mesure_participation_2016.pdf)
   Page consultée le 20 mars 2020.
 
 - Lynch, B. (2017). Disturbing the Peace: Museums, Democracy and
@@ -181,7 +181,7 @@ années.
 - Mathios, D. A. (2015). *Collaborating with Chicago Urban Communities:
   The Unforeseen Challenges of Better Museum Practices*. Doctoral thesis
   in Social Sciences. University of Denver.
-  [[https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1404&context=etd]{.ul}](https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1404&context=etd)
+  [https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1404&context=etd](https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1404&context=etd)
   Page consultée le 17 mars 2020.
 
 - Montpetit, R. (1995). Les musées et les savoirs : partager des
@@ -208,7 +208,7 @@ années.
 
 - Statistique Canada (2017). *Immigration et diversité : projections de
   la population du Canada et de ses régions, 2011 à 2036*.
-  [<https://www150.statcan.gc.ca/n1/pub/91-551-x/91-551-x2017001-fra.htm>]{.ul}
+  <https://www150.statcan.gc.ca/n1/pub/91-551-x/91-551-x2017001-fra.htm>
   Page consultée le 18 avril 2020.
 
 [^1]: Traduction libre.

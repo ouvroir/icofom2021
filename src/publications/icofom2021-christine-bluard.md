@@ -170,7 +170,7 @@ artistes qui vivent en Belgique ou en Europe.
 
 - Deliss, C. (2019, mai 03). *Atelier "Everything passes except the
   past"*, Goethe Institut Brussels. Page consultee le 31 mai 2020,
-  [[https://www.goethe.de/ins/be/en/kul/prj/ave.html]{.ul}](https://www.goethe.de/ins/be/en/kul/prj/ave.html).
+  [https://www.goethe.de/ins/be/en/kul/prj/ave.html](https://www.goethe.de/ins/be/en/kul/prj/ave.html).
 
 - Ekete, E., Tsimba, F. & Bluard, C. (2018). Artist residencies. Dans G.
   Noack & I. de Castro, *Co-creation Labs*. (pp.50-69). Stuttgart:
@@ -184,7 +184,7 @@ artistes qui vivent en Belgique ou en Europe.
   Rietberg Zürich: Schiedegger & Spiess.
 - Savoy, B. (2019, Mars 22). *A qui rendre*. Page consultée le 15 mai
   2020,
-  [[https://www.college-de-france.fr/site/benedicte-savoy/course-2019-03-22-11h00.htm]{.ul}](https://www.college-de-france.fr/site/benedicte-savoy/course-2019-03-22-11h00.htm)
+  [https://www.college-de-france.fr/site/benedicte-savoy/course-2019-03-22-11h00.htm](https://www.college-de-france.fr/site/benedicte-savoy/course-2019-03-22-11h00.htm)
 
 [^1]: Chéri Samba, *Réorganisation*. 2002. Acrylique sur toile. Coll. RMCA. Tableau présenté dans les collections permanentes Africamuseum, Tervuren. Ceuppens, B. (2016). (p.166).
 
@@ -196,4 +196,4 @@ artistes qui vivent en Belgique ou en Europe.
 
 [^5]: Deliss, C. (2019).
 
-[^6]: Bluard, C. (2016) -- Bluard, C. (2018) - [[https://www.africamuseum.be/fr/get_involved/artists]{.ul}](https://www.africamuseum.be/fr/get_involved/artists)
+[^6]: Bluard, C. (2016) -- Bluard, C. (2018) - [https://www.africamuseum.be/fr/get_involved/artists](https://www.africamuseum.be/fr/get_involved/artists)

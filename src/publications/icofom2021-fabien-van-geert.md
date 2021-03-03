@@ -184,7 +184,7 @@ explicative universelle?
   the Museum of Anthropology, University of British Columbia, Vancouver,
   Canada, 2019-2021. *16th EASA Biennal Conference-New anthropological
   horizons in and beyond Europe,* Page consultée le 19 mars 2020,
-  [[https://nomadit.co.uk/conference/easa2020/paper/53337]{.ul}](https://nomadit.co.uk/conference/easa2020/paper/53337).
+  [https://nomadit.co.uk/conference/easa2020/paper/53337](https://nomadit.co.uk/conference/easa2020/paper/53337).
 
 - Quijano, A. (1992). Colonialidad y modernidad/racionalidad. *Perú
   Indígena*, 13/29, 11-20.
@@ -195,7 +195,7 @@ explicative universelle?
 
 - Schoenberger, E. (2019, 7 février). What does it mean to decolonize a
   museum? *MuseumNext*. Page consultée le 20 mars 2020,
-  [[https://www.museumnext.com/article/what-does-it-mean-to-decolonize-a-museum/]{.ul}](https://www.museumnext.com/article/what-does-it-mean-to-decolonize-a-museum/).
+  [https://www.museumnext.com/article/what-does-it-mean-to-decolonize-a-museum/](https://www.museumnext.com/article/what-does-it-mean-to-decolonize-a-museum/).
 
 - Shelton, A. (2013). Critical Museology. A Manifesto. *Museum Worlds
   Advances in Research*, 1/1, 7-23.

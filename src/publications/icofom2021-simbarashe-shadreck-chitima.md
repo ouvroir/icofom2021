@@ -176,7 +176,7 @@ educational philosophy, language and methods of content delivery.
 
 - Mbembe, A. (2015). *Decolonizing knowledge and the question of the
   archive*. Retrieved from
-  [[http://wiser.wits.ac.za/system/files/Achille]{.ul}](http://wiser.wits.ac.za/system/files/Achille).
+  [http://wiser.wits.ac.za/system/files/Achille](http://wiser.wits.ac.za/system/files/Achille).
 
 - Ndlovu-Gatsheni, S. J. (2013). "Why Decoloniality in the 21^st^
   Century?" *Thinker*, Volume 48, pp 10-15.

@@ -4,7 +4,7 @@ authors: [{name: "Daphnée Yiannaki", institution: "Université du Québec à Mo
 ---
 
 Quelle place les musées d’art accordent-ils aux arts autochtones et de
-quelle manière engagent-ils un dialogue critique sur le passé ? Dans les
+quelle manière engagent-ils un dialogue critique sur le passé ? Dans les
 musées d’histoire et de société, la collaboration avec les communautés
 autochtones apparait comme un moyen privilégié de décolonisation des
 musées comme l’ont montré, entre autres, les études de Sleeper-Smith
@@ -166,7 +166,7 @@ particulièrement des récits, reste à compléter.
   McGill University.
 
 - Lemay-Perrault, R. (2015). Les œuvres d’art contemporain dans les
-  musées de société : que nous disent-elles ?, *Muséologies*, *7*(2),
+  musées de société : que nous disent-elles ?, *Muséologies*, *7*(2),
   111-136.
 
 - Lonetree, A. (2012). *Decolonizing museums : Representing Native

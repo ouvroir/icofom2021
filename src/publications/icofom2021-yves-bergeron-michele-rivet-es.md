@@ -6,7 +6,7 @@ authors: [{name: "Yves Bergeron", institution: "Titular de la Cátedra Gobernanz
 
 *Traducción: Anabella Coronado-Ruiz*
 
-> El concepto de \"propiedad\" es nuevo en nuestra historia. No tuvo
+> El concepto de “propiedad” es nuevo en nuestra historia. No tuvo
 > sentido pensar que poseíamos las cosas, la tierra, los elementos. Nos
 > percibimos como un componente del universo y no como una entidad
 > separada dentro de él: no tenemos poder sobre los otros componentes,
@@ -18,7 +18,7 @@ authors: [{name: "Yves Bergeron", institution: "Titular de la Cátedra Gobernanz
 > igual que los cinturones de wampum no pertenecen a su guardián, el
 > mandato de este último es protegerlos y transmitirlos.
 >
-> Elisabeth Kaine, Ce que nous sommes (En qué estamos). En: Elisabeth Kaine, Jean Tanguay, Jacques Kurtness, (2016) Voix, Visages, Paysages. Les Premiers Peuples et le XXIe siècle, La boîte
+> Elisabeth Kaine, Ce que nous sommes (En qué estamos). En: Elisabeth Kaine, Jean Tanguay, Jacques Kurtness, (2016) Voix, Visages, Paysages. Les Premiers Peuples et le XXI<sup>e</sup> siècle, La boîte
 > Ro*ug*e vif, 24, p. 10.
 
 En la convocatoria para la presentación de ponencias lanzada por ICOFOM
@@ -133,8 +133,8 @@ museos plantea importantes cuestiones sobre la propiedad, el control y
 el poder. La discusión también se centró en la restitución y el abordaje
 adoptado por los países anteriormente colonizados ante dichas
 interrogantes. Con el mismo espíritu y desde 2019, el ICOFOM lleva a
-cabo un programa de investigación de tres años llamado: \"Museos, acción
-comunitaria y descolonización\". ¿Qué significa descolonizar el museo en
+cabo un programa de investigación de tres años llamado: “Museos, acción
+comunitaria y descolonización”. ¿Qué significa descolonizar el museo en
 el siglo XXI? Los debates actuales, ¿realmente están ayudando a cambiar
 las prácticas y acciones locales? ¿Cómo puede la participación de la
 comunidad en los museos promover la descolonización? Reconocido por el
@@ -165,13 +165,13 @@ acciones emprendidas por los museos. El programa internacional del
 ICOFOM 2019-2022 tiene como objetivo establecer una plataforma global
 para el diálogo entre comunidades y museos. El objetivo principal de
 este programa es evaluar la descolonización de los museos y ofrecer
-perspectivas \"descoloniales\" e \"indígenas\" del museo y del
+perspectivas “descoloniales” e “indígenas” del museo y del
 patrimonio cultural, mediante la promoción de debates comunitarios como
 parte del diálogo museológico. Es una reflexión global, donde el ICOFOM
 y sus socios sirven como la plataforma principal.
 
-El 43° Simposio de ICOFOM: "La descolonización de la museología: Museos,
-mestizajes y mitos de origen", que se celebrará en Montreal, Ottawa y la
+El 43° Simposio de ICOFOM: “La descolonización de la museología: Museos,
+mestizajes y mitos de origen”, que se celebrará en Montreal, Ottawa y la
 ciudad de Quebec en marzo de 2021, es parte de este programa de
 investigación. Varias de las siguientes preguntas están en la agenda:
 
@@ -181,8 +181,8 @@ investigación. Varias de las siguientes preguntas están en la agenda:
     principales narrativas nacionales? ¿Hasta dónde deben llegar los
     museos en la descolonización?
 
--   Un museo "abierto al público en el ámbito social, reinventándose
-    constantemente, desarrollando alianzas", ¿lo hace a través de
+-   Un museo “abierto al público en el ámbito social, reinventándose
+    constantemente, desarrollando alianzas”, ¿lo hace a través de
     consultas con los socios de diferentes comunidades culturales o de
     las Primeras Naciones, mediante alianzas o con representatividad
     en los consejos administrativos de los museos para la toma de
@@ -231,8 +231,8 @@ investigación. Varias de las siguientes preguntas están en la agenda:
 
 ## Un programa rico y diverso
 
-Se seleccionaron 43 trabajos para el simposio "La descolonización de la
-museología: Museos, mestizaje y mitos de origen". En esta publicación
+Se seleccionaron 43 trabajos para el simposio “La descolonización de la
+museología: Museos, mestizaje y mitos de origen”. En esta publicación
 pueden consultarse los resúmenes de los mismos. Aunque estos ensayos no
 pueden responder a todas las preguntas planteadas anteriormente, es
 interesante notar que también generan otras nuevas interrogantes. Su
@@ -253,7 +253,7 @@ de todos los grupos que conforman la sociedad que atiende el museo?
 ¿Reimaginar los museos? En vez de la idea de descolonizar (que puede
 tener la connotación negativa de descolonizar), ¿no deberíamos sustituir
 la idea de pertenencia y considerar el patrimonio como relacional? ¿Qué
-hay de hablar sobre "autoctonización" o "Indigenización"? Al hacerlo,
+hay de hablar sobre “autoctonización” o “Indigenización”? Al hacerlo,
 los museos se convierten en espacios de contacto; trastornan y
 desestabilizan las ganancias convencionales. Los museos presentan los
 principios de diversidad, equidad, accesibilidad e inclusión, en un
@@ -320,8 +320,8 @@ para cuestionar los dogmas de la museología.
 - Bouchard, G. (2014). *Raison et déraison du mythe. Au cœur des
   imaginaires collectifs*. Montréal: Boréal.
 
-- [B]{.smallcaps}rulon [S]{.smallcaps}oares [B. &
-  L]{.smallcaps}eshchenko [A. (2018).]{.smallcaps} Museology in Colonial
+- Brulon Soares B. &
+  Leshchenko A. (2018). Museology in Colonial
   Context: A call for Decolonisation of Museum Theory. *Icofom Study
   Series*, 46, 61--79.
 

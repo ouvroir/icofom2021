@@ -190,7 +190,7 @@ questionnement de cette communication.  
 
 - American Alliance of Museums (AAM). (2018). *Facing Change*. Page
   consultée le 23 février 2020,
-  [[https://www.aam-us.org/wp-content/uploads/2018/04/AAM-DEAI-Working-Group-Full-Report-2018.pdf]{.ul}](https://www.aam-us.org/wp-content/uploads/2018/04/AAM-DEAI-Working-Group-Full-Report-2018.pdf).
+  [https://www.aam-us.org/wp-content/uploads/2018/04/AAM-DEAI-Working-Group-Full-Report-2018.pdf](https://www.aam-us.org/wp-content/uploads/2018/04/AAM-DEAI-Working-Group-Full-Report-2018.pdf).
 - Bacqué, M.-H., & Biewener, C. (2013). L’empowerment, un nouveau
   vocabulaire pour parler de participation ?, *Réseau Canopé*, 173,
   25-32.
@@ -223,7 +223,7 @@ questionnement de cette communication.  
 
 - Mellon, A. W. Foundation. (2015). *Art Museum Staff Demographic
   Survey*. Page consultée le 6 mars 2020,
-  [[https://mellon.org/programs/arts-and-cultural-heritage/art-history-conservation-museums/demographic-survey/]{.ul}](https://mellon.org/programs/arts-and-cultural-heritage/art-history-conservation-museums/demographic-survey/).
+  [https://mellon.org/programs/arts-and-cultural-heritage/art-history-conservation-museums/demographic-survey/](https://mellon.org/programs/arts-and-cultural-heritage/art-history-conservation-museums/demographic-survey/).
 
 - Oreskes, N. (2019). *Why trust science?* Princeton: Princeton
   University Press.

@@ -109,7 +109,7 @@ collections.
 - Beavis, L. (2018). Canadian and Indigenous Art: From Time Immemorial
   to 1967; Canadian and Indigenous Art: 1968 to the Present, *Racar*,
   43, 2. Page consultée le 16 mars 2020,
-  [<https://www.racar-racar.com/exhibitions--expositions.html>]{.ul}
+  <https://www.racar-racar.com/exhibitions--expositions.html>
 
 - Bennet, T. (1995). *The Birth of the Museum:* History, theory,
   politics, London, UK, & New York, États-Unis : Routledge, 59-88.
@@ -137,13 +137,13 @@ collections.
 - Koebel Morse, J. (2018, 21 juin). Des ainés, des membres de la
   communauté et des experts autochtones guident le musée, *Magazine du
   Musée des beaux-arts du Canada*. Page consultée le 24 février 2020,
-  [[https://www.beaux-arts.ca/magazine/votre-collection/mbac/des-aines-des-membres-de-la-communaute-et-des-experts-autochtones\#]{.ul}](https://www.beaux-arts.ca/magazine/votre-collection/mbac/des-aines-des-membres-de-la-communaute-et-des-experts-autochtones)
+  [https://www.beaux-arts.ca/magazine/votre-collection/mbac/des-aines-des-membres-de-la-communaute-et-des-experts-autochtones\#](https://www.beaux-arts.ca/magazine/votre-collection/mbac/des-aines-des-membres-de-la-communaute-et-des-experts-autochtones)
 
 - Lamoureux, J., Boucher, M., & Fraser, M. (2015). Présentation du
   projet. Groupe de recherche et réflexion CIÉCO : Collections et
   impératif évènementiel/The Convulsive Collections. Page consultée le
   22 février 2020,
-  [[http://cieco.umontreal.ca/presentation-du-projet/]{.ul}](http://cieco.umontreal.ca/presentation-du-projet/)
+  [http://cieco.umontreal.ca/presentation-du-projet/](http://cieco.umontreal.ca/presentation-du-projet/)
 - Laurenson, P. & Van Saaze, V. (2014). Collecting Performance-Based
   Art: New Challenges and Shifting Perspectives, Leino, M., MacCulloch,
   L., & Remes, O. (Eds.). *Performativity in the Gallery: Staging
@@ -171,7 +171,7 @@ collections.
 - Stauble, K. (2017, 14 juin). Dix choses à savoir sur les nouvelles
   salles d’art canadien et autochtone, *Magazine du Musée des beaux-arts
   du Canada*. Page consultée le 24 février 2020,
-  [[https://www.beaux-arts.ca/magazine/expositions/mbac/dix-choses-a-savoir-sur-les-nouvelles-salles-dart-canadien-et-autochtone\#]{.ul}](https://www.beaux-arts.ca/magazine/expositions/mbac/dix-choses-a-savoir-sur-les-nouvelles-salles-dart-canadien-et-autochtone)
+  [https://www.beaux-arts.ca/magazine/expositions/mbac/dix-choses-a-savoir-sur-les-nouvelles-salles-dart-canadien-et-autochtone\#](https://www.beaux-arts.ca/magazine/expositions/mbac/dix-choses-a-savoir-sur-les-nouvelles-salles-dart-canadien-et-autochtone)
 
 - Wharton, G. (2005). *The Challenges of Conserving Contemporary Art*,
   New York, États-Unis : Research scholar, conservation centre of The

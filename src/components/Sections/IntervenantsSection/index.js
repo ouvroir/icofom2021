@@ -34,13 +34,13 @@ const IntervenantsSection = (props) => {
   switch(intl.locale) {
     case 'en':
     default:
-      actesLink = "http://www.icofom2021.ca/fr/publications/icofom2021-materials"
+      actesLink = "http://www.icofom2021.ca/publications/icofom2021-materials.pdf"
       break;
     case 'fr':
-      actesLink = "http://www.icofom2021.ca/fr/publications/icofom2021-materials"
+      actesLink = "http://www.icofom2021.ca/publications/icofom2021-materials.pdf"
       break;
     case 'es':
-      actesLink = "http://www.icofom2021.ca/fr/publications/icofom2021-materials"
+      actesLink = "http://www.icofom2021.ca/publications/icofom2021-materials.pdf"
       break
   }
 

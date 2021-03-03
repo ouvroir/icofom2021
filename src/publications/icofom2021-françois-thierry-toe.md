@@ -186,7 +186,7 @@ production de contenus caractérisés par l’existence de nombreux
 métissages qui se feraient cependant selon la volonté des producteurs de
 contenus sans aucune contrainte. Dans le même ordre d’idées, nous
 pouvons mentionner la création récente de Musée Africa
-([[http://www.museeafrica.com]{.ul}](http://www.museeafrica.com)), un
+([http://www.museeafrica.com](http://www.museeafrica.com)), un
 musée virtuel (en démarrage) consacré aux arts et aux patrimoines de
 l’Afrique et des diasporas africaines. Une partie du contenu est censé
 provenir du grand public, ce qui permet à toutes les sensibilités de
@@ -204,7 +204,7 @@ doivent être consentis et utilisés à bon escient.
 
 - Audinet, J. (2005). *Paradoxes du métissage culturel. Africultures.*
   Page consultée le 21 mars 2020.
-  [[http://africultures.com/paradoxes-du-metissage-culturel-3712/]{.ul}](http://africultures.com/paradoxes-du-metissage-culturel-3712/)
+  [http://africultures.com/paradoxes-du-metissage-culturel-3712/](http://africultures.com/paradoxes-du-metissage-culturel-3712/)
 - Bergeron, Y. (2016). Musées et muséologie: entre cryogénisation,
   ruptures et
 - transformations. Maresse, F. (Dir.). *Nouvelles tendances de la
@@ -240,7 +240,7 @@ doivent être consentis et utilisés à bon escient.
 
 > Carrefour dans l’aire francophone. *Études littéraires*, N° 25 (3),
 > pp.93--106.
-> [[https://doi.org/10.7202/501017ar]{.ul}](https://doi.org/10.7202/501017ar)
+> [https://doi.org/10.7202/501017ar](https://doi.org/10.7202/501017ar)
 >
 > Lüsebrink H.-J. (2002). De la dimension interculturelle de la culture
 > coloniale. Discours coloniaux et dynamiques culturelles en Afrique
@@ -250,7 +250,7 @@ doivent être consentis et utilisés à bon escient.
 >
 > Retamar F. R. (1983). *Le métissage culturel : la fin du racisme?
 > Courrier de l’Unesco.* Page consultée le 31 mars 2020.
-> [[https://fr.unesco.org/courier/novembre-1983/metissage-culturel-fin-du-racisme]{.ul}](https://fr.unesco.org/courier/novembre-1983/metissage-culturel-fin-du-racisme)
+> [https://fr.unesco.org/courier/novembre-1983/metissage-culturel-fin-du-racisme](https://fr.unesco.org/courier/novembre-1983/metissage-culturel-fin-du-racisme)
 >
 > Toé, F. T. (2016). *Textiles et vêtements du Golfe de Guinée : enjeux
 > de conservation et de médiation*. Paris. Éditions Riveneuve.

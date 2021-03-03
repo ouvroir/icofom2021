@@ -194,7 +194,7 @@ politique de premier ordre.
 
 - ONU (2016). *Les Nations Unies et la décolonisation. Territoires non
   autonomes*. Page consultée le 10 avril 2020,
-  [[https://www.un.org/dppa/decolonization/fr/nsgt]{.ul}](https://www.un.org/dppa/decolonization/fr/nsgt)
+  [https://www.un.org/dppa/decolonization/fr/nsgt](https://www.un.org/dppa/decolonization/fr/nsgt)
 
 - Sand, C. Bolé, J. & Ouetcho, J. (2003). Les aléas de la construction
   identitaire multi-ethnique en Nouvelle-Calédonie : quel passé pour un

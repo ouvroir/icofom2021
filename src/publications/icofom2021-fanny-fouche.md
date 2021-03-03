@@ -162,7 +162,7 @@ effet,
 - Brulon Soares, B., & Leshchenko, A. (2018). Museology in Colonial
   Contexts: A Сall for Decolonisation of Museum Theory. *ICOFOM Study
   Series \[Online\], 46 \| 2018*. Retrieved from
-  [[http://journals.openedition.org/iss/895]{.ul}](http://journals.openedition.org/iss/895)
+  [http://journals.openedition.org/iss/895](http://journals.openedition.org/iss/895)
   doi:10.4000/iss.895
 
 - Clair, J. (2007). *Malaise dans les musées*. Paris: Flammarion, coll.

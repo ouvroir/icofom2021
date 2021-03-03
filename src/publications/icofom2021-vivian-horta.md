@@ -199,22 +199,22 @@ his ancestors, while moving through his own land: the territory of art.
   Dissertation (Master) \-- Universidade Federal do Rio Grande do Sul,
   Instituto de Artes, Programa de Pós-Graduação em Artes Visuais, Porto
   Alegre, Brazil. Retrieved August 02, 2019 from
-  [[https://www.lume.ufrgs.br/bitstream/handle/10183/150901/001010000.pdf?sequence=1]{.ul}](https://www.lume.ufrgs.br/bitstream/handle/10183/150901/001010000.pdf?sequence=1).
+  [https://www.lume.ufrgs.br/bitstream/handle/10183/150901/001010000.pdf?sequence=1](https://www.lume.ufrgs.br/bitstream/handle/10183/150901/001010000.pdf?sequence=1).
 
 - Nazareth, P. Mas não se come com a mão de qualquer jeito... *Revista
   Arte & Ensaios*, 38, 8-45.
-  [[https://doi.org/10.37235/ae.n38]{.ul}](https://doi.org/10.37235/ae.n38)
+  [https://doi.org/10.37235/ae.n38](https://doi.org/10.37235/ae.n38)
 
 - Seligmann-Silva, M. (2014) Sobre o anarquivamento -- um encadeamento a
   partir de Walter Benjamin. *Revista Poiésis*, 24, 35-58.
-  [[https://doi.org/10.22409/poiesis.1524]{.ul}](https://doi.org/10.22409/poiesis.1524)
+  [https://doi.org/10.22409/poiesis.1524](https://doi.org/10.22409/poiesis.1524)
 
 - Pato, A. M. P. (2017) *Arte contemporânea e Arquivo: como tornar público
   o arquivo público?* Thesis presented to Faculdade de Arquitetura e
   Urbanismo da Universidade de São Paulo in order to obtain the title of
   Doctor in Architecture and Urbanism, under the guidance of Prof. Dr.
   Giselle Beiguelman. São Paulo, Brazil. Retrieved April 19, 2020 from
-  [[https://www.academia.edu/35859773/Arte_contempor%C3%A2nea_e\_Arquivo_como_tornar_p%C3%BAblico_o\_arquivo_p%C3%BAblico]{.ul}](https://www.academia.edu/35859773/Arte_contempor%C3%A2nea_e_Arquivo_como_tornar_p%C3%BAblico_o_arquivo_p%C3%BAblico).
+  [https://www.academia.edu/35859773/Arte_contempor%C3%A2nea_e\_Arquivo_como_tornar_p%C3%BAblico_o\_arquivo_p%C3%BAblico](https://www.academia.edu/35859773/Arte_contempor%C3%A2nea_e_Arquivo_como_tornar_p%C3%BAblico_o_arquivo_p%C3%BAblico).
 
 [^1]: The indigenous people known in Brazil as Krenak also name themselves as Borun or Borum. Therefore, all those words can be used through this article to refer to the same people, from who the indigenous side of Paulo Nazareth’s family was originated.
 

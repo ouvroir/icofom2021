@@ -143,42 +143,42 @@ tenterons d’y apporter des réponses.
 
 - Abdou, S. (2005). Retour et restitution des biens culturels à leur
   pays d’origine : objets et motifs. *Revue Ethiopiques*. n°75, p1
-  [<http://ethiopiques.refer.sn/spip.php?page=imprimer-article&id_article=1046>
-  Page consultée le 10 Mars 2020.]{.ul}
+  <http://ethiopiques.refer.sn/spip.php?page=imprimer-article&id_article=1046>
+  Page consultée le 10 Mars 2020.
 
 - Abdou, S. (2006).Retour et restitutions des biens culturels à leur
   pays d’origine : difficultés et enjeux, *Revue Ethiopiques*. n°76, p1
-  [<http://ethiopiques.refer.sn/spip.php?page=imprimer-article&id_article=1509>
-  Page consultée le 10 Mars 2020.]{.ul}
+  <http://ethiopiques.refer.sn/spip.php?page=imprimer-article&id_article=1509>
+  Page consultée le 10 Mars 2020.
 
 ### Site Internet
 
 - Babacar Mbaye Diop. (2020, Mars 02). LA RESTITUTION DU PATRIMOINE
   AFRICAIN ET LA QUESTION DE LA RÉPARATION. seneplus. Page consultée le
   10 Mars 2020,
-  [[https://www.seneplus.com/opinions/la-restitution-du-patrimoine-africain-et-la-question-de-la?fbclid=IwAR1KhXEKj2May1PG_EBgQytSZpqmk2JN2l1Mazi_6dauw8EPhwDUnZ2eP80]{.ul}](https://www.seneplus.com/opinions/la-restitution-du-patrimoine-africain-et-la-question-de-la?fbclid=IwAR1KhXEKj2May1PG_EBgQytSZpqmk2JN2l1Mazi_6dauw8EPhwDUnZ2eP80)
+  [https://www.seneplus.com/opinions/la-restitution-du-patrimoine-africain-et-la-question-de-la?fbclid=IwAR1KhXEKj2May1PG_EBgQytSZpqmk2JN2l1Mazi_6dauw8EPhwDUnZ2eP80](https://www.seneplus.com/opinions/la-restitution-du-patrimoine-africain-et-la-question-de-la?fbclid=IwAR1KhXEKj2May1PG_EBgQytSZpqmk2JN2l1Mazi_6dauw8EPhwDUnZ2eP80)
 - Communauté Économique des États de l’Afrique de l’Ouest(CEDEAO).
   (2019, juillet 07). Le plan d’action régional pour la restitution des
   biens culturels africains à leurs pays d’origine, et les documents de
   politique culturelle régionale adoptés par les ministres de la culture
   de la CEDEAO. Site officiel de l’institution communautaire. Page
   consultée le 10 Mars 2020,
-  [[https://www.ecowas.int/le-plan-daction-regional-pour-la-restitution-des-biens-culturels-africains-a-leurs-pays-dorigine-et-le-document-de-politique-culturelle-regionale-adoptes-par-les-ministres-de-la-cul/?lang=fr]{.ul}](https://www.ecowas.int/le-plan-daction-regional-pour-la-restitution-des-biens-culturels-africains-a-leurs-pays-dorigine-et-le-document-de-politique-culturelle-regionale-adoptes-par-les-ministres-de-la-cul/?lang=fr)
+  [https://www.ecowas.int/le-plan-daction-regional-pour-la-restitution-des-biens-culturels-africains-a-leurs-pays-dorigine-et-le-document-de-politique-culturelle-regionale-adoptes-par-les-ministres-de-la-cul/?lang=fr](https://www.ecowas.int/le-plan-daction-regional-pour-la-restitution-des-biens-culturels-africains-a-leurs-pays-dorigine-et-le-document-de-politique-culturelle-regionale-adoptes-par-les-ministres-de-la-cul/?lang=fr)
 
 - Le Monde Afrique (2017, Novembre 28). Le discours de Ouagadougou
   d’Emmanuel Macron. Site officiel du journal. Page consultée le 10 Mars
   2020,
-  [[https://www.lemonde.fr/afrique/article/2017/11/29/le-discours-de-ouagadougou-d-emmanuel-macron_5222245_3212.html]{.ul}](https://www.lemonde.fr/afrique/article/2017/11/29/le-discours-de-ouagadougou-d-emmanuel-macron_5222245_3212.html)
+  [https://www.lemonde.fr/afrique/article/2017/11/29/le-discours-de-ouagadougou-d-emmanuel-macron_5222245_3212.html](https://www.lemonde.fr/afrique/article/2017/11/29/le-discours-de-ouagadougou-d-emmanuel-macron_5222245_3212.html)
 
 - Ministère de la Culture et de la Communication du Sénégal. (2019,
   janvier 16). Le Sénégal et la Côte d’Ivoire optent pour la «
   construction de réserves africain ».Site officiel du ministère. Page
   consultée le 10 Mars 2020,
-  [[http://www.culture.gouv.sn/?q=le-senegal-et-la-cote-divoire-optent-pour-la-construction-de-reserves-africain]{.ul}](http://www.culture.gouv.sn/?q=le-senegal-et-la-cote-divoire-optent-pour-la-construction-de-reserves-africain)
+  [http://www.culture.gouv.sn/?q=le-senegal-et-la-cote-divoire-optent-pour-la-construction-de-reserves-africain](http://www.culture.gouv.sn/?q=le-senegal-et-la-cote-divoire-optent-pour-la-construction-de-reserves-africain)
 
 - Sarr, F., & Savoy, B. (2018, Novembre 26). Rapport sur la restitution
   du patrimoine culturel africain. Vers une nouvelle éthique
   relationnelle. Restitutionreport2018. Page consultée le 10 Mars 2020,
-  [[http://restitutionreport2018.com/sarr_savoy_fr.pdf]{.ul}](http://restitutionreport2018.com/sarr_savoy_fr.pdf)
+  [http://restitutionreport2018.com/sarr_savoy_fr.pdf](http://restitutionreport2018.com/sarr_savoy_fr.pdf)
 
-[^1]: Babacar Mbaye Diop. (2020, Mars 02). LA RESTITUTION DU PATRIMOINE AFRICAIN ET LA QUESTION DE LA RÉPARATION. seneplus. Page consultée le 10 Mars 2020, [[https://www.seneplus.com/opinions/la-restitution-du-patrimoine-africain-et-la-question-de-la?fbclid=IwAR1KhXEKj2May1PG_EBgQytSZpqmk2JN2l1Mazi_6dauw8EPhwDUnZ2eP80]{.ul}](https://www.seneplus.com/opinions/la-restitution-du-patrimoine-africain-et-la-question-de-la?fbclid=IwAR1KhXEKj2May1PG_EBgQytSZpqmk2JN2l1Mazi_6dauw8EPhwDUnZ2eP80)
+[^1]: Babacar Mbaye Diop. (2020, Mars 02). LA RESTITUTION DU PATRIMOINE AFRICAIN ET LA QUESTION DE LA RÉPARATION. seneplus. Page consultée le 10 Mars 2020, [https://www.seneplus.com/opinions/la-restitution-du-patrimoine-africain-et-la-question-de-la?fbclid=IwAR1KhXEKj2May1PG_EBgQytSZpqmk2JN2l1Mazi_6dauw8EPhwDUnZ2eP80](https://www.seneplus.com/opinions/la-restitution-du-patrimoine-africain-et-la-question-de-la?fbclid=IwAR1KhXEKj2May1PG_EBgQytSZpqmk2JN2l1Mazi_6dauw8EPhwDUnZ2eP80)

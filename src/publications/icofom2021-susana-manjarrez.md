@@ -181,10 +181,10 @@ falta en el quehacer museal?
 
 - Aranda, J. Un museo no es un lugar*. La Jornada.* Recuperado el 20 de
   mayo de 2020 de
-  [[https://www.jornada.com.mx/2020/05/20/opinion/a04a1cul]{.ul}](https://www.jornada.com.mx/2020/05/20/opinion/a04a1cul)
+  [https://www.jornada.com.mx/2020/05/20/opinion/a04a1cul](https://www.jornada.com.mx/2020/05/20/opinion/a04a1cul)
 - Definición de Museo. ICOM -- Consejo Internacional de Museos..
   Recuperado de
-  [[https://icom.museum/es/recursos/normas-y-directrices/definicion-del-museo/]{.ul}](https://icom.museum/es/recursos/normas-y-directrices/definicion-del-museo/)
+  [https://icom.museum/es/recursos/normas-y-directrices/definicion-del-museo/](https://icom.museum/es/recursos/normas-y-directrices/definicion-del-museo/)
 
 - De Sousa B. (2010) Des-pensar para poder pensar en *Descolonizar el
   saber, reinventar el poder* (pp. 7-28). Montevideo: Trilce.
@@ -192,7 +192,7 @@ falta en el quehacer museal?
 - Estermann, J. (2014) Colonialidad, descolonización e
   interculturalidad. Apuntes desde la Filosofía Intercultural. *Polis,
   Revista Latinoamericana*, Volumen 13, Nº 38. Recuperado de
-  [[https://scielo.conicyt.cl/pdf/polis/v13n38/art16.pdf]{.ul}](https://scielo.conicyt.cl/pdf/polis/v13n38/art16.pdf)
+  [https://scielo.conicyt.cl/pdf/polis/v13n38/art16.pdf](https://scielo.conicyt.cl/pdf/polis/v13n38/art16.pdf)
 
 - Mandujano, M. (2015). La decolonización del conocimiento (filosófico)
   como reto de la filosofía (política) del siglo XXI, *Actas I Congreso
@@ -200,7 +200,7 @@ falta en el quehacer museal?
 
 - Nivón E. *Tema 1. El concepto cultura. Dialéctica entre Ilustración y
   pensamiento romántico (introducción)*. Recuperado de
-  [[http://sgpwe.izt.uam.mx/files/users/uami/nivon/NIVON_El_concepto_de_cultura.pdf]{.ul}](http://sgpwe.izt.uam.mx/files/users/uami/nivon/NIVON_El_concepto_de_cultura.pdf)
+  [http://sgpwe.izt.uam.mx/files/users/uami/nivon/NIVON_El_concepto_de_cultura.pdf](http://sgpwe.izt.uam.mx/files/users/uami/nivon/NIVON_El_concepto_de_cultura.pdf)
 
 - Ruffer, M. (2014). La exhibición del otro: tradición, memoria y
   colonialidad en museos de México. *Antíteses,* v. 7, n. 14, 94-120.
@@ -210,12 +210,12 @@ falta en el quehacer museal?
   crítica a las certezas del pluralismo global. *Nueva sociedad 178*.
   Recuperado de
 
-- [[https://nuso.org/media/articles/downloads/3045_1.pdf]{.ul}](https://nuso.org/media/articles/downloads/3045_1.pdf)
+- [https://nuso.org/media/articles/downloads/3045_1.pdf](https://nuso.org/media/articles/downloads/3045_1.pdf)
 
 - Tassin, E. (2012, agosto). De la subjetivación política. Althusser /
   Rancière / Foucault / Arendt / Deleuze. *Revista de Estudios
   Sociales,* 43, 36-49. Recuperado de
-  [[https://journals.openedition.org/revestudsoc/7096]{.ul}](https://journals.openedition.org/revestudsoc/7096)
+  [https://journals.openedition.org/revestudsoc/7096](https://journals.openedition.org/revestudsoc/7096)
 
 - Tuñon, J. (2002) Las mujeres y su historia. Balance, problemas y
   perspectivas en *Estudios sobre las mujeres y las relaciones de género

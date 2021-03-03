@@ -359,7 +359,7 @@ question les dogmes de la muséologie.
 - Mairesse, F. (Dir.). (2015). Nouvelles tendances de la muséologie
   **--** New Trends in Museology **-** Nuevas tendencias de la
   museología**.** *ICOFOM Study Series*, 43b.
-  [[https://journals.openedition.org/iss/367]{.ul}](https://journals.openedition.org/iss/367)
+  [https://journals.openedition.org/iss/367](https://journals.openedition.org/iss/367)
 
 - McCarthy, C. (2007). *Exhibiting Maori, A History of Colonial Cultures
   of Display*.

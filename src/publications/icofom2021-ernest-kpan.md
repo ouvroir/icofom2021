@@ -1,5 +1,5 @@
 ---
-title: "La décolonisation de la muséologie**: **analyse réflexive sur les musées et les communautés culturelles en Côte d’Ivoire"
+title: "La décolonisation de la muséologie : analyse réflexive sur les musées et les communautés culturelles en Côte d’Ivoire"
 authors: [{name: "Kpan Ernest", institution: "Ministère de la Culture et de la Francophonie – Abidjan, Côte d’Ivoire"}]
 ---
 

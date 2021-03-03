@@ -215,7 +215,7 @@ converted into the new 'hegemonic' system of knowledge.
 
 - Murawski, M. (2017). *Museums are not neutral*. Retrieved May 1, 2018
   from
-  [[https://artmuseumteaching.com/2017/08/31/museums-are-not-neutral/]{.ul}](https://artmuseumteaching.com/2017/08/31/museums-are-not-neutral/)
+  [https://artmuseumteaching.com/2017/08/31/museums-are-not-neutral/](https://artmuseumteaching.com/2017/08/31/museums-are-not-neutral/)
 
 - Smith, L. (2006). *Uses of Heritage*. London, UK: Routledge.
 
@@ -224,7 +224,7 @@ converted into the new 'hegemonic' system of knowledge.
 
 - Kassim, S. (2017). The Museum Will Not Be Decolonised. *Media
   Diversified*. Retrieved February 7, 2020 from
-  [[https://mediadiversified.org/2017/11/15/the-museum-will-not-be-decolonised/]{.ul}](https://mediadiversified.org/2017/11/15/the-museum-will-not-be-decolonised/)
+  [https://mediadiversified.org/2017/11/15/the-museum-will-not-be-decolonised/](https://mediadiversified.org/2017/11/15/the-museum-will-not-be-decolonised/)
 
 - Witcomb, A. (2003). *Re-Imagining the Museum: Beyond the Mausoleum*.
   London & New York: Routledge.
@@ -232,8 +232,8 @@ converted into the new 'hegemonic' system of knowledge.
 - Wu, D. (2006). Cultural Hegemony in the Museum World. *INTERCOM
   Conference Papers*. Paris: ICOM.
 
-[^1]: For example, the return of Benin Bronzes, the repatriations of  human remains in different contexts in the museum world, Sarr & Savoy's report ([[http://restitutionreport2018.com]{.ul}](http://restitutionreport2018.com/)) etc.
+[^1]: For example, the return of Benin Bronzes, the repatriations of  human remains in different contexts in the museum world, Sarr & Savoy's report ([http://restitutionreport2018.com](http://restitutionreport2018.com/)) etc.
 
 [^2]: The exhibition aimed to engage the 'decolonizing museum' movement, deconstructing the museum and its naturalized/universalized imperial ideology and colonial practice.
 
-[^3]: [[http://archives.icom.museum/hist_def_eng.html]{.ul}](http://archives.icom.museum/hist_def_eng.html)
+[^3]: [http://archives.icom.museum/hist_def_eng.html](http://archives.icom.museum/hist_def_eng.html)

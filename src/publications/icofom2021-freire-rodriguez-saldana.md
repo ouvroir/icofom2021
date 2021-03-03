@@ -115,7 +115,7 @@ para promover el pensamiento crítico.
 - Dussel, E. (1999). Transmodernidad e Interculturalidad (Interpretación
   desde la Filosofía de la Liberación). Universidad Autónoma
   Metropolitana-Iztapalapa, México. Recuperado el 11 de julio de 2019 de
-  [[https://enriquedussel.com/txt/Textos_Articulos/347.2004_espa.pdf]{.ul}](https://enriquedussel.com/txt/Textos_Articulos/347.2004_espa.pdf)
+  [https://enriquedussel.com/txt/Textos_Articulos/347.2004_espa.pdf](https://enriquedussel.com/txt/Textos_Articulos/347.2004_espa.pdf)
 
 - Kendrick, K. M. (2017). *Official Guide to the Smithsonian National
   Museum of African American History and Culture.* Smithsonian
@@ -138,14 +138,14 @@ para promover el pensamiento crítico.
 ## Sitios web consultados
 
 - Musée de la Civilisation.
-  [[https://www.mcq.org/en]{.ul}](https://www.mcq.org/en) . Fecha de
+  [https://www.mcq.org/en](https://www.mcq.org/en) . Fecha de
   consulta 11/07/2019.
 
 - Museo Nacional de Antropología.
-  [[https://www.mna.inah.gob.mx/]{.ul}](https://www.mna.inah.gob.mx/) .
+  [https://www.mna.inah.gob.mx/](https://www.mna.inah.gob.mx/) .
   Fecha de consulta 11/07/2019.
 
 - National Museum of African American History and Culture.
-  [<https://nmaahc.si.edu/>.]{.ul} Fecha de consulta 11/07/2019.
+  <https://nmaahc.si.edu/>. Fecha de consulta 11/07/2019.
 
 [^1]: Profesor del Departamento de la Universidad Nacional Autónoma de México on-line. Miembro de ICOM México. Investigador Independiente de temas museológicos con más de quince años de experiencia de trabajo en museos.

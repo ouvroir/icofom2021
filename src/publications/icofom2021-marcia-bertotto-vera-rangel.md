@@ -215,4 +215,4 @@ considere lista?
 - Scheiner, T. (2012). Repensando o Museu Integral: do conceito às
   práticas. *Bol. Mus. Para. Emílio Goeldi. Cienc. Hum.* 7, 1, 15-30.
 
-[^1]: La mayor comprensión de los conceptos ecológicos y de la verificación de las alteraciones de varios ecosistemas por parte del hombre llevó a ampliación del concepto. Para saber más: [[https://pt.wikipedia.org/wiki/Ecologia]{.ul}](https://pt.wikipedia.org/wiki/Ecologia) (Acceso en 09 mayo 2020).
+[^1]: La mayor comprensión de los conceptos ecológicos y de la verificación de las alteraciones de varios ecosistemas por parte del hombre llevó a ampliación del concepto. Para saber más: [https://pt.wikipedia.org/wiki/Ecologia](https://pt.wikipedia.org/wiki/Ecologia) (Acceso en 09 mayo 2020).
