@@ -20,13 +20,13 @@ const IntervenantsSection = (props) => {
   switch(intl.locale) {
     case 'en':
     default:
-      commLink = "https://drive.google.com/file/d/1m8A34Ie70Rd3NK8hHT5v-KA0SAaU4ylV/view?usp=sharing"
+      commLink = "http://www.icofom2021.ca/fr/publications/icofom2021-yves-bergeron-michele-rivet-en"
       break;
     case 'fr':
-      commLink = "https://drive.google.com/file/d/1vN0UirP43uMPYpT08N054Hf1jioJ28AK/view?usp=sharing"
+      commLink = "http://www.icofom2021.ca/fr/publications/icofom2021-yves-bergeron-michele-rivet-fr"
       break;
     case 'es':
-      commLink = "https://drive.google.com/file/d/1FHHIdS50tmstKLlK35jFpxviQ3OE-bzK/view?usp=sharing"
+      commLink = "http://www.icofom2021.ca/fr/publications/icofom2021-yves-bergeron-michele-rivet-es"
       break
   }
 
@@ -53,7 +53,7 @@ const IntervenantsSection = (props) => {
           </T.P>
           <S.LinkContainer>
             <ULink linkTo={commLink} external large>
-              <FormattedMessage id="buttons.communicationPrompt" />
+              <FormattedMessage id="buttons.introduction" />
             </ULink>
             {/* <ULink linkTo={commLink} external large>
               <FormattedMessage id="buttons.communicationPrompt" />
