@@ -4,7 +4,7 @@ authors: [{name: "Leandro Guedes", institution: "Federal University of Rio de Ja
 ---
 
 Over the 1970’s, the Czech museologist Zbynek Zbyslav Stránský
-introduces the discussion about the term "musealization", which was
+introduces the discussion about the term “musealization”, which was
 brought to the center of the theoretical debate in Museology. Recent
 theories and critical reviews held in international forums, such as the
 International Committee for Museology (ICOFOM), and in Brazil, in the
@@ -21,7 +21,7 @@ those efforts in publications like Key Concepts[^2], the dictionary[^3],
 in the ICOFOM Study Series (ISS), and before that, in Museological
 Working Papers (MuWoP). The theoretical Museology discussed in those
 publications, built a foundation utilizing the specific terms
-"musealia", "museality" and "musealization", introduced by Stránský in
+“musealia”, “museality” and “musealization”, introduced by Stránský in
 the 1960s (Brulon Soares, 2018). Peter van Mensch (apud Cury, 2020)
 understands these terms as a conceptual triad, the basic structure where
 museological theory is sustained.
@@ -41,7 +41,7 @@ holding a collection entirely dedicated to the indigenous peoples of
 Brazil.
 
 Created at a time when European ethnographic museums valued the
-ethnographic object as "testimonials", the Indian Museum, like the
+ethnographic object as “testimonials”, the Indian Museum, like the
 Museum of Man (*Musée de l’Homme*) in Paris, created by Paul Rivet and
 Georges Henri Rivière, shared the same theoretical line. Although
 inspired by the model of these French researchers, the approach of Darcy
@@ -49,7 +49,7 @@ Ribeiro differed in his conception of and other particularities about
 the objects (and subjects) between these two museums, and also in their
 scientific methodology. For Edgardo Lander (2005), the museums were
 configured as power instances, part of the Eurocentric political project
-for the colonization of the "other", resulting in racialized knowledge
+for the colonization of the “other”, resulting in racialized knowledge
 production and generic and stereotyped representations of indigenous
 people in museums. Stuart Hall (2007) reminds us that stereotyping is an
 evident sign of symbolic violence and occurs where inequalities in power
@@ -64,11 +64,11 @@ under the responsibility of the Jesuits. Subsequently, from the 18th
 century onwards, the focus of this interest shifted to indigenous
 territories and at least since 1960, to the soil of these territories
 (Cunha, \[1992\] 2012). The inexorable march of civilization translated
-into agricultural, military, pastoral and extractive "expansion fronts"
+into agricultural, military, pastoral and extractive “expansion fronts”
 (Ribeiro, \[1970\] 2017 & Gleizer Ribeiro, \[1983\] 2009) at different
 times in the history of contact, created the official and adverse
-narrative of the indigenous peoples showing them as "violent savages"
-and "enemies of progress". In 1910, in the Republic’s early years, the
+narrative of the indigenous peoples showing them as “violent savages”
+and “enemies of progress”. In 1910, in the Republic’s early years, the
 Service for the Protection of Indians and the National Workers Location
 (SPILTN) was created by and functioned under the responsibility of
 Marshall Cândido Rondon, with positivist and assimilationist ideological
@@ -76,7 +76,7 @@ bases, placing the Brazilian Indians under the tutelage of the State.
 Modified to Indian Protection Service (SPI) in 1934, the federal agency
 remains a laic institution with the following purposes (to name a few):
 allocate the Indians to their territories, guarantee their physical
-survival and make the Indians gradually adopt "civilized" habits. The
+survival and make the Indians gradually adopt “civilized” habits. The
 SPI lasted until 1967, when the National Indigenous Foundation (FUNAI)
 was created, changing its statute, but not leaving aside the tutelary
 role for the Indians by the Brazilian State and the responsibility for
@@ -90,13 +90,13 @@ repression.
 In the early 2000’s, the Indian Museum adopted a new methodology of
 "partnership" with anthropologists to develop exhibitions (Couto, 2012),
 that significantly affects the musealization chain. The first exhibition
-in this participatory model was "Time and Space in Amazon: The Wajãpi
-tribe" inaugurated on March 22^nd,^ 2002, curated by anthropologist
+in this participatory model was “Time and Space in Amazon: The Wajãpi
+tribe” inaugurated on March 22nd, 2002, curated by anthropologist
 Dominique Gallois, who had worked with the Wajãpi tribe, from Amapá
 (state of the north region of Brazil) many years earlier. The
 musealization chain, as mentioned before, understood here by Stránský’s
 model which contains the steps of selection, hence, the basic theory
-that would allow the identification of the "museality potential" in
+that would allow the identification of the “museality potential” in
 objects, removing them from their original situation towards a new
 reality; thesaurization, that would be the process where the object is
 identified and inserted into a documentary system; and presentation, the
@@ -116,11 +116,11 @@ all the information related to the ethnographic objects, such as what
 materials the objects are made of, techniques, authorship, etc. The
 objects were classified according to the Dictionary of Indigenous Crafts
 created by the anthropologist Berta Ribeiro in 1988 and by the
-institution\’s thesaurus, created in 2006. In this way, the museum
+institution’s thesaurus, created in 2006. In this way, the museum
 restores to the indigenous people a right to speak on behalf of their
 own cultural heritage even outside the village. Their knowledge
 prevailed over the specialist knowledge of the anthropologist and
-museologist, inverting the specialist\’s logic (Brulon & Guedes, 2019).
+museologist, inverting the specialist’s logic (Brulon & Guedes, 2019).
 In this context, we intend to discuss using post-colonial authors,
 museologists and anthropologists, who research and debate about
 indigenous presence and participation in museums, analyzing how
@@ -141,10 +141,10 @@ subjects elevated to the role of protagonists in the production of their
 own meanings and narratives, having their productions recognized by
 authorship, as producers of musealia, and consequently attributing their
 own values of museality to these objects. The museum would become,
-according to Stránsky\’s theory, a methodological "laboratory" (Dólak,
-2017; Brulon, 2017), where the condition of museality of the "musealized
-thing" lies. The Indian Museum would no longer be perceived as a center
-for knowledge dissemination, but a "contact zone" (Clifford, 1997), a
+according to Stránsky’s theory, a methodological “laboratory” (Dólak,
+2017; Brulon, 2017), where the condition of museality of the “musealized
+thing” lies. The Indian Museum would no longer be perceived as a center
+for knowledge dissemination, but a ”contact zone” (Clifford, 1997), a
 place where different cultures can meet and something new starts are
 collectively built to be transmitted.
 

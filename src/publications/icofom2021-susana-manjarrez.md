@@ -9,11 +9,11 @@ decolonización nos referimos al anglicismo *decolonización*, el cual en
 su traducción literal se enmarca en la dimensión sociopolítica de la
 independencia de un país colonizado. Por otra parte, el
 ***pensamiento***: al referirnos a la *colonialidad* no podemos dejar de
-lado "tres aspectos: el poder, el saber, el ser" (Mandujano, 2015:186),
-es aquí donde se centra este texto, ya que "el fin del colonialismo
+lado “tres aspectos: el poder, el saber, el ser” (Mandujano, 2015:186),
+es aquí donde se centra este texto, ya que “el fin del colonialismo
 político no significó el fin del colonialismo en las mentalidades y
 subjetividades, en la cultura y en la epistemología y que por el
-contrario continuó reproduciéndose de modo endógeno" (De Sousa, 2010:8).
+contrario continuó reproduciéndose de modo endógeno” (De Sousa, 2010:8).
 
 En este sentido, se conjugan una multiplicidad de 'decolonizaciones':
 del **museo**, de sus **saberes** y su **sujeto** del saber. Si bien,
@@ -21,9 +21,9 @@ referiré un par de ideas acerca de los dos primeros, pondré un mayor
 énfasis en el tercero, y dejaré para otro momento el ahondar en una
 posible respuesta a ¿cómo se interrelacionan estas dimensiones de la
 *colonialidad* del pensamiento en el campo de los museos?, ya que esta
-"representa una gran variedad de fenómenos \[incluyendo\] lo psicológico
+“representa una gran variedad de fenómenos \[incluyendo\] lo psicológico
 y existencial \[todos con\] una característica común: la determinación y
-dominación de uno por otro" (Estermann, 2015:350).
+dominación de uno por otro” (Estermann, 2015:350).
 
 Dicho lo anterior, en este escrito se proponen dinámicas (hacia afuera)
 como síntoma de lo que sucede dentro, desde dónde se gesta, se sostiene
@@ -39,24 +39,24 @@ acercamiento (nada más).
 
 **Ser**: *lugar donde caben muchos espacios.*
 
-De acuerdo con el ICOM, el ***museo*** es una institución "al servicio
-de la sociedad y (...) abierta al público", dicho sea de paso, estas
+De acuerdo con el ICOM, el ***museo*** es una institución “al servicio
+de la sociedad y (...) abierta al público”, dicho sea de paso, estas
 enunciaciones, a mi entender, resultan en lo menos debatible dentro de
 su noción actual --en deconstrucción--, no obstante, no es aquí donde
 quisiera centrar la atención pues al hablar del **museo** no se trata en
 sí de debatir su definición, sino de ampliar su dimensión y asumir que
-"un museo no es un lugar, es un espacio donde caben muchos espacios"
+“un museo no es un lugar, es un espacio donde caben muchos espacios”
 (Aranda, 2020).
 
 Cabe señalar que, en tanto producto y reproductor de la sociedad, el
-*museo* es susceptible de quedar atrapado en "la potencia "colonizadora"
-\[que\] no sólo ocupa territorio ajeno y lo "cultiva", sino que lleva e
-impone su propia "cultura" y "civilización", incluyendo la lengua (...)
-y las leyes" (Estermann, 2015:350), así, no sólo se coloniza el espacio
-para 'exponer' discursos científicos --legitimados y atrapados en el
+*museo* es susceptible de quedar atrapado en “la potencia ‘colonizadora’
+\[que\] no sólo ocupa territorio ajeno y lo ‘cultiva’, sino que lleva e
+impone su propia ‘cultura’ y ‘civilización’, incluyendo la lengua (...)
+y las leyes” (Estermann, 2015:350), así, no sólo se coloniza el espacio
+para ‘exponer’ discursos científicos --legitimados y atrapados en el
 estatismo del pensamiento de la época en la que se tejieron--, sino
 también, las prácticas dentro de la institución reflejan un colonialismo
-'traspapelado' en nuestros tiempos.
+‘traspapelado’ en nuestros tiempos.
 
 **Saber**: *lugares totalizadores repartidos.*
 
@@ -64,31 +64,31 @@ Los discursos de las exposiciones, principalmente permanentes, que
 sustentan (y ostentan) los **'saberes del museo'*, ***poco se acercan a
 las historias que se pueden aprehender y más bien apuntan a la Historia
 que ahí se aprende (desde la pretensión del pensamiento cartesiano que
-heredaron los tiempos modernos), de manera que "todo lo dado en la
+heredaron los tiempos modernos), de manera que “todo lo dado en la
 historia (lo contingente) tiene un Orden en la Historia, mismo que deja
 de escudarse en la semejanza para explicarse en el lenguaje de la
-clasificación y la taxonomía" (Foucault Citado en Ruffer, 2004:99).
+clasificación y la taxonomía” (Foucault Citado en Ruffer, 2004:99).
 
-Por consiguiente, lo que se expone en el museo "son alteridades
+Por consiguiente, lo que se expone en el museo “son alteridades
 históricas (...) que se fueron formando a lo largo de las historias
 nacionales, y cuyas formas de interrelación son idiosincrásicas. Son
 «otros» resultantes de formas de subjetivación que parten de
 interacciones a través de fronteras históricas interiores, inicialmente
 en el mundo colonial y luego en el contexto demarcado por los Estados
-nacionales" (Segato, 1999:121), discursos que ahora se extienden hacia
+nacionales” (Segato, 1999:121), discursos que ahora se extienden hacia
 la expresión de la *diversidad*.
 
 **Poder**: *lugar de reproducción de asimetría.*
 
-Finalmente, el museo "intenta retener el poder ideológico de los
+Finalmente, el museo “intenta retener el poder ideológico de los
 aparatos: el objeto-tradición forcluye todo sujeto, toda violencia,
 todos los procesos cotidianos de designación y diferencia en los que
 descansa la mirada racializada y de raíz colonial sobre los "sujetos" de
-la tradición" (Ruffer, 2004:115). De esta forma, los espacios museales
-se inclinan a ser lugares de reproducción, consciente o no, de "la
-'colonialidad' del pensamiento, de la 'academicidad' del saber, del
-'androcentrismo' de sus categorías y conceptos directivos, y de la falsa
-'universalidad' de sus pretensiones" (Estermann, 2015:352) entre las
+la tradición” (Ruffer, 2004:115). De esta forma, los espacios museales
+se inclinan a ser lugares de reproducción, consciente o no, de “la
+‘colonialidad’ del pensamiento, de la ‘academicidad’ del saber, del
+‘androcentrismo’ de sus categorías y conceptos directivos, y de la falsa
+'universalidad' de sus pretensiones” (Estermann, 2015:352) entre las
 cuales se imbrica el ejercicio del poder.
 
 En este sentido, al hablar de los **sujetos del saber** en el espacio
@@ -98,7 +98,7 @@ definición del contenido de las exposiciones parece ser exclusiva del
 investigador -como experto- y no como producto del diálogo con otros.
 Más allá de lo distinto de sus profesiones[^1], me refiero a un mismo
 gremio desde el que se hace más evidente la asimetría, primero hacia sus
-colegas 'no investigadores'[^2] y luego hacia los públicos y
+colegas ‘no investigadores’[^2] y luego hacia los públicos y
 comunidades, o viceversa. En ambos casos, se ejerce cierta función de
 dominio que se traza desde la elaboración del guion museológico -y su
 pretensión totalizante- colonizadora de otras funciones del museo[^3],
@@ -106,7 +106,7 @@ incluso desde la propia omisión.
 
 De tal suerte que, en el primer escenario, se establece una especie de
 binarismo en el que el *área de investigación* pareciera tomar un rol
-activo que 'dirige' y que coloca al *área educativa de museos*[^4] en un
+activo que ‘dirige’ y que coloca al *área educativa de museos*[^4] en un
 rol aparentemente pasivo, donde la función educativa -que recae en un
 área específica-, se vuelve un aditamento de los discursos del experto y
 su 'campo de conocimiento', aunque ello resulte en el uso de un lenguaje

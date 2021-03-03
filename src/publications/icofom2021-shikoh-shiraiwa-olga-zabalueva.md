@@ -3,14 +3,14 @@ title: "Museological Myths of Decolonization and Neutrality"
 authors: [{name: "Shikoh Shiraiwa", institution: "University of Helsinki – Finland"}, {name: "Olga Zabalueva", institution: "Linköping University – Sweden"}]
 ---
 
-> *"To have no museum in today's circumstances is to admit that one is
-> below the minimum level of civilisation required of a modern state"*
+> To have no museum in today's circumstances is to admit that one is
+> below the minimum level of civilisation required of a modern state
 >
 > (Hudson & Nicholls, 1985)
 
 Museums are some of the most trusted public institutions in many
-countries. Museum as institution is the "cultural product of western
-history" (Wu, 2006, p. 6) that enforces the nation-state creed.
+countries. Museum as institution is the “cultural product of western
+history” (Wu, 2006, p. 6) that enforces the nation-state creed.
 Consequently, imperial ideology and colonial practices have been
 naturalized in present-day museums, continuing to preserve and
 (re)construct cultural, social, political, economic, and aesthetic
@@ -31,17 +31,17 @@ Museums today still represent global inequality of economic power,
 sustaining the unending colonizers and colonized relations. This
 relation is particularly visible in the current issue of restitution of
 cultural materials.[^1] This paper addresses the colonial origin of the
-museum and examines the questions "what is it really to decolonize the
-museum?" and "were museums ever neutral?" We will also introduce briefly
+museum and examines the questions “what is it really to decolonize the
+museum?” and “were museums ever neutral?” We will also introduce briefly
 two case studies: an experimental exhibition *Art of the Americas*
 (2018)[^2] and another exhibition, opening in 2021, which will be
 expanding the theme of *Art of the Americas* to the global scale.
 
 ## Heritage, Nation, and Coloniality of Knowledge
 
-Museums are "part of the heritage of cultural colonialism" (Wu, 2006, p.
+Museums are “part of the heritage of cultural colonialism” (Wu, 2006, p.
 2) --- but they also were the tools of colonialism itself. The modern
-museum was formed at the turn of the 19^th^ century, and, as many
+museum was formed at the turn of the 19th century, and, as many
 scholars point out, it served as a mechanism to exercise new forms of
 governmentality (cf. Bennett, 1995). The nineteenth-century museums
 embodied the self-serving Enlightenment concept and used its symbolic
@@ -49,24 +49,24 @@ power to civilize and reorganize people by introducing specific
 practices into the emerging public sphere. Coinciding with the emergence
 of nation-states, national museums, especially museums of cultural
 history, were responsible for creating the feeling of belonging to
-"imagined communities" (Anderson, 2006). Staging a national history in
+“imagined communities” (Anderson, 2006). Staging a national history in
 the museum simplified the complexity and ambiguity of the nation's past
 and reduced the production of knowledge to one hegemonic narrative.
-Coombes (1988) pointed out that colonial exhibitions in the 19^th^
-century were constructing colonized subjects, reproducing them "in a
-'safe', contained and yet accessible and supposedly open environment"
+Coombes (1988) pointed out that colonial exhibitions in the 19th
+century were constructing colonized subjects, reproducing them “in a
+‘safe’, contained and yet accessible and supposedly open environment”
 (p. 59). This practice has been adopted and naturalized universally even
 to the present day, preserving the West-monopolized idea of high and
-'civilized' (as well as 'civilizing') culture.
+‘civilized’ (as well as 'civilizing') culture.
 
 Museums both deal with different sorts of heritage and also *are*
 heritage-making institutions themselves. Smith (2006) argued that
-heritage is a performative "cultural practice, involved in the
-construction and regulation of a range of values and understandings" (p.
-11). She posited a 'hegemonic discourse' manipulating how we interpret
-heritage, which "promoted a certain set of Western elite cultural values
-as being universally applicable" and that "undermines alternative and
-subaltern ideas about 'heritage'" (*Ibid.*). Furthermore, the separation
+heritage is a performative “cultural practice, involved in the
+construction and regulation of a range of values and understandings” (p.
+11). She posited a ‘hegemonic discourse’ manipulating how we interpret
+heritage, which “promoted a certain set of Western elite cultural values
+as being universally applicable” and that “undermines alternative and
+subaltern ideas about ‘heritage’ ” (*Ibid.*). Furthermore, the separation
 of tangible and intangible heritage also creates the division in class,
 race, ethnicity, gender, and aesthetics favoring Western elite material
 culture as *the* heritage over (often Non-Western) cultural and social
@@ -74,17 +74,17 @@ practices.
 
 These unspoken hierarchies contribute to the idea of the museum as a
 depository of material culture. The very materiality of museum objects
-leads to another concept - one of the 'objectivity' of knowledge
+leads to another concept - one of the ‘objectivity’ of knowledge
 produced by this institution and its neutral/scientific nature, whereas
 oral history/storytelling, chanting/singing, dancing, and ritual were
 considered as not belonging to Western cultural values (for example, on
 the global level, from the very first museum definition by ICOM,
-heritage was codified as "material evidence," and only in 2007 was the
-notion of "tangible and intangible heritage" introduced[^3]). Also, the
-very vocabulary includes a catch here: "to designate embodied knowledge
-and practices 'intangible' is to define them by what they are *not* and
+heritage was codified as “material evidence”, and only in 2007 was the
+notion of “tangible and intangible heritage” introduced[^3]). Also, the
+very vocabulary includes a catch here: “to designate embodied knowledge
+and practices ‘intangible’ is to define them by what they are *not* and
 to maintain the primacy of tangibility as an organizing concept in
-heritage theory and practice\" (Kirshenblatt-Gimblett, 2017, p. 75).
+heritage theory and practice” (Kirshenblatt-Gimblett, 2017, p. 75).
 
 This power disbalance was addressed recently both by activists and
 academic researchers, leading to the calls for decolonizing museums.
@@ -92,11 +92,11 @@ academic researchers, leading to the calls for decolonizing museums.
 ## What does it mean to decolonize the still-colonial institution?
 
 Given the aforementioned critique, various studies were done on
-'decolonizing' museums and exhibition narratives (cf. Tlostanova, 2017,
+‘decolonizing’ museums and exhibition narratives (cf. Tlostanova, 2017,
 Kassim, 2020). As some researchers argue, many problematic decolonizing
 efforts consist of inviting minority curators/scholars/educators to
 produce exhibitions in the museum space or serve as consultants,
-checking the 'inclusive' and 'diversity' boxes off the list while
+checking the ‘inclusive’ and 'diversity' boxes off the list while
 preserving the *status quo* in power relations within our societies (cf.
 Boast, 2011, Lynch, 2014).
 
@@ -124,8 +124,8 @@ The second point which we want to address is one of neutrality and
 objectivity.
 
 There is an emerging movement in the museum and museum organizations
-taking the role of social justice in human rights; stating that "museums
-are not neutral" (e.g. Murawski, 2017). Museums, however, have never
+taking the role of social justice in human rights; stating that “museums
+are not neutral” (e.g. Murawski, 2017). Museums, however, have never
 been neutral. The institution itself embodies perpetuation of social,
 cultural, racial, and ethnic inequalities while adding to complex social
 and economic injustices on a global scale. The controversy between their
@@ -150,8 +150,8 @@ entirely on the university's collections.
 objects on equal footing. It was essential to ignore the monetary values
 of the objects as those values, arguably, have been constructed from the
 perspective of Western material culture and aesthetics. It also
-questioned the idea of "fine art" and a Western concept of linear
-history. Fine arts are often divided into 'eras' and 'styles,' such as
+questioned the idea of “fine art” and a Western concept of linear
+history. Fine arts are often divided into ‘eras’ and ‘styles’, such as
 Renaissance, Impressionism, Avant-Garde, and so on, which became the
 universal standard of history of art production. Classifying some
 objects as 'fine art' indicates one aesthetics over others, notably
@@ -164,9 +164,9 @@ to the global perspective, within the limitations of the UCO Art
 Collections.
 
 Continuing to experiment with new ideas and methods is a critical part
-of \'decolonizing' the long-established imperial and colonial ideology
+of ‘decolonizing’ the long-established imperial and colonial ideology
 embedded into museum practice. This new exhibition aims to deconstruct
-part of the museum's naturalized cultural hierarchies in a visible
+part of the museum’s naturalized cultural hierarchies in a visible
 manner to seek a better way to exhibit and narrate all the cultural
 objects on equal footing.
 
@@ -181,7 +181,7 @@ heritage-making institution which preserves and reconstructs a certain
 set of cultural and social perspectives as a universal standard. Our
 inquiry considers how the decolonization discourse can be used as a
 reflexive tool in both museology and museum practice without being
-converted into the new 'hegemonic' system of knowledge.
+converted into the new ‘hegemonic’ system of knowledge.
 
 ## References
 
@@ -208,7 +208,7 @@ converted into the new 'hegemonic' system of knowledge.
   House. 1984. In: *Sister Outsider: Essays and Speeches* (pp.
   110--114). Berkeley, CA: Crossing Press.
 
-- Lynch, B. (2014). "Whose cake is it anyway?": Museums, civil society
+- Lynch, B. (2014). “Whose cake is it anyway?”: Museums, civil society
   and the changing reality of public engagement. In L. Gouriévidis
   (Ed.), *Museums and Migration: History, Memory, Politics* (pp.
   67--80). London & New York: Routledge.

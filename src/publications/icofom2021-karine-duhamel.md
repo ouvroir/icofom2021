@@ -55,11 +55,11 @@ of the future, and they carry with them important values that have
 assisted Indigenous people in building families, communities and Nations
 since time immemorial.
 
-In *Embers* (2016), Richard Wagamese discusses the phrase "All my
-relations". All my relations, he writes "points to the truth that we are
+In *Embers* (2016), Richard Wagamese discusses the phrase “All my
+relations”. All my relations, he writes “points to the truth that we are
 all related, that we are all connected, that we all belong to each
-other" (p.34). Within this, as he explains, the most salient concept is
-the word "all", and that this relationship includes:
+other” (p.34). Within this, as he explains, the most salient concept is
+the word “all”, and that this relationship includes:
 
 > Not just those who look like me, sing like me, dance like me, speak
 > like me, pray like me or behave like me. ALL my relations. That means
@@ -74,7 +74,7 @@ perspectives of Indigenous peoples, whether First Nations, Métis or
 Inuit.
 
 In his writing about Indigenous--settler relations, Cree researcher
-Willie Ermine discusses relationships as "spaces of engagement" to
+Willie Ermine discusses relationships as “spaces of engagement” to
 emphasize the opportunities that exist within relationships to work out
 the similarities and differences between the various ways of knowing
 that may be held by those involved. When we consider relationships as
@@ -82,7 +82,7 @@ spaces of engagement, Ermine (1995, p. 195) explains that we pay
 attention to the words, actions, and behaviours that exist on the
 surface. These words, actions, and behaviours, however, also tell us
 something about the attitudes, beliefs, and contexts that run below the
-surface and that function as a "deeper level force" in shaping the ways
+surface and that function as a “deeper level force” in shaping the ways
 of knowing and being that may be present in relationships.
 
 Confronting the deeper level forces at work within the museum field is a
@@ -134,7 +134,7 @@ the Witness Blanket, an art installation by Carey Newman (Kwakwak’awakw
 and Coast Salish), which has become part of the permanent collection of
 the Canadian Museum for Human Rights. The Witness Blanket honours the
 thousands of children who were forced into the Indian residential school
-system in Canada. It is a cedar "blanket," woven with over 800 pieces of
+system in Canada. It is a cedar “blanket”, woven with over 800 pieces of
 Indian residential school history. These contributions were donated by
 residential school survivors and their families, band offices,
 friendship centres and governments. Other items were reclaimed from
@@ -165,11 +165,11 @@ the Kwakaka’wakw community, youth, Elders and others with connections to
 the project, then reflected on their responsibilities as part of this
 relationship. The parties celebrated with a feast, acknowledging the
 gift of the agreement and the deep connection that has been forged. As
-Carey Newman expressed, in the aftermath of the ceremony, "Through
+Carey Newman expressed, in the aftermath of the ceremony, “Through
 spoken words and shared memory, we can express our commitment in ways
 that transcend written contracts --- how we feel, our hopes and our
 goals for this agreement and our relationship as collaborative stewards
-of the Blanket and survivors’ stories it holds."
+of the Blanket and survivors’ stories it holds.”
 
 For the CMHR, our responsibilities to the agreement include the care of
 the Blanket for future generations. Toward this goal, the Museum has
@@ -185,7 +185,7 @@ surrounding partnership as the basis of a new or different kind of
 museology take to heart the need to create ethical spaces of engagement
 and to acknowledge the history and legacy of museums as institutions
 that have traditionally served to minimize or to amalgamate Indigenous
-histories within a larger umbrella of the "national" story of Canada.
+histories within a larger umbrella of the “national” story of Canada.
 Recognizing and atoning for the ways in which this relationship has
 harmed Indigenous communities and Nations is in fact the central animus
 of decolonization practices, which should serve not only to modify what
@@ -200,17 +200,17 @@ change in policy.
 
 And so, to return to the beginning, *All my relations*. This is a
 principle, it is a prayer, it is a hope for the reinvention of the ways
-within which institutions operate. As Wagamese (2016) maintains, "It’s
-our saving grace in the end" (p.34).
+within which institutions operate. As Wagamese (2016) maintains, “It’s
+our saving grace in the end” (p.34).
 
 ## References
 
 - Anderson, B. (1983). *Imagined Communities: Reflections on the Origin
   and Spread of Nationalism*. London: Verso.
-- Ermine, W. (2007). "The Ethical Space of Engagement." *Indigenous Law
+- Ermine, W. (2007). “The Ethical Space of Engagement.” *Indigenous Law
   Journal,* 6 (1), 193-203.
 
 - Wagamese, R. (2016). *Embers: One Ojibway’s Mediations*. Madeira Park,
   BC: Douglas McIntyre Ltd.
 
-[^1]: For more on this, see the article "Kanata/Canada: Re-storying Canada 150 at the Canadian Museum for Human Rights," *Journal of the Canadian Historical Association 2017*, New Series, Vol. 28, No.1, pp. 217-247.
+[^1]: For more on this, see the article “Kanata/Canada: Re-storying Canada 150 at the Canadian Museum for Human Rights”, *Journal of the Canadian Historical Association 2017*, New Series, Vol. 28, No.1, pp. 217-247.

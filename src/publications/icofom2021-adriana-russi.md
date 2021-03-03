@@ -55,7 +55,7 @@ Las colecciones etnográficas presentes en los museos fueron formadas, en
 su mayoría, en el pasado y en diferentes contextos. Siendo centro de
 atención de los debates sobre descolonización, muchas continúan bajo la
 custodia de los museos, pero son pocas las que tienen conexión con los
-"descendientes" de quienes produjeron los objetos, en especial con los
+“descendientes” de quienes produjeron los objetos, en especial con los
 pueblos indígenas. ¿Cuáles son las responsabilidades de los museos en
 estos casos? ¿Cómo los museos han establecido un diálogo crítico sobre
 el pasado y el futuro de las comunidades? Estas preguntas nos sirven
@@ -81,20 +81,20 @@ minorías, como los negros e indígenas, así como de movimientos
 artísticos latino-americanos. Es innegable reconocer las repercusiones
 del encuentro que hubo en 1972, en Santiago de Chile, sobre el papel de
 los museos en América Latina, en el cual se bosquejó la idea de un
-"museo integral", a partir de la renovación de sus procesos y de una
+“museo integral”, a partir de la renovación de sus procesos y de una
 revisión de su función social.
 
 En relación a los museos con colecciones indígenas, el desafío de
 transformar el museo de un espacio de legitimación colonial a uno de
 representación de alteridades y de auto-representaciones remonta a la
-década de 1980. En ese contexto, la "descolonización" de los museos pasó
-a referirse a diferentes experiencias entre museos y las "comunidades de
-origen", lo cual impactó en las relaciones entre esas instituciones y
-los llamados "pueblos coleccionados".
+década de 1980. En ese contexto, la “descolonización” de los museos pasó
+a referirse a diferentes experiencias entre museos y las “comunidades de
+origen”, lo cual impactó en las relaciones entre esas instituciones y
+los llamados “pueblos coleccionados”.
 
 En los años 90, la idea de museos como "zonas de contacto" (Clifford,
 1997) orientó prácticas en las que los museos occidentales
-"democratizaron" los procesos museológicos. Las presiones sociales,
+“democratizaron” los procesos museológicos. Las presiones sociales,
 especialmente de los "pueblos nativos" de Norteamérica y Oceanía
 provocaron la elaboración de protocolos y legislaciones que aseguran la
 consulta a estos pueblos y exigen procedimientos que los museos deben
@@ -106,9 +106,9 @@ museos. Nos parece central considerar la cuestión ética en estos
 procesos (Cury, 2016).
 
 En el contexto brasileño identificamos diferentes significados
-atribuidos a la idea de "descolonizar" a los museos, y observamos que la
+atribuidos a la idea de “descolonizar” a los museos, y observamos que la
 inflexión se expande desde acciones "con" las comunidades hacia acciones
-"de las" comunidades, y se aleja paulatinamente de las acciones "sobre"
+“de las” comunidades, y se aleja paulatinamente de las acciones “sobre”
 las comunidades. En la literatura en lengua portuguesa, fueron
 descriptas experiencias sobre museos y pueblos indígenas por: Ribeiro
 (1994), Abreu (2007), Velthem (2012), Athias y Gomes (2016), Cury
@@ -117,8 +117,8 @@ entre otros. Esas experiencias revelan procesos que están fuertemente
 influenciados por las vertientes teóricas de la nueva museología, de la
 museología social y de la antropología implicada.
 
-Términos como "participativa", "colaborativa" o "compartida" seguidos
-después del término "museología" indican diferentes procesos
+Términos como “participativa”, “colaborativa” o “compartida” seguidos
+después del término “museología” indican diferentes procesos
 museológicos. No existen fórmulas, y los múltiples abordajes plantean
 metodologías que se construyen durante el proceso; o sea; en los
 diálogos entre los profesionales de los museos y/o investigadores con
@@ -129,14 +129,14 @@ que se pone en evidencia en las prácticas o procesos museales, no ocurre
 en la documentación o en las directrices institucionales. Son pocas las
 instituciones con colecciones indígenas que expresan en su política
 institucional la participación efectiva de los indígenas en sus
-acciones, y el término "descolonización" ni siquiera es mencionado en
+acciones, y el término “descolonización” ni siquiera es mencionado en
 estos documentos.
 
 En la documentación que trata sobre la Política Nacional de Museos
 (Brasil, 2003; Nascimento Júnior & Chagas, 2007), así como en el Plan
 Nacional Sectorial de Museos: 2010-2020 (IBRAM, 2010), o en otros
 documentos normativos de la política pública para el sector museal,
-tampoco encontramos el término "descolonización". Por otro lado, en su
+tampoco encontramos el término “descolonización”. Por otro lado, en su
 lugar, encontramos ideas que sintetizan las principales directrices de
 estos documentos, como por ejemplo el Plan Sectorial, orientadas por los
 principios de la diversidad cultural y el derecho a las memorias, que
@@ -172,7 +172,7 @@ profesionales del Museu de Arqueología e Etnologia Professor Oswaldo
 Rodrigues Cabral y los Kaingang, los Guarani y los Laklãnõ-Xokleng,
 Florianópolis / SC), apertura de la reserva técnica (a varios pueblos
 indígenas por el Museu Paraense Emilio Goeldi, Belém / PA),
-recalificación y "repatriación virtual" de la colección (Museu Estadual
+recalificación y “repatriación virtual” de la colección (Museu Estadual
 de Pernambuco, Recife / PE). Son experiencias que promueven la
 descolonización de los museos brasileños. Queremos creer que estas
 iniciativas pueden soportar las adversidades que están presentes en el
@@ -205,7 +205,7 @@ presente.
   novos paradigmas em debate*. São Paulo e Brodowski: MAE/USP.
 
 - Françozo, M., & Broekhoven, Laura van (2017, Septiembre). Dossiê
-  "Patrimônio indígena e coleções etnográficas". *Boletim do Museu
+  “Patrimônio indígena e coleções etnográficas”. *Boletim do Museu
   Paraense Emilio Goeldi:* *Ciências Humanas,* 12(3), 709-711.
 
 - Instituto Brasileiro de Museus (IBRAM). (2010). *Plano Nacional

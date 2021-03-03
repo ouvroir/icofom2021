@@ -16,7 +16,7 @@ muséologie en Côte d’Ivoire.
 ## Préfiguration des premiers musées
 
 Il existe des pratiques proches des institutions patrimoniales en
-Afrique de l’ouest. Cependant, c’est au début du XX ^e^ siècle que le
+Afrique de l’ouest. Cependant, c’est au début du XXe siècle que le
 musée en tant qu’institution spécialisée fait son entrée parle Sénégal
 avec la création de l’Institut Français d’Afrique Noire (IFAN) puis le
 musée de l’IFAN. Institution à connotation européenne, âgée de deux

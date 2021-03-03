@@ -70,10 +70,10 @@ and Nos. 7 to 9 were about the museum’s mission and function.
 
 There were a further nine questions in the second part about the
 participant’s attitude towards colonial history, western culture, and
-Chinese culture. For example, \"What is the influence of the
-colonization history of China to yourself and your life?\", \"Do you
-expect any change about that influence?\", \"Is it necessary to export
-Chinese culture abroad?\"
+Chinese culture. For example, “What is the influence of the
+colonization history of China to yourself and your life?”, “Do you
+expect any change about that influence?”, “Is it necessary to export
+Chinese culture abroad?”
 
 The third part focused on the repatriation of Chinese heritage objects
 which were removed from China during the colonial time and are currently
@@ -100,18 +100,18 @@ including a powerful China, an influential China,
 Chinese-centralization, the national perspective, and the individual
 perspective. The participants’ responses with the theme of China’s
 national strength, making and proving a powerful China, were coded into
-the category of \"a powerful China\". The responses with the theme of
+the category of “a powerful China”. The responses with the theme of
 improving China’s global status, promoting China’s influence abroad,
-and exporting Chinese culture were coded into the category of \"an
-influential China\". The category of \"Chinese-centralization\"
+and exporting Chinese culture were coded into the category of “an
+influential China”. The category of “Chinese-centralization”
 comprised responses about prioritizing the Chinese perspective,
 emphasizing the Chinese value, and ignoring others’ cultures. The
-category of \"prioritizing national perspective\" included responses
+category of “prioritizing national perspective” included responses
 with the theme of prioritizing the national or government’s perspective
 and supporting the nation’s possession of cultural objects. Finally,
 the responses with the theme of dwarfing individual perspectives and
 disrespecting private property were coded into the category of
-\"dwarfing individual perspective\".
+“dwarfing individual perspective”.
 
 ## Results and Conclusion
 
@@ -189,7 +189,7 @@ decolonization.
 ## References
 
 - Cao, B. (2009). A reflection on upsurge of repatriation: from the
-  special issue of \"Museum International\". *Museum International*,
+  special issue of “Museum International”. *Museum International*,
   61(4), 76-80.
 - Fang, H. (2009). Principles, concepts and strategies for the
   repatriation of cultural relics. overseas. *Exploration and Free

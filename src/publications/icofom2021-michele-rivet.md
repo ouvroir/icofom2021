@@ -7,14 +7,14 @@ authors: [{name: "Michèle Rivet, C.M.0", institution: "Musée canadien pour les
 
 Comment et jusqu’où, au XXIe siècle, les musées donnent-ils droit de
 cité et incluent-ils leur mosaïque citoyenne dans leurs démarches et
-leurs missions? C’est là le thème du Symposium. Nous l’aborderons sous
+leurs missions ? C’est là le thème du Symposium. Nous l’aborderons sous
 l’angle des Peuples Premiers.
 
 La colonisation du Canada par la France et l’Angleterre s’est faite
 souvent avec l’extinction des Autochtones qui y étaient installés. Parce
 que l’on croyait que la culture autochtone était sur le point de
-disparaître (Silverman), les anthropologues à la fin du 19<sup>e</sup> et au
-début du 20<sup>e</sup> siècle, ont ramené dans les musées des milliers d’objets,
+disparaître (Silverman), les anthropologues à la fin du 19e et au
+début du 20e siècle, ont ramené dans les musées des milliers d’objets,
 participant ainsi parfois à la destruction même de ces cultures
 (Phillips).
 
@@ -67,7 +67,7 @@ Le Musée Nisga’a Hli Goothl Wilp-Adokshl ouvre ses portes en 2011.
 La **réciprocité** renvoie aux droits et obligations des peuples les uns
 envers les autres. La réciprocité implique le partenariat (Turgeon,
 Dubuc) Sur ce, voir l’exposition permanente : « C’est notre histoire.
-Premières Nations et Inuit du XXI^e^ siècle » du Musée de la
+Premières Nations et Inuit du XXIe siècle » du Musée de la
 civilisation de Québec, inaugurée en 2013. « Il n’est pas suffisant
 d’écouter, il faut prendre note, mémoriser et incarner la parole dans le
 médium exposition » (Jérôme et Kaine).

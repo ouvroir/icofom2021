@@ -168,8 +168,8 @@ artistes qui vivent en Belgique ou en Europe.
 - Ceuppens, B. (2016). La nécessaire colonisation du Musée royal de
   l’Afrique centrale par les Belgo-Congolais. *Ibidem*. (pp.166-177).
 
-- Deliss, C. (2019, mai 03). *Atelier "Everything passes except the
-  past"*, Goethe Institut Brussels. Page consultee le 31 mai 2020,
+- Deliss, C. (2019, mai 03). *Atelier “Everything passes except the
+  past”*, Goethe Institut Brussels. Page consultee le 31 mai 2020,
   [https://www.goethe.de/ins/be/en/kul/prj/ave.html](https://www.goethe.de/ins/be/en/kul/prj/ave.html).
 
 - Ekete, E., Tsimba, F. & Bluard, C. (2018). Artist residencies. Dans G.

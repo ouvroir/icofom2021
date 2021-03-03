@@ -28,24 +28,24 @@ discourses, depending on the institution holding the collection.
 
 According to Waldisa Guarnieri (Guarnieri, 2010), we only preserve what
 has a value, one could say social value, stemmed from some kind of
-collective consciousness. For the author, \"Cultural Patrimony is a
-question of historic consciousness\" (Guarnieri, 2010, p.121). For that
+collective consciousness. For the author, “Cultural Patrimony is a
+question of historic consciousness” (Guarnieri, 2010, p.121). For that
 matter, museums have become responsible for the creation of discourses,
 binding them to the materiality via musealization process, conjectured
-by Desvallées and Mairesse (2013, p. 57) as an operation \"\[\...\] of
+by Desvallées and Mairesse (2013, p. 57) as an operation “[\...\] of
 material and conceptual extraction of something from its natural or
-cultural original environment, granting to it a museal status\", in
+cultural original environment, granting to it a museal status”, in
 other words, a musealia - object of a museum. The Museum works in
 changing an object’s status, and according to Stransky (1970 as cited in
-Desvallées & Mairesse, 2013, p.57) \"\[\...\] a museum object is not
-only an object in a museum\". Therefore, musealization traces the moment
+Desvallées & Mairesse, 2013, p.57) “\[\...\] a museum object is not
+only an object in a museum”. Therefore, musealization traces the moment
 of passage to a new cultural reality, enhancing new narratives.
 
 From the decolonial perspective, repatriation allows nations that have
 lost their patrimonies to create their narratives of world history,
-"\[\...\] the post-colonial perspective stresses critics and
+“[\...\] the post-colonial perspective stresses critics and
 deconstruction of some naturalized narratives, also in the cultural
-heritage sphere\" (Costa, 2018, p.101). Many cases result in
+heritage sphere” (Costa, 2018, p.101). Many cases result in
 repatriation or restitution requests that, in the majority of instances,
 involve governments and museums.
 
@@ -128,8 +128,8 @@ humanity, and for the Acropolis Museum, it would be a reaffirmation of
 national identity.
 
 According to Marshall Sahlins (2003 as cited in Dohmann, 2013, p.36)
-\"no object at all, nothing is or has movement in human society, except
-through the meanings that mankind attributes to it\". The Parthenon
+“no object at all, nothing is or has movement in human society, except
+through the meanings that mankind attributes to it”. The Parthenon
 Marbles, which used to be a structural part of an edifice for religious
 worship, turned into fragmented pieces surrounded by values such as
 authenticity, uniqueness, historicity.
@@ -143,14 +143,14 @@ importance of the museal work is to understand the motivations behind
 the acquirement of the value, since being under the condition of
 musealia, they document a reality through another reality. Evidences
 from the two institutions demonstrate that inside the musealization
-chain, the process of identification of the \"potential museality\" in
+chain, the process of identification of the “potential museality” in
 the objects, the insertion of the object in the documental system of a
 museum’s new reality, and the museologic communication (the way a
 collection acquires meaning) would be distinctive from each other,
-because, as according to Brulon (2017, p.414) \"\[\...\] an object that
+because, as according to Brulon (2017, p.414) “\[\...\] an object that
 is thought a priori as holder of museality and selected according to its
 potenciality based on existing values, \[can\] \[\...\] acquire new
-values when communicated in a museologic discourse\".
+values when communicated in a museologic discourse”.
 
 Approaches to subjects associating cultural heritage domains, as well as
 repatriation requests around the world, indicate how an emerging

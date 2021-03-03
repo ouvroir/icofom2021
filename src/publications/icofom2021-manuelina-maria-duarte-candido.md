@@ -13,7 +13,7 @@ what one might imagine, the master ceramists are not the ones who model
 best, but those who dominate the burning of the pieces, a very complex
 process which ensures that they do not break. \"Only a dry wood
 (*Hulalaò*) serves to burn the ceramic doll,\" says an indigenous man
-who holds a master\'s degree from the Federal University of Tocantins
+who holds a master’s degree from the Federal University of Tocantins
 (Karajá, 2015). And so we discover the Karajá people not only through
 the studies of others but through their intellectual production.
 
@@ -22,9 +22,9 @@ the ceramic centres are at Bananal Island, the largest river island in
 the world, and Aruanã city. The villages underwent a massive impact from
 the 1930s onwards when the region became the target of public policies
 of interiorization and occupation. Due to commercialization, the
-production of Karajá dolls, originally intended to be children\'s toys,
+production of Karajá dolls, originally intended to be children’s toys,
 little by little adapted to the taste of tourists. It is not a stylistic
-\'evolution\' since the old type of dolls are still produced alongside
+‘evolution’ since the old type of dolls are still produced alongside
 the new one.
 
 The Karajá dolls, called *ritxoko*, are shaped in either wax alone, or
@@ -38,8 +38,8 @@ Artistic Heritage, positively impacting its commercialization and the
 perception of its cultural value.
 
 To understand the relations between intangible heritage and museum
-collections the project "'*Presença Karajá*': material culture, weft and
-colonial transits\" started in 2017. It has been mapping *ritxoko*
+collections the project “‘*Presença Karajá*’: material culture, weft and
+colonial transits” started in 2017. It has been mapping *ritxoko*
 collections in museums in Brazil and worldwide, having already listed 74
 institutions in 16 countries; the oldest collections found date back to
 the mid-nineteenth century. While we map collections, collaborating to
@@ -63,7 +63,7 @@ others remain locked in storehouses are questions on which the studies
 of material culture have focused in recent decades.
 
 Another important aspect of this debate concerns so-called decolonial
-studies, which brings the researchers\' focus to different forms of
+studies, which brings the researchers’ focus to different forms of
 engagement of indigenous groups in the process of formation and
 diffusion of ethnographic collections. Some of these studies reveal that
 processes inherent to the museological operative chain take the original
@@ -79,7 +79,7 @@ the voice of these communities within museums. The framework for these
 experiences is grounded on a new ethic within which museums have to be
 open to other narratives and practices, in a healthy exercise of
 coexistence and collaboration with the communities of origin of the
-museums\' collections (Marstine, 2011).
+museums’ collections (Marstine, 2011).
 
 However, in most museums, the ethnographic collections still reflect the
 view of experts, curators and researchers in defining what visitors will
@@ -90,7 +90,7 @@ ethnographic objects that have never been exposed or even studied,
 remaining for decades locked in the storehouse (Knowles, 2013).
 Therefore, their potential for academic, cultural and touristic uses
 remains unexplored, undermining their social relevance. In Brazil, the
-national historical-social narrative obliterates indigenous people's
+national historical-social narrative obliterates indigenous people’s
 material cultures and history (Cury et al., 2012).
 
 Assuming that digital technologies can foster access to indigenous
@@ -122,7 +122,7 @@ Internet (Martins et al., 2017). The guarantee of preservation and the
 possibility of sharing metadata, through protocols, are also part of the
 definition of a digital repository. Additionally, digital repositories
 are important communication tools, widening public access to the
-museum\'s collections.
+museum’s collections.
 
 The framework of our project is aligned with the Recommendation
 Concerning the Protection and Promotion of Museums and Collections,
@@ -141,9 +141,9 @@ dissemination of heritage references of the *Iny/*Karajá culture, the
 project takes part in the complex thread of strategies to represent
 indigenous people in the museal world. And adhering to digital
 strategies of collections management and diffusion we intend to promote
-\'digital restitution\' to indigenous people, allowing access to their
+‘digital restitution’ to indigenous people, allowing access to their
 collections, which are usually geographically scattered. Furthermore, it
-also feeds back the ceramists\' inspiration and craftsmanship.
+also feeds back the ceramists’ inspiration and craftsmanship.
 
 ## References
 

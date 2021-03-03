@@ -9,9 +9,9 @@ of Minas Gerais. In the early 1940s, with a four-month-old daughter in
 her arms, she ran away from her alcoholic and violent husband. She was
 found walking near the Saçuí River, in the municipality of Governador
 Valadares. When they tried to take her child, Nazareth reacted to
-protect her. She was then sent to the city of Barbacena on the "crazy
-train", one of the many existing in Brazil at that time, which
-transported individuals with "deviations" that were not socially
+protect her. She was then sent to the city of Barbacena on the “crazy
+train”, one of the many existing in Brazil at that time, which
+transported individuals with “deviations” that were not socially
 accepted. On board these trains, they arrived in that city known for
 housing seven psychiatric institutions in their territory, among them
 the Hospital Colônia de Barbacena, founded in 1903 and famous for
@@ -44,12 +44,12 @@ His artistic process includes investigations into his own family memory,
 travel reports and an obsession with documentation.
 
 Between May 2012 and April 2013, Paulo Nazareth produces *Cadernos de
-África* ("African Notebooks"), a record of his journey through the
-"slave route", in which he travels through locations where the main
+África* (“African Notebooks”), a record of his journey through the
+“slave route”, in which he travels through locations where the main
 African slave trade centers for America took place. At the end of the
 tour, he exhibits, at the Lyon Biennial, a room with several traces of
-his trip, as in the work *Collection de Aguas de Africa* ("Collection of
-African Waters", 2013), in which he gathers labels of mineral water that
+his trip, as in the work *Collection de Aguas de Africa* (“Collection of
+African Waters”, 2013), in which he gathers labels of mineral water that
 he consumes during the trip.
 
 A kind of personal collection permeates all of Nazareth’s work,
@@ -65,9 +65,9 @@ that surrounds his name:
 > Nazareth. [^3](Ellwanger, 2016, p. 172)
 
 In his speech, the artist contemptuously mentions his Christian name:
-"Paulo da Silva", he says. His speech reveals the generic content he
+“Paulo da Silva”, he says. His speech reveals the generic content he
 attributes to the surname, which, for him, means little or nothing. As
-the most popular surname in Brazil, "Silva" does not refer to any type
+the most popular surname in Brazil, “Silva” does not refer to any type
 of ancestry or inheritance in particular. Nazareth, his grandmother’s
 first name, transformed into the surname of his artistic persona, brings
 up all his genetic and cultural background, a gap that the artist seeks
@@ -87,15 +87,15 @@ The relationship between the artist and the indigenous is established
 through his search for the reconstruction of his indigenous memory,
 through which he sees a parallel between the Guarani-Kaiowás and the
 Krenaks, their ancestors, since both peoples passed through a kind of
-"expropriation" of their land. Both in Minas Gerais - in the case of the
+“expropriation” of their land. Both in Minas Gerais - in the case of the
 Krenaks - and in Mato Grosso do Sul - in the case of the Guarani-Kaiowás
-- a land division took place and ended up "pushing" the indigenous
+- a land division took place and ended up “pushing” the indigenous
 people to reserves that, according to the artist, were nothing more than
-"manpower reserves" (Ellwanger, 2016, p. 174).
+“manpower reserves” (Ellwanger, 2016, p. 174).
 
 In 2012, Nazareth finally got in touch with the indigenous people of
 Mato Grosso do Sul, where he stayed overnight, in order to learn to pray
-"for the world not to end" (Ellwanger, 2016, p. 175). There, he is in
+“for the world not to end” (Ellwanger, 2016, p. 175). There, he is in
 charge of writing the history of the Kaiowá people, including the death
 of the chief Nísio Gomes, murdered in 2011, after leading the
 repossession of a territory, challenging the local agro-business.
@@ -161,11 +161,11 @@ official documents were stored. His ability to ensure the safety of this
 archive and to interpret it was evident in that society.
 
 Paulo Nazareth questions the role of the Museum as archon as he creates
-the work "DECRETO \[DECRET\]", from 2006, in which he writes a document,
+the work “DECRETO \[DECRET\]”, from 2006, in which he writes a document,
 naming as Art all of the actions he performed from then on, until the
-date that suits him, thus becoming \"immune to the Law and Justice, and
-cannot be judged, condemned or criticized\" for his actions, \"which can
-only be revoked by a commission of artists\"[^9] chaired by him.
+date that suits him, thus becoming “immune to the Law and Justice, and
+cannot be judged, condemned or criticized” for his actions, “which can
+only be revoked by a commission of artists”[^9] chaired by him.
 Authenticating the document, he seeks to give it an official character
 and, in this way, invert the logic of legitimation perpetrated by the
 Museum. He takes not only the power to self-legitimize as an artist, and
@@ -178,9 +178,9 @@ the Battle of Adwa, occupies the Borum territory in the region of the
 Vale do Rio Doce. The patriarch of that family, in addition to being a
 sheriff, becomes a notary public judge, and thus provides all the
 paperwork that gives him property on the land. This farm blocks the
-circulation of an entire people through their own territory. \"A group
+circulation of an entire people through their own territory. “A group
 of 1,200 indigenous people cannot own this large territory, but a
-farmer, one person, can own this territory \[\...\].\"[^10] (Nazareth,
+farmer, one person, can own this territory \[\...\].”[^10] (Nazareth,
 2019, p. 15-16) Understanding that mastering the papers was of great use
 to the Italians who occupied the Borum territory of the indigenous
 people of Nazareth Cassiano de Jesus is what makes Paulo Nazareth,
