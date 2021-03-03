@@ -30,6 +30,20 @@ const IntervenantsSection = (props) => {
       break
   }
 
+  let actesLink
+  switch(intl.locale) {
+    case 'en':
+    default:
+      actesLink = "http://www.icofom2021.ca/fr/publications/icofom2021-materials"
+      break;
+    case 'fr':
+      actesLink = "http://www.icofom2021.ca/fr/publications/icofom2021-materials"
+      break;
+    case 'es':
+      actesLink = "http://www.icofom2021.ca/fr/publications/icofom2021-materials"
+      break
+  }
+
   return (
     <S.IntervenantsSection>
       <IntervenantAlphabet
@@ -54,6 +68,9 @@ const IntervenantsSection = (props) => {
           <S.LinkContainer>
             <ULink linkTo={commLink} external large>
               <FormattedMessage id="buttons.introduction" />
+            </ULink>
+            <ULink linkTo={actesLink} external large>
+              <FormattedMessage id="buttons.actes" />
             </ULink>
             {/* <ULink linkTo={commLink} external large>
               <FormattedMessage id="buttons.communicationPrompt" />
