@@ -20,7 +20,7 @@ const LetterSingle = (props) => {
       {data.map(intervenant => (
         <S.IntervenantSingle
           id={intervenant.id}
-          key={intervenant.id}
+          key={intervenant.fullName}
         >
           <Grid>
             <S.IntervenantLeft>
