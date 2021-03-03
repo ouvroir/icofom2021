@@ -172,7 +172,7 @@ export const intervenants = [
     firstName: "Michèle",
     lastName: "Rivet",
     institution: "Vice-president of the Canadian Museum for Human Rights. Board Member, ICOM-Canada",
-    presentation: "Michèle RIVET, C.M., juriste et muséologue, est Vice-présidente du CA du Musée canadien pour les droits de la personne, musée national, Membre des CA d’ICOM-Canada et d’ICOFOM. Elle a eu une première carrière au sein de la magistrature&nbsp;; notamment, pendant 20 ans, elle fut la première juge-présidente du Tribunal des droits de la personne du Québec.",
+    presentation: "Michèle RIVET, C.M., juriste et muséologue, est Vice-présidente du CA du Musée canadien pour les droits de la personne, musée national, Membre des CA d’ICOM-Canada et d’ICOFOM. Elle a eu une première carrière au sein de la magistrature  ; notamment, pendant 20 ans, elle fut la première juge-présidente du Tribunal des droits de la personne du Québec.",
     intervention: "La leçon des Peuples Premiers",
     texte: "icofom2021-michele-rivet",
     sessions: ["conference-ouverture-01", "premiers-peubles-1"]
@@ -182,7 +182,7 @@ export const intervenants = [
     firstName: "Emmanuel",
     lastName: "Kasarhérou",
     institution: "Président du Musée du Quai Branly-Jacques Chirac",
-    presentation: "Emmanuel Kasarhérou, né en 1960 à Nouméa en Nouvelle-Calédonie, Conservateur en chef du patrimoine, ancien directeur de l’Agence de Développement de la Culture Kanak (ADCK) et du Centre Culturel Jean-Marie Tjibaou à Nouméa. Co-commissaire de l’exposition «&nbsp;Kanak, l’art est une parole&nbsp;» présentée au musée du quai Branly en 2013 puis au Centre culturel Jean-Marie Tjibaou à Nouméa en 2014, et co-commissaire de l’exposition «&nbsp;20 ans, Les acquisitions du musée du quai Branly – Jacques Chirac&nbsp;» en 2019. Nommé en mai 2020, président du musée du quai Branly – Jacques Chirac.",
+    presentation: "Emmanuel Kasarhérou, né en 1960 à Nouméa en Nouvelle-Calédonie, Conservateur en chef du patrimoine, ancien directeur de l’Agence de Développement de la Culture Kanak (ADCK) et du Centre Culturel Jean-Marie Tjibaou à Nouméa. Co-commissaire de l’exposition «  Kanak, l’art est une parole  » présentée au musée du quai Branly en 2013 puis au Centre culturel Jean-Marie Tjibaou à Nouméa en 2014, et co-commissaire de l’exposition «  20 ans, Les acquisitions du musée du quai Branly – Jacques Chirac  » en 2019. Nommé en mai 2020, président du musée du quai Branly – Jacques Chirac.",
     intervention: {
       en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
       fr: "[Titre à venir]",
@@ -224,8 +224,8 @@ export const intervenants = [
     firstName: "Ibrahima",
     lastName: "Cisse",
     institution: "Doctorant en muséologie, médiation patrimoine au sein de la Chaire sur la gouvernance des musées et le droit de la culture de l’Université du Québec à Montréal, Canada",
-    presentation: "Ibrahima Cisse est doctorant en muséologie, médiation, patrimoine au sein de la Chaire sur la gouvernance des musées et le droit de la culture de  l’Université du Québec à Montréal (UQÀM).  Son sujet de doctorat porte sur «&nbsp;la coopération internationale des musées publics sénégalais de l’époque postindépendance (1960-2025)&nbsp;».",
-    intervention: "La question du retour des objets sénégalais des musées européens&nbsp;: enjeux, stratégies d’intervention, expertises muséologiques et négociations diplomatiques",
+    presentation: "Ibrahima Cisse est doctorant en muséologie, médiation, patrimoine au sein de la Chaire sur la gouvernance des musées et le droit de la culture de  l’Université du Québec à Montréal (UQÀM).  Son sujet de doctorat porte sur «  la coopération internationale des musées publics sénégalais de l’époque postindépendance (1960-2025)  ».",
+    intervention: "La question du retour des objets sénégalais des musées européens  : enjeux, stratégies d’intervention, expertises muséologiques et négociations diplomatiques",
     texte: "icofom2021-ibrahima-cisse",
     sessions: ["restitution", "musees-africains"]
   },
@@ -456,7 +456,7 @@ export const intervenants = [
     firstName: "Vicky",
     lastName: "Buring",
     institution: "École du Louvre – Paris, France",
-    presentation: "Vicky Buring est étudiante à l’École du Louvre. Elle a présenté en 2018 un mémoire d’étude «&nbsp;Najia Mehadji, 1970-1982&nbsp;: les années Sorcières&nbsp;». Elle participe au séminaire de muséologie canadienne à Montréal l’été de la même année où elle effectue en binôme une recherche appliquée sur la conception d’exposition. En 2020, elle présente un mémoire de recherche «&nbsp;Le modèle noir de Géricault à Matisse, un tournant patrimonial&nbsp;?&nbsp;» Elle prépare actuellement le concours de conservateur du patrimoine.",
+    presentation: "Vicky Buring est étudiante à l’École du Louvre. Elle a présenté en 2018 un mémoire d’étude «  Najia Mehadji, 1970-1982  : les années Sorcières  ». Elle participe au séminaire de muséologie canadienne à Montréal l’été de la même année où elle effectue en binôme une recherche appliquée sur la conception d’exposition. En 2020, elle présente un mémoire de recherche «  Le modèle noir de Géricault à Matisse, un tournant patrimonial  ?  » Elle prépare actuellement le concours de conservateur du patrimoine.",
     intervention: "L’exposition Le modèle noir : de Géricault à Matisse au Musée d’Orsay, un exercice de décolonisation dans un musée de beaux-arts ?",
     texte: "icofom2021-vicky-buring",
     sessions: ["decolonisation-musee-art"]
@@ -536,8 +536,8 @@ export const intervenants = [
     firstName: "André",
     lastName: "Delpuech",
     institution: "directeur du Musée de l’Homme, Muséum national d’histoire naturelle – Paris, France",
-    presentation: "Conservateur général du patrimoine, André Delpuech est directeur du musée de l’Homme de Paris depuis avril 2017. De 2005 à cette date, il a été responsable des collections des Amériques au Musée du quai Branly. De 1992 à 1999, il a été conservateur régional de l’archéologie de la Guadeloupe, puis chercheur à l’UMR «&nbsp;Archéologie des Amériques&nbsp;» (Université de Paris I et C.N.R.S.), avant  de diriger, en 2002, le bureau de la recherche archéologique à la sous-direction de l’Archéologie du Ministère de la Culture et de la Communication.",
-    intervention: "Colonisation et esclavage&nbsp;: Pour une nécessaire et juste place en patrimoine et en musée",
+    presentation: "Conservateur général du patrimoine, André Delpuech est directeur du musée de l’Homme de Paris depuis avril 2017. De 2005 à cette date, il a été responsable des collections des Amériques au Musée du quai Branly. De 1992 à 1999, il a été conservateur régional de l’archéologie de la Guadeloupe, puis chercheur à l’UMR «  Archéologie des Amériques  » (Université de Paris I et C.N.R.S.), avant  de diriger, en 2002, le bureau de la recherche archéologique à la sous-direction de l’Archéologie du Ministère de la Culture et de la Communication.",
+    intervention: "Colonisation et esclavage  : Pour une nécessaire et juste place en patrimoine et en musée",
     texte: "icofom2021-andre-delpuech",
     sessions: ["conference"]
   },

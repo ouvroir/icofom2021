@@ -135,7 +135,7 @@ const Footer = () => {
               Facebook
             </ULink>
             <S.FooterTexts>
-              <T.Small>contact@icofom.com</T.Small>
+              <T.Small>icofomsymposium@gmail.com</T.Small>
               <T.Small>© ICOFOM, 2021</T.Small>
             </S.FooterTexts>
           </S.FooterRight>

@@ -389,7 +389,7 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["andre-delpuech"],
-            interventionTitle: "Colonisation et esclavage&nbsp;: Pour une nécessaire et juste place en patrimoine et en musée"
+            interventionTitle: "Colonisation et esclavage  : Pour une nécessaire et juste place en patrimoine et en musée"
           }
         ],
       }
@@ -492,7 +492,7 @@ export const program = [
           },
           {
             intervenantId: ["fabien-van-geert"],
-            interventionTitle: "Le centre culturel Tjibaou, ou les complexités d’incarner le «&nbsp;destin commun&nbsp;» pluriethnique néo-calédonien",
+            interventionTitle: "Le centre culturel Tjibaou, ou les complexités d’incarner le «  destin commun  » pluriethnique néo-calédonien",
             texte: "icofom2021-fabien-van-geert"
           }
 
