@@ -149,7 +149,7 @@ export const program = [
             intervenantId: ["emmanuel-kasarherou"],
             interventionTitles: {
               en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
-              fr: "[Titre à venir]",
+              fr: "Le musée du quai Branly à l’heure du décentrement du regard",
               es: "[Próximo título]"
             }
           }
@@ -280,7 +280,7 @@ export const program = [
           {
             intervenantId: ["cynthia-chavez-lamar"],
             interventionTitles: {
-              en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
+              en: "Looking Back and Moving Forward at the Smithsonian’s National Museum of the American Indian", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
               fr: "[Titre à venir]",
               es: "[Próximo título]"
             },
@@ -414,7 +414,7 @@ export const program = [
           {
             intervenantId: ["ruth-phillips"],
             interventionTitles: {
-              en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
+              en: "‘Changing Up’ the Museum: Cultural Translation and Decolonial Politics", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
               fr: "[Titre à venir]",
               es: "[Próximo título]"
             },
@@ -512,7 +512,7 @@ export const program = [
           {
             intervenantId: ["bruno-brulon-soares"],
             interventionTitles: {
-              en: "Synthesis and conclusions",
+              en: "Synthesis and conclusions – The myths of museology: deconstructing, reconstructing and redistributing",
               fr: "Synthèse et conclusions",
               es: "Síntesis y conclusiones"
             }

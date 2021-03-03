@@ -4,7 +4,7 @@ export const intervenants = [
     firstName: "Yves",
     lastName: "Bergeron",
     institution: "UQAM Chair for Museum Governance and Cultural Law",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "", // @todo ajouter
     sessions: ["conference-ouverture-01", "conference"]
   },
@@ -23,7 +23,7 @@ export const intervenants = [
     firstName: "Elisabeth",
     lastName: "Kaine",
     institution: "Titulaire de la Chaire UNESCO en transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: {
       en: "[Title to come]",
       fr: "[Titre à venir]",
@@ -54,7 +54,7 @@ export const intervenants = [
     firstName: "Vinícius",
     lastName: "Monção",
     institution: "Faculdade de Educação, Universidade de São Paulo (FEUSP) – Sāo Paulo, Brasil", // @rmq il arrive qu’il n’y ait pas d’institution
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "La descolonizacion de los museos desde una perspectiva una perspectiva museologica transnacional",
     texte: "icofom2021-vinicius-moncao",
     sessions: ["decoloniser-les-musees-1"]
@@ -64,7 +64,7 @@ export const intervenants = [
     firstName: "Lin",
     lastName: "Li",
     institution: "Reinwardt Academie – Amsterdam, Netherlands", // @rmq il arrive qu’il n’y ait pas d’institution
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "Lin Li is a graduate student in the master of museology program at the Amsterdam University of Arts (Reinwardt Academie) and has two years of work experience as an event planner in the Zhejiang Provincial Museum in China.",
     intervention: "Repatriation from Another Perspective: Implications on Chinese Museums and Decolonization",
     texte: "icofom2021-lin-li",
     sessions: ["decoloniser-les-musees-1"]
@@ -74,7 +74,7 @@ export const intervenants = [
     firstName: "Nada",
     lastName: "Guzin Lukić",
     institution: "Université du Québec en Outaouais",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "Nada Guzin Lukic est professeure en muséologie et patrimoine, responsable des programmes de cycles supérieurs en muséologie et pratiques des arts à l’Université du Québec en Outaouais. Titulaire d’un doctorat en ethnologie de l’Université Laval, ses recherches portent sur la muséologie de la réconciliation, la muséalisation, l’inclusion et l’histoire des musées.",
     intervention: "",
     sessions: ["decoloniser-les-musees-2"]
   },
@@ -93,7 +93,7 @@ export const intervenants = [
     firstName: "Ana",
     lastName: "Avelar",
     institution: "Universidade de Brasília – Brasília, Brazil",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "The Laboratory-Exhibition: A Metalinguistic Curatorial Approach to Discuss the Future of Berlin’s Ethnological Collections",
     texte: "icofom2021-victor-zaiden-ana-avelar",
     sessions: ["decoloniser-les-musees-2"]
@@ -113,7 +113,7 @@ export const intervenants = [
     firstName: "Leon",
     lastName: "Perelson Bellinha",
     institution: "Federal University of the State of Rio de Janeiro – Rio de Janeiro, Brazil",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "Decolonizing a Colonizer’s Tool",
     texte: "icofom2021-leon-perelson-bellinha",
     sessions: ["decoloniser-les-musees-2"]
@@ -162,7 +162,7 @@ export const intervenants = [
     firstName: "Susana",
     lastName: "Manjarrez",
     institution: "Coordinación Nacional de Museos y Exposiciones – INAH Ciudad de México, México",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "La Decolonización de la palabra : del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿ en las que se inscriben ?",
     texte: "icofom2021-susana-manjarrez",
     sessions: ["decoloniser-la-museologie"]
@@ -172,7 +172,7 @@ export const intervenants = [
     firstName: "Michèle",
     lastName: "Rivet",
     institution: "Vice-president of the Canadian Museum for Human Rights. Board Member, ICOM-Canada",
-    presentation: "Michèle RIVET, C.M., juriste et muséologue, est Vice-présidente du CA du Musée canadien pour les droits de la personne, musée national, Membre des CA d’ICOM-Canada et d’ICOFOM. Elle a eu une première carrière au sein de la magistrature&nsbp;; notamment, pendant 20 ans, elle fut la première juge-présidente du Tribunal des droits de la personne du Québec.",
+    presentation: "Michèle RIVET, C.M., juriste et muséologue, est Vice-présidente du CA du Musée canadien pour les droits de la personne, musée national, Membre des CA d’ICOM-Canada et d’ICOFOM. Elle a eu une première carrière au sein de la magistrature&nbsp;; notamment, pendant 20 ans, elle fut la première juge-présidente du Tribunal des droits de la personne du Québec.",
     intervention: "La leçon des Peuples Premiers",
     texte: "icofom2021-michele-rivet",
     sessions: ["conference-ouverture-01", "premiers-peubles-1"]
@@ -182,7 +182,7 @@ export const intervenants = [
     firstName: "Emmanuel",
     lastName: "Kasarhérou",
     institution: "Président du Musée du Quai Branly-Jacques Chirac",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "Emmanuel Kasarhérou, né en 1960 à Nouméa en Nouvelle-Calédonie, Conservateur en chef du patrimoine, ancien directeur de l’Agence de Développement de la Culture Kanak (ADCK) et du Centre Culturel Jean-Marie Tjibaou à Nouméa. Co-commissaire de l’exposition «&nbsp;Kanak, l’art est une parole&nbsp;» présentée au musée du quai Branly en 2013 puis au Centre culturel Jean-Marie Tjibaou à Nouméa en 2014, et co-commissaire de l’exposition «&nbsp;20 ans, Les acquisitions du musée du quai Branly – Jacques Chirac&nbsp;» en 2019. Nommé en mai 2020, président du musée du quai Branly – Jacques Chirac.",
     intervention: {
       en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
       fr: "[Titre à venir]",
@@ -254,7 +254,7 @@ export const intervenants = [
     firstName: "Fanny",
     lastName: "Fouché",
     institution: "École du Louvre, Paris, France/IHAM, Université de Neuchâtel, Suisse",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "Le musée face à l’héritage colonial : un pharmakon ?",
     texte: "icofom2021-fanny-fouche",
     sessions: ["restitution"]
@@ -263,8 +263,8 @@ export const intervenants = [
     id: "caroline-hotte", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Caroline",
     lastName: "Hotte",
-    institution: "Université de Québec à Montréal",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "Université de Québec à Montréal – Montréal, Canada",
+    presentation: "Caroline Nepton Hotte est étudiante au doctorat au Département de sciences des religions et professeure régulière au Département d’histoire de l’art de l’Université du Québec à Montréal (UQAM). Membre de la communauté ilnue de Mashteuiatsh (Québec), elle s’intéresse depuis plus de vingt ans aux questions autochtones, particulièrement aux enjeux concernant les femmes des Premières Nations.",
     intervention: "",
     sessions: ["premiers-peubles-1"]
   },
@@ -272,7 +272,7 @@ export const intervenants = [
     id: "freire-rodriguez-saldana", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Freire",
     lastName: "Rodríguez Saldaña",
-    institution: "UNAM – Ciudad de México, México",
+    institution: "UNAM – Ciudad de México – México",
     presentation: "Sociologist with background in Art History and Museology. Experience of 15 years in the National Coordination of Museums and Exhibitions of INAH in Mexico, where he participated in various museum projects on management, support for curatorship, transfer of collections, museology and visitor studies. Participation in various forums and publications.",
     intervention: "La leçon des Peuples Premiers",
     texte: "icofom2021-freire-rodriguez-saldana",
@@ -302,7 +302,7 @@ export const intervenants = [
     id: "laurier-turgeon", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Laurier",
     lastName: "Turgeon",
-    institution: "Université Laval",
+    institution: "Université Laval – Québec, Canada",
     presentation: "Laurier Turgeon est professeur titulaire en ethnologie et en histoire au département des sciences historiques de l’Université Laval. Il dirige le Laboratoire d’enquête ethnologique et multimédia (LEEM) et le programme d'études patrimoniales. Il a été titulaire de la Chaire de recherche du Canada en patrimoine ethnologique de 2003 à 2017.",
     intervention: "",
     sessions: ["premiers-peubles-2"]
@@ -321,7 +321,7 @@ export const intervenants = [
     id: "karine-duhamel", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Karine",
     lastName: "Duhamel",
-    institution: "Canadian Museum for Human Rights – Winnipeg, Manitoba, Canada",
+    institution: "Canadian Museum for Human Rights – Winnipeg, Canada",
     presentation: "Karine Duhamel is Anishinaabe-Métis. Since 2016, she has worked as Curator of Indigenous Content at the Canadian Museum for Human Rights in Winnipeg, Manitoba. An accomplished historian and frequently requested public speaker, she is passionate about communicating Indigenous epistemologies and stories to promote understanding between Indigenous and non-Indigenous people.",
     intervention: "All My Relations: (Re)Imagined Communities and Indigenous Peoples",
     texte: "icofom2021-karine-duhamel",
@@ -342,7 +342,7 @@ export const intervenants = [
     firstName: "Manuelina Maria",
     lastName: "Duarte Cândido",
     institution: "Université de Liège and PPGAS/FCS/UFG - Liège, Brasil",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "Manuelina Duarte is professor of Museology at the University of Liège, Belgium, since 2018 and administrator of the Embarcadère du Savoir. She is also supervising doctoral theses in Social Anthropology at the Federal University of Goiás, Brazil. She is a former director of the Brazilian Institute of Museums (IBRAM).",
     intervention: "Digital strategies for widening the scope of dissemination of indigenous cultures: the Presença Karajá Project and the Tainacan Platform",
     texte: "icofom2021-manuelina-maria-duarte-candido",
     sessions: ["premiers-peubles-2"]
@@ -352,7 +352,7 @@ export const intervenants = [
     firstName: "Luciana",
     lastName: "Conrado Martins",
     institution: "Percebe e Projeto Tainacan - Network Intelligence Laboratory/ FCI/UNB – São Paulo, Brazil",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "Luciana Martins is PhD in Education, director of the company Percebe, professor of the Postgraduate Program in Arts, Heritage and Museology at the Federal University of Piauí. She is also the coordinator of the Brazilian section of the Committee for Education and Cultural Action (CECA-BR) of ICOM.",
     intervention: "Digital strategies for widening the scope of dissemination of indigenous cultures: the Presença Karajá Project and the Tainacan Platform",
     texte: "icofom2021-manuelina-maria-duarte-candido",
     sessions: ["premiers-peubles-2"]
@@ -362,7 +362,7 @@ export const intervenants = [
     firstName: "Andréa",
     lastName: "Dias Vial",
     institution: "Independent Researcher, Dra. História Social – São Paulo, Brazil",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "Andréa Vial has a PhD in Social History with a specialisation in Museology from the University of São Paulo, working mainly with cultural heritage and museology. She is a former director of the Department of Museums of São Paulo city. Her research focuses on ethnographic museum collections for the Karajá Presence Project.",
     intervention: "Digital strategies for widening the scope of dissemination of indigenous cultures: the Presença Karajá Project and the Tainacan Platform",
     texte: "icofom2021-manuelina-maria-duarte-candido",
     sessions: ["premiers-peubles-2"]
@@ -371,8 +371,8 @@ export const intervenants = [
     id: "cynthia-chavez-lamar", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Cynthia",
     lastName: "Chavez-lamar",
-    institution: "acting Associate Director for Collections and Operations National Museum of the American Indian, Smithsonian Institute",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "acting Associate Director for Collections and Operations National Museum of the American Indian, Smithsonian Institute – United States",
+    presentation: "Dr. Cynthia Chavez Lamar (San Felipe Pueblo, Hopi, Tewa, and Navajo) is currently acting Associate Director for Collections and Operations at the Smithsonian’s National Museum of the American Indian in Washington, D.C. Her career experience also includes director positions at the Indian Pueblo Cultural Center, Albuquerque, NM and the School for Advanced Research, Santa Fe, NM. Much of her work and research focuses on collaborations between Native peoples and art and cultural institutions.",
     intervention: {
       en: "[Title to come]",
       fr: "[Titre à venir]",
@@ -405,7 +405,7 @@ export const intervenants = [
     id: "simbarashe-shadreck-chitima", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Simbarashe",
     lastName: "Shadreck Chitima",
-    institution: "Midlands State University-Gweru, Zimbabwe",
+    institution: "Midlands State University-Gweru – Zimbabwe",
     presentation: "Simbarashe Shadreck Chitima (PhD), is a lecturer at Midlands State University, Zimbabwe. Dr. Chitima is also a freelance curator whose interests lie in museum education, exhibition design, accessibility of cultural institutions, disability studies, conservation and Decoloniality issues.",
     intervention: "Negotiating the Decolonisation of National Museums in Zimbabwe",
     texte: "icofom2021-simbarashe-shadreck-chitima",
@@ -415,8 +415,8 @@ export const intervenants = [
     id: "cossi-zephirin-daavo", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Cossi Zéphirin",
     lastName: "Daavo",
-    institution: "Ministère du Tourisme, de la Culture et des Arts (MTCA), Cotonou, Bénin",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "Ministère du Tourisme, de la Culture et des Arts (MTCA) – Cotonou, Bénin",
+    presentation: "",
     intervention: "Les musées africains et le patrimoine immatériel : quelques pistes pour une nouvelle muséologie",
     texte: "icofom2021-cossi-zephirin-daavo",
     sessions: ["musees-africains"]
@@ -425,8 +425,8 @@ export const intervenants = [
     id: "ernest-kpan", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Ernest",
     lastName: "Kpan",
-    institution: "Ministère de la Culture et de la Francophonie, Abidjan, Côte d’Ivoire",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "Ministère de la Culture et de la Francophonie – Abidjan, Côte d’Ivoire",
+    presentation: "",
     intervention: "La décolonisation de la muséologie : analyse réflexive sur les musées et les communautés culturelles en Côte-d’Ivoire",
     texte: "icofom2021-ernest-kpan",
     sessions: ["musees-africains"]
@@ -435,8 +435,8 @@ export const intervenants = [
     id: "françois-thierry-toe", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "François Thierry",
     lastName: "Toé",
-    institution: "Musée Beaulne – Coaticook, Québec",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "Musée Beaulne – Coaticook, Canada",
+    presentation: "François Thierry Toé est natif de Côte d’Ivoire. Muséologue et docteur en histoire de l’art, il fait son entrée dans le monde des musées comme conservateur au Musée national du costume de Côte d’Ivoire en 1998. Depuis 2008, il est directeur-conservateur du Musée Beaulne à Coaticook au Québec (Canada).",
     intervention: "Politiques et pratiques muséales africaines à l’aune des métissages et des hybridations",
     texte: "icofom2021-françois-thierry-toe",
     sessions: ["musees-africains"]
@@ -445,8 +445,8 @@ export const intervenants = [
     id: "anne-benichou", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Anne",
     lastName: "Bénichou",
-    institution: "",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "Université du Québéc à Montréal – Montréal, Canada",
+    presentation: "",
     intervention: "",
     texte: "",
     sessions: ["decolonisation-musee-art"]
@@ -456,7 +456,7 @@ export const intervenants = [
     firstName: "Vicky",
     lastName: "Buring",
     institution: "École du Louvre – Paris, France",
-    presentation: "Vicky Buring est étudiante à l’École du Louvre. Elle a présenté en 2018 un mémoire d’étude «&nbsp;Najia Mehadji, 1970-1982&nbsp;: les années Sorcières&nbsp;». Elle participe au séminaire de muséologie canadienne à Montréal l’été de la même année où elle effectue en binôme une recherche appliquée sur la conception d’exposition. En 2020, elle présente un mémoire de recherche «&nsbp;Le modèle noir de Géricault à Matisse, un tournant patrimonial&nbsp;?&nbsp;» Elle prépare actuellement le concours de conservateur du patrimoine.",
+    presentation: "Vicky Buring est étudiante à l’École du Louvre. Elle a présenté en 2018 un mémoire d’étude «&nbsp;Najia Mehadji, 1970-1982&nbsp;: les années Sorcières&nbsp;». Elle participe au séminaire de muséologie canadienne à Montréal l’été de la même année où elle effectue en binôme une recherche appliquée sur la conception d’exposition. En 2020, elle présente un mémoire de recherche «&nbsp;Le modèle noir de Géricault à Matisse, un tournant patrimonial&nbsp;?&nbsp;» Elle prépare actuellement le concours de conservateur du patrimoine.",
     intervention: "L’exposition Le modèle noir : de Géricault à Matisse au Musée d’Orsay, un exercice de décolonisation dans un musée de beaux-arts ?",
     texte: "icofom2021-vicky-buring",
     sessions: ["decolonisation-musee-art"]
@@ -476,7 +476,7 @@ export const intervenants = [
     firstName: "Vivian",
     lastName: "Horta",
     institution: "Universidade Federal do Rio de Janeiro - Rio de Janeiro, Brazil",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "The right to ancestry in Paulo Nazareth’s works",
     texte: "icofom2021-vivian-horta",
     sessions: ["decolonisation-musee-art"]
@@ -506,7 +506,7 @@ export const intervenants = [
     firstName: "Silvilene",
     lastName: "Barros",
     institution: "Universidade Federal do Estado do Rio de Janeiro - Rio de Janeiro, Brazil",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "Experimental Museology, its Principles and Practices: The Creation of the LGBTI+ Memory and Training Center in Rio de Janeiro",
     texte: "icofom2021-silvilene-barros-carolina-zanesi-marina-pinheiro",
     sessions: ["social-museology"]
@@ -535,9 +535,9 @@ export const intervenants = [
     id: "andre-delpuech", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "André",
     lastName: "Delpuech",
-    institution: "directeur du Musée de l’Homme, Muséum national d’histoire naturelle, Paris",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
-    intervention: "Colonisation et esclavage : Pour une nécessaire et juste place en patrimoine et en musée",
+    institution: "directeur du Musée de l’Homme, Muséum national d’histoire naturelle – Paris, France",
+    presentation: "Conservateur général du patrimoine, André Delpuech est directeur du musée de l’Homme de Paris depuis avril 2017. De 2005 à cette date, il a été responsable des collections des Amériques au Musée du quai Branly. De 1992 à 1999, il a été conservateur régional de l’archéologie de la Guadeloupe, puis chercheur à l’UMR «&nbsp;Archéologie des Amériques&nbsp;» (Université de Paris I et C.N.R.S.), avant  de diriger, en 2002, le bureau de la recherche archéologique à la sous-direction de l’Archéologie du Ministère de la Culture et de la Communication.",
+    intervention: "Colonisation et esclavage&nbsp;: Pour une nécessaire et juste place en patrimoine et en musée",
     texte: "icofom2021-andre-delpuech",
     sessions: ["conference"]
   },
@@ -545,7 +545,7 @@ export const intervenants = [
     id: "stephane-chagnon", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Stéphane",
     lastName: "Chagnon",
-    institution: "Directeur général de la Société des musées du Québec",
+    institution: "Directeur général de la Société des musées du Québec – Montréal, Canada",
     presentation: "Stéphane Chagnon est directeur général de la Société des musées du Québec qui regroupe 300 institutions muséales. Il œuvre depuis 25 ans pour la muséologie à titre de directeur, commissaire et administrateur et possède une excellente connaissance du réseau muséal québécois et des enjeux auxquels sont actuellement confrontés les musées.",
     intervention: "",
     texte: "",
@@ -555,8 +555,8 @@ export const intervenants = [
     id: "ruth-phillips", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Ruth",
     lastName: "Phillips",
-    institution: "professeure émérite, Université Carleton",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "professeure émérite, Université Carleton – Ottawa, Canada",
+    presentation: "Ayant soutenu, en septembre 2020, une thèse entre l'École du Louvre et l’Institut d’Histoire de l’Art de l’Université de Neuchâtel sur la présence du sacré au musée autour des pérégrinations de reliquaires chrétiens des sanctuaires du Moyen Age vers les espaces muséaux, Fanny Fouché poursuit ses recherches entre histoire de l’art médiéval et muséologie.",
     intervention: {
       en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
       fr: "[Titre à venir]",
@@ -569,8 +569,8 @@ export const intervenants = [
     id: "johanne-lamoureux", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Johanne",
     lastName: "Lamoureux",
-    institution: "",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "Université de Montréal – Montréal, Canada",
+    presentation: "",
     intervention: "",
     texte: "",
     sessions: ["metissage-1"]
@@ -591,7 +591,7 @@ export const intervenants = [
     firstName: "Jean-François",
     lastName: "Gauvin",
     institution: "Université Laval — Québec, Canada",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "Les musées et le métissage culturel intra muros à l’heure du vivre-ensemble : bousculer les conventions",
     texte: "icofom2021-jean-françois-gauvin-manon-joly-marie-kim-gagnon",
     sessions: ["metissage-1"]
@@ -601,7 +601,7 @@ export const intervenants = [
     firstName: "Manon",
     lastName: "Joly",
     institution: "Université Laval — Québec, Canada",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "J’ai complété une double licence en sociologie - muséologie et en médiation - actions culturelles.  Mon projet de mémoire en maîtrise ethnologie - patrimoine de l’Université Laval s’oriente sur la muséologie numérique à destination des adolescents dans les musées. Côté professionnel, je travaille dans un musée ethnographique à Québec.",
     intervention: "Muséologies postcoloniale et décoloniale. Ou les frontières poreuses des concepts muséologiques",
     texte: "icofom2021-jean-françois-gauvin-manon-joly-marie-kim-gagnon",
     sessions: ["metissage-1"]
@@ -611,7 +611,7 @@ export const intervenants = [
     firstName: "Marie-Kim",
     lastName: "Gagnon",
     institution: "Université Laval — Québec, Canada",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "Passionnée de culture, j’ai complété un baccalauréat en anthropologie ainsi qu’un diplôme d’études supérieures spécialisées en muséologie à l’Université Laval. Mes champs d’intérêt sont principalement la gouvernance des musées ainsi que la mise en valeur du patrimoine immatériel. Au niveau professionnel, je suis muséologue pour une société d’histoire en Chaudière-Appalaches.",
     intervention: "Muséologies postcoloniale et décoloniale. Ou les frontières poreuses des concepts muséologiques",
     texte: "icofom2021-jean-françois-gauvin-manon-joly-marie-kim-gagnon",
     sessions: ["metissage-1"]
@@ -620,7 +620,7 @@ export const intervenants = [
     id: "jean-françois-leclerc", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Jean-François",
     lastName: "Leclerc",
-    institution: "Muzéum Expert-conseil - Montréal, Québec (Canada)",
+    institution: "Muzéum Expert-conseil - Montréal, Canada",
     presentation: "Historien et muséologue, il a dirigé le Centre d’histoire de Montréal (devenu le MEM. Centre des mémoires montréalaises), redéfinissant ce musée municipal autour d’une muséologie à l’écoute de l’histoire et de la parole des citoyens de toutes origines. Comme consultant chargé de plusieurs projets d’exposition et de médiation, il accompagne actuellement la mise sur pied d’un musée des cultures africaines et afro-descendantes, l’Afromusée.",
     intervention: "La préservation du passé et des cultures immigrantes dans les musées : une définition du patrimoine à repenser",
     texte: "icofom2021-jean-françois-leclerc",
@@ -641,7 +641,7 @@ export const intervenants = [
     firstName: "Maryse",
     lastName: "Paquin",
     institution: "Université du Québec à Trois-Rivières – Trois-Rivières, Canada",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "Perspective agoniste : Proposition pour l’inclusion des communautés culturelles et leur participation dans les musées",
     texte: "icofom2021-rebeca-lemay-perrault-maryse-paquin",
     sessions: ["metissage-1"]
@@ -651,7 +651,7 @@ export const intervenants = [
     firstName: "Habib",
     lastName: "Saidi",
     institution: "",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "",
     texte: "",
     sessions: ["metissage-2"]
@@ -691,7 +691,7 @@ export const intervenants = [
     firstName: "Olga",
     lastName: "Zabalueva",
     institution: "Linköping University – Sweden",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "Museological Myths of Decolonization and Neutrality",
     texte: "icofom2021-shikoh-shiraiwa-olga-zabalueva",
     sessions: ["metissage-2"]
@@ -711,7 +711,7 @@ export const intervenants = [
     firstName: "Quitterie",
     lastName: "Puel",
     institution: "Chercheuse indépendante – Perth, Australie",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "J’ai effectué un master en muséologie et nouveaux médias à la Sorbonne Nouvelle en 2018 grâce auquel j’ai eu la chance d’effectuer un stage de 6 mois au Centre Culturel Tjibaou de Nouméa. Je vis désormais à Perth où je travaille pour un journal français.",
     intervention: "Le centre culturel Tjibaou, ou les complexités d’incarner le « destin commun » pluriethnique néo-calédonien",
     texte: "icofom2021-fabien-van-geert-quitterie-puel",
     sessions: ["metissage-1"]
@@ -720,7 +720,7 @@ export const intervenants = [
     id: "marie-lalonde", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Marie",
     lastName: "Lalonde",
-    institution: "présidente ICOM-Canada",
+    institution: "présidente ICOM-Canada – Canada",
     presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
     intervention: "",
     texte: "",
@@ -730,8 +730,8 @@ export const intervenants = [
     id: "bruno-brulon-soares", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Bruno",
     lastName: "Brulon-Soares",
-    institution: "",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    institution: "ICOFOM – Brazil",
+    presentation: "Bruno Brulon Soares (brunobrulon@gmail.com) is a museologist and anthropologist based in Brazil, professor of museology at the Federal University of the State of Rio de Janeiro (UNIRIO) and professor in the Post-Graduate Program in Museology and Heritage (UNIRIO / MAST). He coordinates the Laboratory of Experimental Museology at this university, working closely with community-based museums and with several projects at the grassroots level involving cultural heritage and museums. Currently he is chair of the ICOM International Committee for Museology (ICOFOM) and co-chair of the Standing Committee for the Museum Definition (ICOM Define). His research currently focuses on museums decolonisation, community action and the political uses of museums and cultural heritage.",
     intervention: "",
     texte: "",
     sessions: ["social-museology", "conference-cloture"]
