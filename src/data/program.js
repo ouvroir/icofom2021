@@ -67,15 +67,7 @@ export const program = [
           }
         ],
       },
-      {
-        id: "social-event01",
-        titles: {
-          en: "Social event",
-          fr: "Événement social",
-          es: "Evento social"
-        },
-        timeRange: ["12:10", "12:50", "EDT"]
-      },
+      
       {
         id: "decoloniser-les-musees-1",
         // si multilingue :
@@ -151,7 +143,6 @@ export const program = [
           }
         ],
       },
-
     ],
   },
   {
@@ -309,7 +300,7 @@ export const program = [
               en: "Looking Back and Moving Forward at the Smithsonian’s National Museum of the American Indian", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
               fr: "[Titre à venir]",
               es: "[Próximo título]"
-            },
+            }
           }
         ],
       },
@@ -411,7 +402,7 @@ export const program = [
               en: "‘Changing Up’ the Museum: Cultural Translation and Decolonial Politics", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
               fr: "[Titre à venir]",
               es: "[Próximo título]"
-            },
+            }
           }
         ],
       },
