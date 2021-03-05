@@ -11,7 +11,7 @@ export const program = [
           fr: "Conférence inaugurale",
           es: "Conferencia inaugural"
         },
-        timeRange: ["09:00", "10:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["09:00", "10:20", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "laurent-jerome", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
@@ -27,11 +27,54 @@ export const program = [
             intervenantId: ["elisabeth-kaine"],
             interventionTitles: {
               en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
-              fr: "[Titre à venir]",
+              fr: "Récit d’une incursion autochtone en territoire muséal",
               es: "[Próximo título]"
             }
           }
         ],
+      },
+      {
+        id: "decoloniser-la-museologie",
+        // si multilingue :
+        titles: {
+          en: "Decolonizing museology",
+          fr: "Décoloniser la muséologie",
+          es: "Descolonizar la museología"
+        },
+        timeRange: ["10:30", "12:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
+        president: "maria-juliana-angarita", // @todo ajouter ann-davis
+        interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
+          {
+            intervenantId: ["francois-mairesse"],
+            interventionTitle: "Décoloniser la muséologie?",
+            texte: "icofom2021-francois-mairesse"
+          },
+          {
+            intervenantId: ["liubov-petrunina"],
+            interventionTitle: "Deconstruction of Museum landscape",
+            texte: "icofom2021-liubov-petrunina"
+          },
+          {
+            intervenantId: ["susana-manjarrez"],
+            interventionTitle: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben?",
+            texte: "icofom2021-susana-manjarrez"
+          },
+          {
+            intervenantId: ["ernest-kpan"],
+            interventionTitle: "La décolonisation de la muséologie : analyse réflexive sur les musées et les communautés culturelles en Côte-d’Ivoire",
+            texte: "icofom2021-ernest-kpan"
+          }
+        ],
+      },
+      {
+        id: "social-event01",
+        titles: {
+          en: "Social event",
+          fr: "Événement social",
+          es: "Evento social"
+        },
+        timeRange: ["12:10", "12:50", "EDT"]
       },
       {
         id: "decoloniser-les-musees-1",
@@ -41,7 +84,7 @@ export const program = [
           fr: "Décoloniser les musées (1)",
           es: "Descolonizar los museos (1)"
         },
-        timeRange: ["10:30", "12:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["13:00", "14:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "anna-leschchenko", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
@@ -59,6 +102,11 @@ export const program = [
             intervenantId: ["lin-li"],
             interventionTitle: "Repatriation from Another Perspective: Implications on Chinese Museums and Decolonization",
             texte: "icofom2021-lin-li"
+          },
+          {
+            intervenantId: ["simbarashe-shadreck-chitima"],
+            interventionTitle: "Negotiating the Decolonisation of National Museums in Zimbabwe",
+            texte: "icofom2021-simbarashe-shadreck-chitima"
           }
         ],
       },
@@ -70,7 +118,7 @@ export const program = [
           fr: "Décoloniser les musées (2)",
           es: "Descolonizar los museos (2)"
         },
-        timeRange: ["13:00", "14:30", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["15:00", "17:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "nada-guzin", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
@@ -95,38 +143,15 @@ export const program = [
             intervenantId: ["marion-bertin"],
             interventionTitle: "Que signifie «décoloniser» les musées?",
             texte: "icofom2021-marion-bertin"
+          },
+          {
+            intervenantId: ["christine-bluard"],
+            interventionTitle: "Africamuseum: réorganisation",
+            texte: "icofom2021-christine-bluard"
           }
         ],
       },
-      {
-        id: "decoloniser-la-museologie",
-        // si multilingue :
-        titles: {
-          en: "Decolonizing museology",
-          fr: "Décoloniser la muséologie",
-          es: "Descolonizar la museología"
-        },
-        timeRange: ["15:00", "16:30", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
-        replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "jean-francois-gauvin", // id du président
-        interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
-          {
-            intervenantId: ["francois-mairesse"],
-            interventionTitle: "Décoloniser la muséologie?",
-            texte: "icofom2021-francois-mairesse"
-          },
-          {
-            intervenantId: ["liubov-petrunina"],
-            interventionTitle: "Deconstruction of Museum landscape",
-            texte: "icofom2021-liubov-petrunina"
-          },
-          {
-            intervenantId: ["susana-manjarrez"],
-            interventionTitle: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben?",
-            texte: "icofom2021-susana-manjarrez"
-          }
-        ],
-      }
+
     ],
   },
   {
@@ -141,7 +166,7 @@ export const program = [
           fr: "Grande conférence",
           es: "Discurso principal"
         },
-        timeRange: ["09:00", "10:30", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["09:00", "10:20", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "francois-mairesse", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
@@ -162,9 +187,9 @@ export const program = [
           fr: "Restitution et résistance à la décolonisation",
           es: "Restitución y resistencia a la descolonización"
         },
-        timeRange: ["10:30", "12:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["10:30", "12:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "", // @todo à déterminer
+        president: "", // @todo Maryse Paquin et Manuelina Duarte à confirmer
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["ana-carolina-gelmini-de-faria","kimberly-terrany-alves-pires"],
@@ -188,19 +213,20 @@ export const program = [
           },
           {
             intervenantId: ["fanny-fouche"],
-            interventionTitle: "Le musée face à l’héritage colonial: un pharmakon?",
+            interventionTitle: "Le musée face à l’héritage colonial : un pharmakon?",
             texte: "icofom2021-fanny-fouche"
           }
         ],
       },
+      // @todo ajouter événement social
       {
         id: "premiers-peubles-1",
         titles: {
           en: "Museums and First People (1)",
           fr: "Musées et Premiers Peuples (1)",
-          es: "Museos y pueblos originarios (1)" // @todo check translation
+          es: "Museos y pueblos originarios (1)"
         },
-        timeRange: ["13:00", "14:30", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["14:00", "15:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "caroline-hotte", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
@@ -233,7 +259,7 @@ export const program = [
           fr: "Musées et Premiers Peuples (2)",
           es: "Museos y pueblos originarios (2)" // @todo check translation
         },
-        timeRange: ["15:00", "16:30", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["16:00", "17:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "laurier-turgeon", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
@@ -273,9 +299,9 @@ export const program = [
           fr: "Grande conférence",
           es: "Discurso principal"
         },
-        timeRange: ["09:00", "10:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo horaire ?
+        timeRange: ["09:00", "10:20", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo horaire ?
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "jonathan-lainey", // id du président @todo manquant
+        president: "jonathan-lainey", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["cynthia-chavez-lamar"],
@@ -288,43 +314,34 @@ export const program = [
         ],
       },
       {
-        id: "musees-africains",
+        id: "social-museology",
         titles: {
-          en: "African Museums",
-          fr: "Musées africains",
-          es: "Museos africanos"
+          en: "Social museology and experimental museology",
+          fr: "Muséologie sociale et muséologie expérimentale",
+          es: "Museología social y experimental" // @todo check translation
         },
-        timeRange: ["10:00", "12:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo vérifier
+        timeRange: ["10:30", "12:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "ibrahima-cisse", // id du président
+        president: "bruno-brulon-soares", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
-            intervenantId: ["christine-bluard"],
-            interventionTitle: "Africamuseum: réorganisation",
-            texte: "icofom2021-christine-bluard"
+            intervenantId: ["marcia-bertotto","vera-rangel"],
+            interventionTitle: "Uno museo Comunitario en el Sur del Brasil – Mixturas, Hibridismos y Participación",
+            texte: "icofom2021-marcia-bertotto-vera-rangel"
           },
           {
-            intervenantId: ["simbarashe-shadreck-chitima"],
-            interventionTitle: "Negotiating the Decolonisation of National Museums in Zimbabwe",
-            texte: "icofom2021-simbarashe-shadreck-chitima"
+            intervenantId: ["silvilene-barros","carolina-zanesi","marina-pinheiro"],
+            interventionTitle: "Experimental Museology, its Principles and Practices: The Creation of the LGBTI+ Memory and Training Center in Rio de Janeiro",
+            texte: "icofom2021-silvilene-barros-carolina-zanesi-marina-pinheiro"
           },
           {
             intervenantId: ["cossi-zephirin-daavo"],
             interventionTitle: "Les musées africains et le patrimoine immatériel: quelques pistes pour une nouvelle muséologie",
             texte: "icofom2021-cossi-zephirin-daavo"
-          },
-          {
-            intervenantId: ["ernest-kpan"],
-            interventionTitle: "La décolonisation de la muséologie: analyse réflexive sur les musées et les communautés culturelles en Côte-d’Ivoire",
-            texte: "icofom2021-ernest-kpan"
-          },
-          {
-            intervenantId: ["françois-thierry-toe"],
-            interventionTitle: "Politiques et pratiques muséales africaines à l’aune des métissages et des hybridations",
-            texte: "icofom2021-françois-thierry-toe"
           }
         ],
       },
+      // @todo social event
       {
         id: "decolonisation-musee-art",
         titles: {
@@ -332,7 +349,7 @@ export const program = [
           fr: "Décolonisation dans les musées d’art",
           es: "La descolonización en los museos de arte" // @todo check translation
         },
-        timeRange: ["13:00", "15:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["13:00", "14:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "anne-benichou", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
@@ -354,42 +371,19 @@ export const program = [
         ],
       },
       {
-        id: "social-museology",
-        titles: {
-          en: "Social museology and experimental museology",
-          fr: "Muséologie sociale et muséologie expérimentale",
-          es: "Museología social y experimental" // @todo check translation
-        },
-        timeRange: ["15:00", "16:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
-        replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "bruno-brulon-soares", // id du président
-        interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
-          {
-            intervenantId: ["marcia-bertotto","vera-rangel"],
-            interventionTitle: "Uno museo Comunitario en el Sur del Brasil – Mixturas, Hibridismos y Participación",
-            texte: "icofom2021-marcia-bertotto-vera-rangel"
-          },
-          {
-            intervenantId: ["silvilene-barros","carolina-zanesi","marina-pinheiro"],
-            interventionTitle: "Experimental Museology, its Principles and Practices: The Creation of the LGBTI+ Memory and Training Center in Rio de Janeiro",
-            texte: "icofom2021-silvilene-barros-carolina-zanesi-marina-pinheiro"
-          }
-        ],
-      },
-      {
         id: "conference",
         titles: {
           en: "Keynote speech",
           fr: "Grande conférence",
-          es: "Discurso principal" // @todo check translation
+          es: "Discurso principal"
         },
-        timeRange: ["16:00", "17:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["15:00", "16:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "yves-bergeron", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["andre-delpuech"],
-            interventionTitle: "Colonisation et esclavage  : Pour une nécessaire et juste place en patrimoine et en musée"
+            interventionTitle: "Colonisation et esclavage : Pour une nécessaire et juste place en patrimoine et en musée"
           }
         ],
       }
@@ -407,7 +401,7 @@ export const program = [
           fr: "Grande conférence",
           es: "Discurso principal"
         },
-        timeRange: ["09:00", "10:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo horaire ?
+        timeRange: ["09:00", "10:20", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo horaire ?
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "stephane-chagnon", // id du président @todo manquant
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
@@ -428,15 +422,10 @@ export const program = [
           fr: "Métissage: communautés culturelles (1)",
           es: "Métis: comunidades culturales (1)"
         },
-        timeRange: ["10:00", "12:00", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo vérifier
+        timeRange: ["10:30", "12:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo vérifier
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "johanne-lamoureux", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
-          {
-            intervenantId: ["fabien-van-geert"],
-            interventionTitle: "Muséologies postcoloniale et décoloniale. Ou les frontières poreuses des concepts muséologiques",
-            texte: "icofom2021-fabien-van-geert"
-          },
           {
             intervenantId: ["jean-françois-gauvin","manon-joly","marie-kim-gagnon"],
             interventionTitle: "Les musées et le métissage culturel intra muros à l’heure du vivre-ensemble: bousculer les conventions",
@@ -456,6 +445,11 @@ export const program = [
             intervenantId: ["fabien-van-geert","quitterie-puel"],
             interventionTitle: "Le centre culturel Tjibaou, ou les complexités d’incarner le «destin commun» pluriethnique néo-calédonien",
             texte: "icofom2021-fabien-van-geert-quitterie-puel"
+          },
+          {
+            intervenantId: ["françois-thierry-toe"],
+            interventionTitle: "Politiques et pratiques muséales africaines à l’aune des métissages et des hybridations",
+            texte: "icofom2021-françois-thierry-toe"
           }
         ],
       },
@@ -466,9 +460,9 @@ export const program = [
           fr: "Métissage: communautés culturelles (2)",
           es: "Métis: comunidades culturales (2)"
         },
-        timeRange: ["13:00", "14:30", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["13:30", "15:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "habib-saidi", // @todo ajouter deuxième
+        president: "habib-saidi", // @todo ajouter deuxième Alain Caron
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["markus-walz"],
@@ -492,9 +486,9 @@ export const program = [
           },
           {
             intervenantId: ["fabien-van-geert"],
-            interventionTitle: "Le centre culturel Tjibaou, ou les complexités d’incarner le «  destin commun  » pluriethnique néo-calédonien",
+            interventionTitle: "Muséologies postcoloniale et décoloniale. Ou les frontières poreuses des concepts muséologiques",
             texte: "icofom2021-fabien-van-geert"
-          }
+          },
 
         ],
       },
@@ -505,7 +499,7 @@ export const program = [
           fr: "Session de clôture",
           es: "Sesión de clausura" // @todo check translation
         },
-        timeRange: ["15:00", "16:30", "EST"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
+        timeRange: ["15:30", "16:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
         president: "marie-lalonde", // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session

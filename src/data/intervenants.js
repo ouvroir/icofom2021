@@ -23,10 +23,10 @@ export const intervenants = [
     firstName: "Elisabeth",
     lastName: "Kaine",
     institution: "Titulaire de la Chaire UNESCO en transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment",
-    presentation: "",
+    presentation: "Élisabeth Kaine est professeure associée en design à l’UQAC. Elle a créé le projet <em>Design et culture matérielle</em> qui développe depuis 1991 des méthodes de co-création et de concertation comme leviers de développement des individus et des communautés autochtones. Elle a fondé <em>La Boîte Rouge vif</em>, un OBNL voué à la valorisation des cultures autochtones, et fut à sa direction de 2000 à 2017. Elle a initié une grande concertation auprès des 11 nations autochtones du Québec et dirigé la production de deux ouvrages en témoignant en 2016 (<em>Voix, Visages, Paysages</em> et <em>Le petit guide de la grande concertation</em>). Elle est titulaire de la chaire UNESCO La transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment.",
     intervention: {
       en: "[Title to come]",
-      fr: "[Titre à venir]",
+      fr: "Récit d’une incursion autochtone en territoire muséal",
       es: "[Próximo título]"},
     sessions: ["conference-ouverture-01"]
   },
@@ -399,7 +399,7 @@ export const intervenants = [
     presentation: "Christine Bluard est muséologue, en charge du développement des arts contemporains au Musée royal de l’Afrique centrale (AfricaMuseum) à Tervuren, en Belgique. Elle coordonne le programme des résidences d’artiste depuis 2013. Elle est facilitatrice au musée pour la recherche dans les collections et le contact avec les scientifiques.",
     intervention: "Africamuseum : réorganisation",
     texte: "icofom2021-christine-bluard",
-    sessions: ["musees-africains"]
+    sessions: ["decoloniser-les-musees-2"]
   },
   {
     id: "simbarashe-shadreck-chitima", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
@@ -409,7 +409,7 @@ export const intervenants = [
     presentation: "Simbarashe Shadreck Chitima (PhD), is a lecturer at Midlands State University, Zimbabwe. Dr. Chitima is also a freelance curator whose interests lie in museum education, exhibition design, accessibility of cultural institutions, disability studies, conservation and Decoloniality issues.",
     intervention: "Negotiating the Decolonisation of National Museums in Zimbabwe",
     texte: "icofom2021-simbarashe-shadreck-chitima",
-    sessions: ["musees-africains"]
+    sessions: ["decoloniser-les-musees-1"]
   },
   {
     id: "cossi-zephirin-daavo", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
@@ -419,7 +419,7 @@ export const intervenants = [
     presentation: "",
     intervention: "Les musées africains et le patrimoine immatériel : quelques pistes pour une nouvelle muséologie",
     texte: "icofom2021-cossi-zephirin-daavo",
-    sessions: ["musees-africains"]
+    sessions: ["social-museology"]
   },
   {
     id: "ernest-kpan", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
@@ -429,7 +429,7 @@ export const intervenants = [
     presentation: "",
     intervention: "La décolonisation de la muséologie : analyse réflexive sur les musées et les communautés culturelles en Côte-d’Ivoire",
     texte: "icofom2021-ernest-kpan",
-    sessions: ["musees-africains"]
+    sessions: ["decoloniser-la-museologie"]
   },
   {
     id: "françois-thierry-toe", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
@@ -439,7 +439,7 @@ export const intervenants = [
     presentation: "François Thierry Toé est natif de Côte d’Ivoire. Muséologue et docteur en histoire de l’art, il fait son entrée dans le monde des musées comme conservateur au Musée national du costume de Côte d’Ivoire en 1998. Depuis 2008, il est directeur-conservateur du Musée Beaulne à Coaticook au Québec (Canada).",
     intervention: "Politiques et pratiques muséales africaines à l’aune des métissages et des hybridations",
     texte: "icofom2021-françois-thierry-toe",
-    sessions: ["musees-africains"]
+    sessions: ["metissage-1"]
   },
   {
     id: "anne-benichou", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
