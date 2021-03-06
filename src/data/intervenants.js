@@ -54,7 +54,7 @@ export const intervenants = [
     firstName: "Vinícius",
     lastName: "Monção",
     institution: "Faculdade de Educação, Universidade de São Paulo (FEUSP) – Sāo Paulo, Brasil", // @rmq il arrive qu’il n’y ait pas d’institution
-    presentation: "",
+    presentation: "PhD in Education, linked to the University of São Paulo (Brazil) where he develops research on the transnational perspective in History of Education. Experience in discussions about education in museums for more than 10 years. He is currently a member of the board of ICOFOM LAC.",
     intervention: "La descolonizacion de los museos desde una perspectiva una perspectiva museologica transnacional",
     texte: "icofom2021-vinicius-moncao",
     sessions: ["decoloniser-les-musees-1"]
@@ -83,7 +83,7 @@ export const intervenants = [
     firstName: "Victor",
     lastName: "Zaiden",
     institution: "Universidade de Brasília – Brasília, Brazil",
-    presentation: "Ana Avelar is an adjunct professor of Theory, Criticism and Art History at the University of Brasília. She was a curator at Niemeyer House between 2017 and 2021. In 2019, she won the Curators Exchange Program promoted by the Brazilian Contemporary Art Association - ABACT in partnership with the Getty Research Institute.",
+    presentation: "Victor Zaiden is a Curatorial Studies Master’s Student at the Goethe-University in Frankfurt am Main, Germany. Previously he attended the University of Brasília, Brazil, where he graduated in Theory, Criticism, and Art History and Political Science. His academic development finds its counterpart in curatorial experiences, privately commissioned exhibition projects, and critical essays.",
     intervention: "The Laboratory-Exhibition: A Metalinguistic Curatorial Approach to Discuss the Future of Berlin’s Ethnological Collections",
     texte: "icofom2021-victor-zaiden-ana-avelar",
     sessions: ["decoloniser-les-musees-2"]
@@ -93,7 +93,7 @@ export const intervenants = [
     firstName: "Ana",
     lastName: "Avelar",
     institution: "Universidade de Brasília – Brasília, Brazil",
-    presentation: "",
+    presentation: "Ana Avelar is an adjunct professor of Theory, Criticism and Art History at the University of Brasília. She was a curator at Niemeyer House between 2017 and 2021. In 2019, she won the Curators Exchange Program promoted by the Brazilian Contemporary Art Association - ABACT in partnership with the Getty Research Institute.",
     intervention: "The Laboratory-Exhibition: A Metalinguistic Curatorial Approach to Discuss the Future of Berlin’s Ethnological Collections",
     texte: "icofom2021-victor-zaiden-ana-avelar",
     sessions: ["decoloniser-les-musees-2"]
@@ -254,7 +254,7 @@ export const intervenants = [
     firstName: "Fanny",
     lastName: "Fouché",
     institution: "École du Louvre, Paris, France/IHAM, Université de Neuchâtel, Suisse",
-    presentation: "",
+    presentation: "Ayant soutenu, en septembre 2020, une thèse entre l'École du Louvre et l’Institut d’Histoire de l’Art de l’Université de Neuchâtel sur la présence du sacré au musée autour des pérégrinations de reliquaires chrétiens des sanctuaires du Moyen  ge vers les espaces muséaux, Fanny Fouché poursuit ses recherches entre histoire de l’art médiéval et muséologie.",
     intervention: "Le musée face à l’héritage colonial : un pharmakon ?",
     texte: "icofom2021-fanny-fouche",
     sessions: ["restitution"]
@@ -280,7 +280,7 @@ export const intervenants = [
   },
   {
     id: "maria-de-simone-ferreira", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
-    firstName: "maria",
+    firstName: "Maria",
     lastName: "de Simone Ferreira",
     institution: "Museu Histórico Nacional – Rio de Janeiro, Brazil",
     presentation: "Technical Coordinator of Museu Histórico Nacional, in Rio de Janeiro, Brazil. She worked at and directed the Museu de Arqueologia de Itaipu, in Niterói, Brazil (2006-2012). Maria is a museologist and she has a PhD in History. Her research interests concern history of museums, modern collections, and history and archaeology museums.",
@@ -374,7 +374,7 @@ export const intervenants = [
     institution: "acting Associate Director for Collections and Operations National Museum of the American Indian, Smithsonian Institute – United States",
     presentation: "Dr. Cynthia Chavez Lamar (San Felipe Pueblo, Hopi, Tewa, and Navajo) is currently acting Associate Director for Collections and Operations at the Smithsonian’s National Museum of the American Indian in Washington, D.C. Her career experience also includes director positions at the Indian Pueblo Cultural Center, Albuquerque, NM and the School for Advanced Research, Santa Fe, NM. Much of her work and research focuses on collaborations between Native peoples and art and cultural institutions.",
     intervention: {
-      en: "[Title to come]",
+      en: "Looking Back and Moving Forward at the Smithsonian’s National Museum of the American Indian",
       fr: "[Titre à venir]",
       es: "[Próximo título]"
     },
@@ -476,7 +476,7 @@ export const intervenants = [
     firstName: "Vivian",
     lastName: "Horta",
     institution: "Universidade Federal do Rio de Janeiro - Rio de Janeiro, Brazil",
-    presentation: "",
+    presentation: "Doctorate student (PPGAV/EBA/UFRJ), Viviam Horta researches performance art works in Brazilian museums, under the guidance of Ivair Júnior Reinaldim. Her Master dissertation became the exhibition “Coleção Castro Maya: Sociedade dos Cem Bibliófilos do Brasil” (2018). Vivian works as a Museologist at Museus Castro Maya - part of Brazilian Museum’s Institute -, where she is responsible for the Collections section.",
     intervention: "The right to ancestry in Paulo Nazareth’s works",
     texte: "icofom2021-vivian-horta",
     sessions: ["decolonisation-musee-art"]
@@ -556,9 +556,9 @@ export const intervenants = [
     firstName: "Ruth",
     lastName: "Phillips",
     institution: "professeure émérite, Université Carleton – Ottawa, Canada",
-    presentation: "Ayant soutenu, en septembre 2020, une thèse entre l'École du Louvre et l’Institut d’Histoire de l’Art de l’Université de Neuchâtel sur la présence du sacré au musée autour des pérégrinations de reliquaires chrétiens des sanctuaires du Moyen Age vers les espaces muséaux, Fanny Fouché poursuit ses recherches entre histoire de l’art médiéval et muséologie.",
+    presentation: "Ruth Phillips is Canada Research Chair and Professor of Art History Emerita at Carleton University, Ottawa. Following doctoral research on African art her work has focused on Indigenous North American arts and critical museology. Her books include Trading Identities: The Souvenir in Native North American Art from the Northeast and Museum Pieces: Toward the Indigenization of Canadian Museums. She served as director of the UBC Museum of Anthropology and is a fellow of the Royal Society of Canada.",
     intervention: {
-      en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
+      en: "‘Changing Up’ the Museum: Cultural Translation and Decolonial Politics", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
       fr: "[Titre à venir]",
       es: "[Próximo título]"
     },
@@ -631,7 +631,7 @@ export const intervenants = [
     firstName: "Rébéca",
     lastName: "Lemay-Perrault",
     institution: "Université du Québec à Montréal – Montréal, Canada",
-    presentation: "Maryse Paquin détient un doctorat en éducation et une maîtrise en muséologie. Elle a également mené des études postdoctorales en psychopédagogie. Elle est professeure titulaire au Département d’études en loisir, culture et tourisme de l’Université du Québec à Trois-Rivières. Ses intérêts de recherche portent sur la médiation culturelle. Elle œuvre en éducation culturelle depuis les trente dernières années.",
+    presentation: "Doctorante en muséologie à l’Université du Québec à Montréal, chargée de cours à l’Université du Québec à Trois-Rivières et médiatrice culturelle, Rébéca Lemay-Perreault détient une maîtrise en histoire de l’art. Ses recherches actuelles portent sur la participation au musée d’art des publics fragilisés, notamment les adolescents et les communautés culturelles.",
     intervention: "Perspective agoniste : Proposition pour l’inclusion des communautés culturelles et leur participation dans les musées",
     texte: "icofom2021-rebeca-lemay-perrault-maryse-paquin",
     sessions: ["metissage-1"]
@@ -681,7 +681,7 @@ export const intervenants = [
     firstName: "Shikoh",
     lastName: "Shiraiwa",
     institution: "University of Helsinki – Helsinki, Finland",
-    presentation: "Olga Zabalueva is a Russian museologist who is currently doing her PhD in Culture and Society at Linköping university, Sweden. Her interdisciplinary research focuses on museology as a field of knowledge; museums and the (re)construction of identities; the active social position of a contemporary museum; memory and activism.",
+    presentation: "Shikoh Shiraiwa is a PhD student at the University of Helsinki, Finland. Originally from Japan, he worked at the University of Central Oklahoma, USA, as a curator, collection manager, and educator. Shiraiwa’s research focuses on the decolonising knowledge-production system to pursue the future museum direction, supporting a culturally sustainable society.",
     intervention: "Museological Myths of Decolonization and Neutrality",
     texte: "icofom2021-shikoh-shiraiwa-olga-zabalueva",
     sessions: ["metissage-2"]
@@ -691,7 +691,7 @@ export const intervenants = [
     firstName: "Olga",
     lastName: "Zabalueva",
     institution: "Linköping University – Sweden",
-    presentation: "",
+    presentation: "Olga Zabalueva is a Russian museologist who is currently doing her PhD in Culture and Society at Linköping university, Sweden. Her interdisciplinary research focuses on museology as a field of knowledge; museums and the (re)construction of identities; the active social position of a contemporary museum; memory and activism.",
     intervention: "Museological Myths of Decolonization and Neutrality",
     texte: "icofom2021-shikoh-shiraiwa-olga-zabalueva",
     sessions: ["metissage-2"]
@@ -721,7 +721,7 @@ export const intervenants = [
     firstName: "Marie",
     lastName: "Lalonde",
     institution: "présidente ICOM-Canada – Canada",
-    presentation: "Perferentes per obiecta defensi reginae inde quaesitum exsertantis praestituto quid iam truci praedoctis praestituto adhibitis funestis iudex imaginarius interrogationibus die permissi interrogationibus adhibitis iudex imaginarius cursim inde nec quid diluere interrogationibus quidve interrogationibus hinc stimulis quid responsum defensi esset reginae truci per equitum Caesarem ad obiecta Caesarem funestis essent quid.",
+    presentation: "",
     intervention: "",
     texte: "",
     sessions: ["conference-cloture"]
