@@ -28,8 +28,8 @@ const LetterSingle = (props) => {
             </S.IntervenantLeft>
             <S.IntervenantRight>
               <T.P>{intervenant.presentation}</T.P>
-              <S.IntervenantTexts>
-                {(typeof intervenant.texte !== "undefined") && (typeof intervenant.intervention !== "undefined") && (
+              {(typeof intervenant.texte !== "undefined") && (typeof intervenant.intervention !== "undefined") && (intervenant.texte !== "") && (
+                  <S.IntervenantTexts>
                     <ULink
                       linkTo={`/publications/${intervenant.texte}`}
                       small
@@ -41,9 +41,9 @@ const LetterSingle = (props) => {
                         : intervenant.intervention}
                       </T.Mark>
                     </ULink>
+                  </S.IntervenantTexts>
                   )
                 }
-              </S.IntervenantTexts>
               <S.IntervenantSessions>
                 {intervenant.sessions.map((sessionObj, index) => (
                   <ULink
