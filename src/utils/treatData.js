@@ -114,6 +114,7 @@ export function useTreatIntervenants() {
           if(daySession.id === interSession){
             const dayTs = Date.parse(day.day);
             const dateObj = new Date(dayTs);
+            dateObj.setUTCHours(12)
             let finalSession = {
               day: dateObj,
               session: daySession
