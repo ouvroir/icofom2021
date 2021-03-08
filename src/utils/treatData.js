@@ -30,13 +30,16 @@ export function useTreatProgram() {
     day.sessions.map((session, index) => {
       let timerange = `${session.timeRange[0]} — ${session.timeRange[1]} ${session.timeRange[2]}`;
       let titles = session.titles;
-      let president;
-      intervenants.map((intervenant) => {
-        if (intervenant.id === session.president) {
-          president = intervenant;
-          return true;
-        }
-      });
+      let presidents = [];
+
+      session.president.map((president) => {
+        intervenants.map((intervenant) => {
+          if (intervenant.id === president) {
+            presidents.push(intervenant);
+            return true;
+          }
+        });
+      })
 
       let interventions = [];
       session.interventions.map((intervention, index) => {
@@ -66,12 +69,13 @@ export function useTreatProgram() {
         return true;
       });
 
+
       let finalSession = {
         id: session.id,
         timerange: timerange,
         titles: titles,
         replayLink: session.replayLink,
-        president: president,
+        presidents: presidents,
         interventions: interventions,
       };
 
@@ -127,7 +131,7 @@ export function useTreatIntervenants() {
 
     let initial = finalIntervenant.id.charAt(0)
     finalIntervenants[initial].push(finalIntervenant)
-    
+
   });
 
   Object.keys(finalIntervenants).map(letter => {

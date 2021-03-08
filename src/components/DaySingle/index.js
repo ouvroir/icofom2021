@@ -96,14 +96,18 @@ class DaySingle extends React.Component {
                     <T.Small>{session.timerange}</T.Small>
                     <S.SessionMeta>
                       <T.Mark>{session.titles[this.props.intl.locale]}</T.Mark>
-                      {typeof session.president !== "undefined" && (
-                        <div>
-                          <T.SmallBold>
-                            {session.president.firstName}{" "}
-                            {session.president.lastName},{" "}
-                          </T.SmallBold>
-                          <T.Small>{session.president.institution}</T.Small>
-                        </div>
+                      {(typeof session.presidents !== "undefined") && (typeof session.presidents.length !== "undefined") && (
+                        session.presidents.map((president) => (
+                          <div>
+                            <T.SmallBold>
+                              {president.firstName}{" "}
+                              {president.lastName}
+                            </T.SmallBold>
+                            {president.institution !== "" && (
+                              <T.Small>,{" "}{president.institution}</T.Small>
+                            )}
+                          </div>
+                        ))
                       )}
                     </S.SessionMeta>
                     <S.SessionShareDesk>
@@ -117,7 +121,7 @@ class DaySingle extends React.Component {
                       return (
                         <S.InterventionSingle key={`intervention-${index}`}>
                           {intervention.intervenants.map((intervenant) => (
-                            <ULink 
+                            <ULink
                               internal
                               small
                               linkTo={`#${intervenant.id}`}

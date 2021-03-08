@@ -13,7 +13,7 @@ export const program = [
         },
         timeRange: ["09:00", "10:20", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "laurent-jerome", // id du président
+        president: ["laurent-jerome"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["yves-bergeron", "michele-rivet"],
@@ -43,7 +43,7 @@ export const program = [
         },
         timeRange: ["10:30", "12:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "maria-juliana-angarita", // @todo ajouter ann-davis
+        president: ["maria-juliana-angarita", "ann-davis"], // @todo ajouter ann-davis
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["francois-mairesse"],
@@ -67,7 +67,7 @@ export const program = [
           }
         ],
       },
-      
+
       {
         id: "decoloniser-les-musees-1",
         // si multilingue :
@@ -78,7 +78,7 @@ export const program = [
         },
         timeRange: ["13:00", "14:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "anna-leschchenko", // id du président
+        president: ["anna-leschchenko"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["lynn-maranda"],
@@ -112,7 +112,7 @@ export const program = [
         },
         timeRange: ["15:00", "17:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "nada-guzin", // id du président
+        president: ["nada-guzin"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["victor-zaiden","ana-avelar"],
@@ -159,7 +159,7 @@ export const program = [
         },
         timeRange: ["09:00", "10:20", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "francois-mairesse", // id du président
+        president: ["francois-mairesse"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["emmanuel-kasarherou"],
@@ -180,7 +180,7 @@ export const program = [
         },
         timeRange: ["10:30", "12:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "", // @todo Maryse Paquin et Manuelina Duarte à confirmer
+        president: ["manuelina-duarte"], // @todo Maryse Paquin et Manuelina Duarte à confirmer
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["ana-carolina-gelmini-de-faria","kimberly-terrany-alves-pires"],
@@ -219,7 +219,7 @@ export const program = [
         },
         timeRange: ["14:00", "15:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "caroline-hotte", // id du président
+        president: ["caroline-hotte"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["michele-rivet"],
@@ -252,7 +252,7 @@ export const program = [
         },
         timeRange: ["16:00", "17:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "laurier-turgeon", // id du président
+        president: ["laurier-turgeon"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["adriana-russi"],
@@ -292,7 +292,7 @@ export const program = [
         },
         timeRange: ["09:00", "10:20", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo horaire ?
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "jonathan-lainey", // id du président
+        president: ["jonathan-lainey"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["cynthia-chavez-lamar"],
@@ -313,7 +313,7 @@ export const program = [
         },
         timeRange: ["10:30", "12:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "bruno-brulon-soares", // id du président
+        president: ["bruno-brulon-soares"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["marcia-bertotto","vera-rangel"],
@@ -342,7 +342,7 @@ export const program = [
         },
         timeRange: ["13:00", "14:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "anne-benichou", // id du président
+        president: ["anne-benichou"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["vicky-buring"],
@@ -370,7 +370,7 @@ export const program = [
         },
         timeRange: ["15:00", "16:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "yves-bergeron", // id du président
+        president: ["yves-bergeron"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["andre-delpuech"],
@@ -394,7 +394,7 @@ export const program = [
         },
         timeRange: ["09:00", "10:20", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo horaire ?
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "stephane-chagnon", // id du président @todo manquant
+        president: ["stephane-chagnon"], // id du président @todo manquant
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["ruth-phillips"],
@@ -415,7 +415,7 @@ export const program = [
         },
         timeRange: ["10:30", "12:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format @todo vérifier
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "johanne-lamoureux", // id du président
+        president: ["johanne-lamoureux"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["jean-françois-gauvin","manon-joly","marie-kim-gagnon"],
@@ -453,7 +453,7 @@ export const program = [
         },
         timeRange: ["13:30", "15:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "habib-saidi", // @todo ajouter deuxième Alain Caron
+        president: ["habib-saidi"], // @todo ajouter deuxième Alain Caron
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["markus-walz"],
@@ -492,7 +492,7 @@ export const program = [
         },
         timeRange: ["15:30", "16:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: "marie-lalonde", // id du président
+        president: ["marie-lalonde"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["bruno-brulon-soares"],

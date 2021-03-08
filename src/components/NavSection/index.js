@@ -31,9 +31,7 @@ class NavSection extends React.Component {
   }
 
   handleResize() {
-    console.log('sparta')
-    console.log(this.navSectionContent.current.scrollHeight)
-    
+
     this.setState({
       sectionHeight: this.navSectionContent.current.scrollHeight,
       sectionHeaderHeight: this.navSectionHeader.current.scrollHeight,
@@ -73,7 +71,7 @@ class NavSection extends React.Component {
           ref={this.navSectionHeader}
         >
           <T.H2>{this.props.navTitle}</T.H2>
-          <S.PlusIcon 
+          <S.PlusIcon
             active={active}
           />
         </S.NavSectionHeader>

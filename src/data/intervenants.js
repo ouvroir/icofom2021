@@ -735,5 +735,15 @@ export const intervenants = [
     intervention: "",
     texte: "",
     sessions: ["social-museology", "conference-cloture"]
+  },
+  {
+    id: "ann-davis", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
+    firstName: "Ann",
+    lastName: "Davis",
+    institution: "",
+    presentation: "Ann Davis has retired as the Director of The Nickle Arts Museum at the University of Calgary, where she also initiated and taught in the program of Museum and Heritage Studies. She is a Past President of ICOFOM. Currently she is an external advisor to the Acquisition Committee of the National Gallery of Canada and is working with à dedicated group attempting to create a Portrait Gallery for Canada.",
+    intervention: "",
+    texte: "",
+    sessions: ["decoloniser-la-museologie"]
   }
 ]
