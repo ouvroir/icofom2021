@@ -370,7 +370,7 @@ export const intervenants = [
   {
     id: "cynthia-chavez-lamar", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Cynthia",
-    lastName: "Chavez-lamar",
+    lastName: "Chavez-Lamar",
     institution: "acting Associate Director for Collections and Operations National Museum of the American Indian, Smithsonian Institute – United States",
     presentation: "Dr. Cynthia Chavez Lamar (San Felipe Pueblo, Hopi, Tewa, and Navajo) is currently acting Associate Director for Collections and Operations at the Smithsonian’s National Museum of the American Indian in Washington, D.C. Her career experience also includes director positions at the Indian Pueblo Cultural Center, Albuquerque, NM and the School for Advanced Research, Santa Fe, NM. Much of her work and research focuses on collaborations between Native peoples and art and cultural institutions.",
     intervention: {
