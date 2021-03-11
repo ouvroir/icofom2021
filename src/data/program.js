@@ -445,6 +445,28 @@ export const program = [
         ],
       },
       {
+        id: "icofom",
+        titles: {
+          en: "ICOFOM General Assembly",
+          fr: "Assemblée générale de l’ICOFOM",
+          es: "Asamblea General de ICOFOM"
+        },
+        timeRange: ["12:30", "13:30", "EDT"],
+        replayLink: "",
+        president: [""],
+        interventions: [
+          {
+            intervenantId: [""],
+            interventionTitles: {
+              en: "Meeting reserved for ICOFOM members",
+              fr: "Réunion réservée aux membres de l’ICOFOM",
+              es: "Reunión sólo para miembros de ICOFOM"
+            },
+            texte: ""
+          }
+        ]
+      },
+      {
         id: "metissage-2",
         titles: {
           en: "Métis: cultural communities (2)",
