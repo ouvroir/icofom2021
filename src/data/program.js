@@ -57,7 +57,7 @@ export const program = [
           },
           {
             intervenantId: ["susana-manjarrez"],
-            interventionTitle: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben?",
+            interventionTitle: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben? (en)",
             texte: "icofom2021-susana-manjarrez"
           },
           {
@@ -87,7 +87,7 @@ export const program = [
           },
           {
             intervenantId: ["vinicius-moncao"],
-            interventionTitle: "La descolonizacion de los museos desde una perspectiva una perspectiva museologica transnacional",
+            interventionTitle: "La descolonizacion de los museos desde una perspectiva una perspectiva museologica transnacional (en)",
             texte: "icofom2021-vinicius-moncao"
           },
           {
@@ -122,7 +122,7 @@ export const program = [
           },
           {
             intervenantId: ["barbara-molina"],
-            interventionTitle: "La representación andina en los museos etnológicos europeos",
+            interventionTitle: "La representación andina en los museos etnológicos europeos (en)",
             texte: "icofom2021-barbara-molina"
           },
           {
@@ -184,7 +184,7 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["ana-carolina-gelmini-de-faria","kimberly-terrany-alves-pires"],
-            interventionTitle: "A Cultural Heritage between to Forces: Who shall preserve the Parthenon Marbles",
+            interventionTitle: "A Cultural Heritage between to Forces: Who shall preserve the Parthenon Marbles (es)",
             texte: "icofom2021-ana-carolina-gelmini-de-faria-kimberly-terrany-alves-pires"
           },
           {
@@ -228,7 +228,7 @@ export const program = [
           },
           {
             intervenantId: ["freire-rodriguez-saldana"],
-            interventionTitle: "Discursos Museales Nacionales en Tres Museos Norteamericanos. Su deconstrucción desde la mirada indígena",
+            interventionTitle: "Discursos Museales Nacionales en Tres Museos Norteamericanos. Su deconstrucción desde la mirada indígena (en)",
             texte: "icofom2021-freire-rodriguez-saldana"
           },
           {
@@ -256,7 +256,7 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["adriana-russi"],
-            interventionTitle: "Descolonizando museos, aproximando pueblos indígenas: avances y adversidades en el (difícil) contexto brasileño",
+            interventionTitle: "Descolonizando museos, aproximando pueblos indígenas: avances y adversidades en el (difícil) contexto brasileño (en)",
             texte: "icofom2021-adriana-russi"
           },
           {
@@ -317,7 +317,7 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["marcia-bertotto","vera-rangel"],
-            interventionTitle: "Uno museo Comunitario en el Sur del Brasil – Mixturas, Hibridismos y Participación",
+            interventionTitle: "Uno museo Comunitario en el Sur del Brasil – Mixturas, Hibridismos y Participación (es)",
             texte: "icofom2021-marcia-bertotto-vera-rangel"
           },
           {
@@ -342,7 +342,7 @@ export const program = [
         },
         timeRange: ["13:00", "14:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: ["anne-benichou"], // id du président
+        president: ["annette-viel"], // id du président
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["vicky-buring"],
@@ -484,7 +484,7 @@ export const program = [
           },
           {
             intervenantId: ["marilia-xavier-cury"],
-            interventionTitle: "Metamuseology, Museology and decolonization – indigenous people and museums in Brazil",
+            interventionTitle: "Metamuseology, Museology and decolonization – indigenous people and museums in Brazil (es)",
             texte: "icofom2021-marilia-xavier-cury"
           },
           {

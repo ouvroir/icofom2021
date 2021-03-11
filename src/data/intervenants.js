@@ -4,7 +4,7 @@ export const intervenants = [
     firstName: "Yves",
     lastName: "Bergeron",
     institution: "UQAM Chair for Museum Governance and Cultural Law",
-    presentation: "",
+    presentation: "Yves Bergeron est professeur de muséologie et de patrimoine au département d’histoire de l’art de l’Université du Québec à Montréal. Il est titulaire de la Chaire de recherche UQAM sur la gouvernance des musées et le droit de la culture. Ses travaux portent notamment sur l’histoire des collections, les tendances sociétales qui transforment les institutions muséales et la gouvernance des musées.",
     intervention: "", // @todo ajouter
     sessions: ["conference-ouverture-01", "conference"]
   },
@@ -23,7 +23,7 @@ export const intervenants = [
     firstName: "Elisabeth",
     lastName: "Kaine",
     institution: "Titulaire de la Chaire UNESCO en transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment",
-    presentation: "Élisabeth Kaine est professeure associée en design à l’UQAC. Elle a créé le projet <em>Design et culture matérielle</em> qui développe depuis 1991 des méthodes de co-création et de concertation comme leviers de développement des individus et des communautés autochtones. Elle a fondé <em>La Boîte Rouge vif</em>, un OBNL voué à la valorisation des cultures autochtones, et fut à sa direction de 2000 à 2017. Elle a initié une grande concertation auprès des 11 nations autochtones du Québec et dirigé la production de deux ouvrages en témoignant en 2016 (<em>Voix, Visages, Paysages</em> et <em>Le petit guide de la grande concertation</em>). Elle est titulaire de la chaire UNESCO La transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment.",
+    presentation: "Élisabeth Kaine est professeure associée en design à l’UQAC. Elle a créé le projet Design et culture matérielle qui développe depuis 1991 des méthodes de co-création et de concertation comme leviers de développement des individus et des communautés autochtones. Elle a fondé <em>La Boîte Rouge vif</em>, un OBNL voué à la valorisation des cultures autochtones, et fut à sa direction de 2000 à 2017. Elle a initié une grande concertation auprès des 11 nations autochtones du Québec et dirigé la production de deux ouvrages en témoignant en 2016 (Voix, Visages, Paysages et Le petit guide de la grande concertation). Elle est titulaire de la chaire UNESCO La transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment.",
     intervention: {
       en: "[Title to come]",
       fr: "Récit d’une incursion autochtone en territoire muséal",
@@ -386,7 +386,7 @@ export const intervenants = [
     firstName: "Jonathan",
     lastName: "Lainey",
     institution: "Musée McCord – Montréal, Canada",
-    presentation: "",
+    presentation: "Jonathan Lainey est Conservateur, Cultures autochtones, au Musée McCord. Historien huron-wendat, ses champs d’intérêt touchent à l’histoire sociale, politique et culturelle des Autochtones de même qu’à la culture matérielle et à son interprétation. Ses recherches portent sur les colliers de wampum, les Hurons-Wendat et le patrimoine autochtone en général.",
     intervention: "",
     texte: "",
     sessions: ["conference-ouverture-03"]
@@ -440,16 +440,6 @@ export const intervenants = [
     intervention: "Politiques et pratiques muséales africaines à l’aune des métissages et des hybridations",
     texte: "icofom2021-françois-thierry-toe",
     sessions: ["metissage-1"]
-  },
-  {
-    id: "anne-benichou", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
-    firstName: "Anne",
-    lastName: "Bénichou",
-    institution: "Université du Québéc à Montréal – Montréal, Canada",
-    presentation: "",
-    intervention: "",
-    texte: "",
-    sessions: ["decolonisation-musee-art"]
   },
   {
     id: "vicky-buring", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
@@ -745,5 +735,15 @@ export const intervenants = [
     intervention: "",
     texte: "",
     sessions: ["decoloniser-la-museologie"]
+  },
+  {
+    id: "annette-viel",
+    firstName: "Annette",
+    lastName: "Viel",
+    institution: "",
+    presentation: "Annette Viel, historienne de l’art, muséologue spécialiste de la question de l’esprit des lieux, a œuvré à la mise en valeur de nombreux lieux muséaux et patrimoniaux. Elle prône une approche transdisciplinaire alliant arts, sciences et technologies ; une approche incitant les publics à vivre une expérience de sens.",
+    intervention: "",
+    text: "",
+    sessions: ["decolonisation-musee-art"]
   }
 ]
