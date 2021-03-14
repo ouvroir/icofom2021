@@ -26,9 +26,9 @@ export const program = [
           {
             intervenantId: ["elisabeth-kaine"],
             interventionTitles: {
-              en: "Récit d’une incursion autochtone en territoire muséal <em>(interpreted in English)</em>", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
+              en: "Récit d’une incursion autochtone en territoire muséal (interpreted in English)", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
               fr: "Récit d’une incursion autochtone en territoire muséal",
-              es: "Récit d’une incursion autochtone en territoire muséal <em>(interpreted in English)</em>"
+              es: "Récit d’une incursion autochtone en territoire muséal (interpreted in English)"
             }
           }
         ],
@@ -47,7 +47,7 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["francois-mairesse"],
-            interventionTitle: "Décoloniser la muséologie?",
+            interventionTitle: "Décoloniser la muséologie ?",
             texte: "icofom2021-francois-mairesse"
           },
           {
@@ -57,14 +57,14 @@ export const program = [
           },
           {
             intervenantId: ["susana-manjarrez"],
-            interventionTitle: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben? (en)",
+            interventionTitle: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben?",
             texte: "icofom2021-susana-manjarrez"
-          },
-          {
-            intervenantId: ["ernest-kpan"],
-            interventionTitle: "La décolonisation de la muséologie : analyse réflexive sur les musées et les communautés culturelles en Côte-d’Ivoire",
-            texte: "icofom2021-ernest-kpan"
           }
+          //, {
+          //  intervenantId: ["ernest-kpan"],
+          //  interventionTitle: "La décolonisation de la muséologie : analyse réflexive sur les musées et les communautés culturelles en Côte-d’Ivoire",
+          //  texte: "icofom2021-ernest-kpan"
+          // }
         ],
       },
 
@@ -164,9 +164,9 @@ export const program = [
           {
             intervenantId: ["emmanuel-kasarherou"],
             interventionTitles: {
-              en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
+              en: "Le musée du quai Branly à l’heure du décentrement du regard (interpreted in English)", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
               fr: "Le musée du quai Branly à l’heure du décentrement du regard",
-              es: "[Próximo título]"
+              es: "Le musée du quai Branly à l’heure du décentrement du regard (interpreted in English)"
             }
           }
         ],
@@ -298,8 +298,8 @@ export const program = [
             intervenantId: ["cynthia-chavez-lamar"],
             interventionTitles: {
               en: "Looking Back and Moving Forward at the Smithsonian’s National Museum of the American Indian", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
-              fr: "[Titre à venir]",
-              es: "[Próximo título]"
+              fr: "Looking Back and Moving Forward at the Smithsonian’s National Museum of the American Indian (interprétée en Français)",
+              es: "Looking Back and Moving Forward at the Smithsonian’s National Museum of the American Indian (interprétée en Français)"
             }
           }
         ],
@@ -400,8 +400,8 @@ export const program = [
             intervenantId: ["ruth-phillips"],
             interventionTitles: {
               en: "‘Changing Up’ the Museum: Cultural Translation and Decolonial Politics", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
-              fr: "[Titre à venir]",
-              es: "[Próximo título]"
+              fr: "‘Changing Up’ the Museum: Cultural Translation and Decolonial Politics (interprétée en Français)",
+              es: "‘Changing Up’ the Museum: Cultural Translation and Decolonial Politics (interprétée en Français)"
             }
           }
         ],
