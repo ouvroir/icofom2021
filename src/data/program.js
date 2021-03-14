@@ -47,7 +47,7 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["francois-mairesse"],
-            interventionTitle: "Décoloniser la muséologie ?",
+            interventionTitle: "Décoloniser la muséologie ? (en)",
             texte: "icofom2021-francois-mairesse"
           },
           {
@@ -57,7 +57,7 @@ export const program = [
           },
           {
             intervenantId: ["susana-manjarrez"],
-            interventionTitle: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben?",
+            interventionTitle: "La Decolonización de la palabra: del Museo (con mayúscula) a sus Públicos y a las Comunidades ¿en las que se inscriben ? (es)",
             texte: "icofom2021-susana-manjarrez"
           }
           //, {
@@ -133,12 +133,12 @@ export const program = [
           },
           {
             intervenantId: ["marion-bertin"],
-            interventionTitle: "Que signifie «décoloniser» les musées?",
+            interventionTitle: "Que signifie « décoloniser » les musées ? (en)",
             texte: "icofom2021-marion-bertin"
           },
           {
             intervenantId: ["christine-bluard"],
-            interventionTitle: "Africamuseum: réorganisation",
+            interventionTitle: "Africamuseum : réorganisation (fr)",
             texte: "icofom2021-christine-bluard"
           }
         ],
@@ -184,27 +184,27 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["ana-carolina-gelmini-de-faria","kimberly-terrany-alves-pires"],
-            interventionTitle: "A Cultural Heritage between to Forces: Who shall preserve the Parthenon Marbles (es)",
+            interventionTitle: "A Cultural Heritage between to Forces: Who shall preserve the Parthenon Marbles",
             texte: "icofom2021-ana-carolina-gelmini-de-faria-kimberly-terrany-alves-pires"
           },
           {
             intervenantId: ["ibrahima-cisse"],
-            interventionTitle: "La question du retour des objets sénégalais des musées européens : enjeux, stratégies d’intervention, expertises muséologiques et négociations diplomatiques",
+            interventionTitle: "La question du retour des objets sénégalais des musées européens : enjeux, stratégies d’intervention, expertises muséologiques et négociations diplomatiques (fr)",
             texte: "icofom2021-ibrahima-cisse"
           },
           {
             intervenantId: ["camille-labadie"],
-            interventionTitle: "Décoloniser les collections: enjeux et obstacles de la restitution des biens culturels en droit",
+            interventionTitle: "Décoloniser les collections: enjeux et obstacles de la restitution des biens culturels en droit (en)",
             texte: "icofom2021-camille-labadie"
           },
           {
             intervenantId: ["jos-van-beurden"],
-            interventionTitle: "Colonial Collections and Restitution issues – The State of a Global Debate",
+            interventionTitle: "Colonial Collections and Restitution issues – The State of a Global Debate (en)",
             texte: "icofom2021-jos-van-beurden"
           },
           {
             intervenantId: ["fanny-fouche"],
-            interventionTitle: "Le musée face à l’héritage colonial : un pharmakon?",
+            interventionTitle: "Le musée face à l’héritage colonial : un pharmakon ? (en)",
             texte: "icofom2021-fanny-fouche"
           }
         ],
@@ -233,12 +233,12 @@ export const program = [
           },
           {
             intervenantId: ["maria-de-simone-ferreira"],
-            interventionTitle: "Heritage Narratives at the Itaipu Archaeology Museum: Territory and Resistance through Artisanal Fishing",
+            interventionTitle: "Heritage Narratives at the Itaipu Archaeology Museum: Territory and Resistance through Artisanal Fishing (en)",
             texte: "icofom2021-maria-de-simone-ferreira"
           },
           {
             intervenantId: ["leandro-guedes"],
-            interventionTitle: "Musealization is an Indigenous Business: Reflections About Objects and Subjects in the Museological Chain of the Indian Museum of Rio de Janeiro",
+            interventionTitle: "Musealization is an Indigenous Business: Reflections About Objects and Subjects in the Museological Chain of the Indian Museum of Rio de Janeiro (en)",
             texte: "icofom2021-leandro-guedes"
           }
         ],
@@ -261,17 +261,17 @@ export const program = [
           },
           {
             intervenantId: ["karine-duhamel"],
-            interventionTitle: "All My Relations: (Re)Imagined Communities and Indigenous Peoples",
+            interventionTitle: "All My Relations: (Re)Imagined Communities and Indigenous Peoples (en)",
             texte: "icofom2021-karine-duhamel"
           },
           {
             intervenantId: ["marie-charlotte-franco"],
-            interventionTitle: "La décolonisation et l’autochtonisation de la muséologie. Le cas du Musée McCord à Tiohtiá:ke/Montréal",
+            interventionTitle: "La décolonisation et l’autochtonisation de la muséologie. Le cas du Musée McCord à Tiohtiá:ke/Montréal (en)",
             texte: "icofom2021-marie-charlotte-franco"
           },
           {
             intervenantId: ["manuelina-maria-duarte-candido", "luciana-conrado-martins", "andrea-dias-vial"],
-            interventionTitle: "Digital strategies for widening the scope of dissemination of indigenous cultures: the Presença Karajá Project and the Tainacan Platform",
+            interventionTitle: "Digital strategies for widening the scope of dissemination of indigenous cultures: the Presença Karajá Project and the Tainacan Platform (en)",
             texte: "icofom2021-manuelina-maria-duarte-candido"
           }
         ],
@@ -322,12 +322,12 @@ export const program = [
           },
           {
             intervenantId: ["silvilene-barros","carolina-zanesi","marina-pinheiro"],
-            interventionTitle: "Experimental Museology, its Principles and Practices: The Creation of the LGBTI+ Memory and Training Center in Rio de Janeiro",
+            interventionTitle: "Experimental Museology, its Principles and Practices: The Creation of the LGBTI+ Memory and Training Center in Rio de Janeiro (en)",
             texte: "icofom2021-silvilene-barros-carolina-zanesi-marina-pinheiro"
           },
           {
             intervenantId: ["cossi-zephirin-daavo"],
-            interventionTitle: "Les musées africains et le patrimoine immatériel: quelques pistes pour une nouvelle muséologie",
+            interventionTitle: "Les musées africains et le patrimoine immatériel : quelques pistes pour une nouvelle muséologie (fr)",
             texte: "icofom2021-cossi-zephirin-daavo"
           }
         ],
@@ -346,17 +346,17 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["vicky-buring"],
-            interventionTitle: "L’exposition Le modèle noir: de Géricault à Matisse au Musée d’Orsay, un exercice de décolonisation dans un musée de beaux-arts ?",
+            interventionTitle: "L’exposition Le modèle noir: de Géricault à Matisse au Musée d’Orsay, un exercice de décolonisation dans un musée de beaux-arts ? (en)",
             texte: "icofom2021-vicky-buring"
           },
           {
             intervenantId: ["daphnee-yiannaki"],
-            interventionTitle: "Stratégies de décolonisation dans les musées d’art: le collectionnement et l’exposition permanente de l’art contemporain autochtone au Musée des beaux-arts du Canada et au Musée des beaux-arts de Montréal depuis 2000",
+            interventionTitle: "Stratégies de décolonisation dans les musées d’art: le collectionnement et l’exposition permanente de l’art contemporain autochtone au Musée des beaux-arts du Canada et au Musée des beaux-arts de Montréal depuis 2000 (en)",
             texte: "icofom2021-daphnee-yiannaki"
           },
           {
             intervenantId: ["vivian-horta"],
-            interventionTitle: "The right to ancestry in Paulo Nazareth’s works",
+            interventionTitle: "The right to ancestry in Paulo Nazareth’s works (en)",
             texte: "icofom2021-vivian-horta"
           }
         ],
@@ -419,27 +419,27 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["jean-françois-gauvin","manon-joly","marie-kim-gagnon"],
-            interventionTitle: "Les musées et le métissage culturel intra muros à l’heure du vivre-ensemble: bousculer les conventions",
+            interventionTitle: "Les musées et le métissage culturel intra muros à l’heure du vivre-ensemble: bousculer les conventions (en)",
             texte: "icofom2021-jean-françois-gauvin-manon-joly-marie-kim-gagnon"
           },
           {
             intervenantId: ["jean-françois-leclerc"],
-            interventionTitle: "La préservation du passé et des cultures immigrantes dans les musées: une définition du patrimoine à repenser",
+            interventionTitle: "La préservation du passé et des cultures immigrantes dans les musées : une définition du patrimoine à repenser (en)",
             texte: "icofom2021-jean-françois-leclerc"
           },
           {
             intervenantId: ["rebeca-lemay-perrault","maryse-paquin"],
-            interventionTitle: "Perspective agoniste: Proposition pour l’inclusion des communautés culturelles et leur participation dans les musées",
+            interventionTitle: "Perspective agoniste: Proposition pour l’inclusion des communautés culturelles et leur participation dans les musées (en)",
             texte: "icofom2021-rebeca-lemay-perrault-maryse-paquin"
           },
           {
             intervenantId: ["fabien-van-geert","quitterie-puel"],
-            interventionTitle: "Le centre culturel Tjibaou, ou les complexités d’incarner le «destin commun» pluriethnique néo-calédonien",
+            interventionTitle: "Le centre culturel Tjibaou, ou les complexités d’incarner le «destin commun» pluriethnique néo-calédonien (en)",
             texte: "icofom2021-fabien-van-geert-quitterie-puel"
           },
           {
             intervenantId: ["françois-thierry-toe"],
-            interventionTitle: "Politiques et pratiques muséales africaines à l’aune des métissages et des hybridations",
+            interventionTitle: "Politiques et pratiques muséales africaines à l’aune des métissages et des hybridations (fr)",
             texte: "icofom2021-françois-thierry-toe"
           }
         ],
@@ -479,7 +479,7 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["markus-walz"],
-            interventionTitle: "Filled Containers, Felt Communities. Facts and Constructivism in Regional Museums",
+            interventionTitle: "Filled Containers, Felt Communities. Facts and Constructivism in Regional Museums (en)",
             texte: "icofom2021-markus-walz"
           },
           {
@@ -489,17 +489,17 @@ export const program = [
           },
           {
             intervenantId: ["shikoh-shiraiwa","olga-zabalueva"],
-            interventionTitle: "Museological Myths of Decolonization and Neutrality",
+            interventionTitle: "Museological Myths of Decolonization and Neutrality (en)",
             texte: "icofom2021-shikoh-shiraiwa-olga-zabalueva"
           },
           {
             intervenantId: ["hector-valverde-martinez"],
-            interventionTitle: "Through the eyes of the mannequins How we see us?",
+            interventionTitle: "Through the eyes of the mannequins How we see us? (en)",
             texte: "icofom2021-hector-valverde-martinez"
           },
           {
             intervenantId: ["fabien-van-geert"],
-            interventionTitle: "Muséologies postcoloniale et décoloniale. Ou les frontières poreuses des concepts muséologiques",
+            interventionTitle: "Muséologies postcoloniale et décoloniale. Ou les frontières poreuses des concepts muséologiques (en)",
             texte: "icofom2021-fabien-van-geert"
           },
 
