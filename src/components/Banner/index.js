@@ -15,10 +15,8 @@ const Banner = () => {
         <T.Span><FormattedMessage id="header.banner" /></T.Span> */}
         <div>
           <T.Span><a href={link} target="_blank" rel="noreferrer"><FormattedMessage id="header.banner" />&nbsp;&nbsp;&nbsp;&nbsp;✺&nbsp;&nbsp;&nbsp;&nbsp;</a></T.Span>
-          <T.Span><a href={link} target="_blank" rel="noreferrer"><FormattedMessage id="header.banner" />&nbsp;&nbsp;&nbsp;&nbsp;✺&nbsp;&nbsp;&nbsp;&nbsp;</a></T.Span>
         </div>
         <div>
-          <T.Span><a href={link} target="_blank" rel="noreferrer"><FormattedMessage id="header.banner" />&nbsp;&nbsp;&nbsp;&nbsp;✺&nbsp;&nbsp;&nbsp;&nbsp;</a></T.Span>
           <T.Span><a href={link} target="_blank" rel="noreferrer"><FormattedMessage id="header.banner" />&nbsp;&nbsp;&nbsp;&nbsp;✺&nbsp;&nbsp;&nbsp;&nbsp;</a></T.Span>
         </div>
       </S.BannerContainer>
