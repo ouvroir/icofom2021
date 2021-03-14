@@ -113,7 +113,7 @@ export const intervenants = [
     firstName: "Leon",
     lastName: "Perelson Bellinha",
     institution: "Federal University of the State of Rio de Janeiro – Rio de Janeiro, Brazil",
-    presentation: "",
+    presentation: "Leon (he/him) is an undergraduate Museology student at UNIRIO. His interests range from religious art to linguistics. He recently joined the Dismantling Oppressive Structures in Anthropology (DOSiA) group and is working to address and challenge the systemic barriers that exist in the field.",
     intervention: "Decolonizing a Colonizer’s Tool",
     texte: "icofom2021-leon-perelson-bellinha",
     sessions: ["decoloniser-les-musees-2"]
@@ -560,7 +560,7 @@ export const intervenants = [
     firstName: "Johanne",
     lastName: "Lamoureux",
     institution: "Université de Montréal – Montréal, Canada",
-    presentation: "",
+    presentation: "Johanne Lamoureux est professeure titulaire au Département d’histoire de l’art et d’études cinématographiques (Université de Montréal), elle est titulaire d’une Chaire de recherche du Canada sur la muséologie citoyenne. . Ses recherches dans le domaine des études muséales ont porté sur la rhétorique de l’exposition et s’intéressent, depuis 2014, aux nouveaux usages des collections muséales à l’heure de l’impératif évènementiel.",
     intervention: "",
     texte: "",
     sessions: ["metissage-1"]
@@ -581,7 +581,7 @@ export const intervenants = [
     firstName: "Jean-François",
     lastName: "Gauvin",
     institution: "Université Laval — Québec, Canada",
-    presentation: "",
+    presentation: "Jean-François Gauvin est professeur au département des sciences historiques à l’Université Laval depuis 2018. Il est, entre autres, directeur du programme de DESS en muséologie et directeur général du Centre de recherche Cultures-Arts-Sociétés (CELAT). Ses recherches principales portent sur le patrimoine scientifique (17e-20e siècles).",
     intervention: "Les musées et le métissage culturel intra muros à l’heure du vivre-ensemble : bousculer les conventions",
     texte: "icofom2021-jean-françois-gauvin-manon-joly-marie-kim-gagnon",
     sessions: ["metissage-1"]
@@ -631,7 +631,7 @@ export const intervenants = [
     firstName: "Maryse",
     lastName: "Paquin",
     institution: "Université du Québec à Trois-Rivières – Trois-Rivières, Canada",
-    presentation: "",
+    presentation: "Maryse Paquin détient un doctorat en éducation et une maîtrise en muséologie. Elle a également mené des études postdoctorales en psychopédagogie. Elle est professeure titulaire au Département d’études en loisir, culture et tourisme de l’Université du Québec à Trois-Rivières. Ses intérêts de recherche portent sur la médiation culturelle. Elle œuvre en éducation culturelle depuis les trente dernières années.",
     intervention: "Perspective agoniste : Proposition pour l’inclusion des communautés culturelles et leur participation dans les musées",
     texte: "icofom2021-rebeca-lemay-perrault-maryse-paquin",
     sessions: ["metissage-1"]

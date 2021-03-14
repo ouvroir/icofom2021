@@ -26,9 +26,9 @@ export const program = [
           {
             intervenantId: ["elisabeth-kaine"],
             interventionTitles: {
-              en: "[Title to come]", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
+              en: "Récit d’une incursion autochtone en territoire muséal <em>(interpreted in English)</em>", // on peut sans problèmes avoir des balises html dans ces chaînes de caractères
               fr: "Récit d’une incursion autochtone en territoire muséal",
-              es: "[Próximo título]"
+              es: "Récit d’une incursion autochtone en territoire muséal <em>(interpreted in English)</em>"
             }
           }
         ],
