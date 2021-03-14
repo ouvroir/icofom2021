@@ -374,7 +374,7 @@ export const program = [
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["andre-delpuech"],
-            interventionTitle: "Colonisation et esclavage : Pour une nécessaire et juste place en patrimoine et en musée"
+            interventionTitle: "Colonisation et esclavage : Pour une nécessaire et juste place en patrimoine et en musée (interpreted in English)"
           }
         ],
       }
