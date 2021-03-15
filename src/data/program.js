@@ -1,7 +1,7 @@
 export const program = [
   {
     day: "2021-03-15",
-    zoomLink: "https://www.facebook.com/events/465936658145088/",
+    zoomLink: "https://www.facebook.com/icofom",
     subscribeLink : "", // J'ai un doute ici, le lien change t-il selon les jours ?
     sessions: [
       {
@@ -168,7 +168,7 @@ export const program = [
   },
   {
     day: "2021-03-16",
-    zoomLink: "https://www.facebook.com/events/465936658145088/",
+    zoomLink: "https://www.facebook.com/icofom",
     subscribeLink : "", // J'ai un doute ici, le lien change t-il selon les jours ?
     sessions: [
       {
@@ -322,7 +322,7 @@ export const program = [
   },
   {
     day: "2021-03-17",
-    zoomLink: "https://www.facebook.com/events/465936658145088/",
+    zoomLink: "https://www.facebook.com/icofom",
     subscribeLink : "", // J'ai un doute ici, le lien change t-il selon les jours ?
     sessions: [
       {
@@ -454,7 +454,7 @@ export const program = [
   },
   {
     day: "2021-03-18",
-    zoomLink: "https://www.facebook.com/events/465936658145088/",
+    zoomLink: "https://www.facebook.com/icofom",
     subscribeLink : "", // J'ai un doute ici, le lien change t-il selon les jours ?
     sessions: [
       {
