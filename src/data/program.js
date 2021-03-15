@@ -72,7 +72,7 @@ export const program = [
         titles: {
           en: "Social event",
           fr: "Événement social",
-          es: "Asamblea General de ICOFOM"
+          es: "Evento social"
         },
         timeRange: ["12:00", "13:00", "EDT"],
         replayLink: "",
@@ -235,7 +235,7 @@ export const program = [
         titles: {
           en: "Social event",
           fr: "Événement social",
-          es: "Asamblea General de ICOFOM"
+          es: "Evento social"
         },
         timeRange: ["12:30", "13:30", "EDT"],
         replayLink: "",
@@ -379,7 +379,7 @@ export const program = [
         titles: {
           en: "Social event",
           fr: "Événement social",
-          es: "Asamblea General de ICOFOM"
+          es: "Evento social"
         },
         timeRange: ["12:00", "13:00", "EDT"],
         replayLink: "",
@@ -391,6 +391,15 @@ export const program = [
               en: "Social event for registered participants",
               fr: "Événement social pour les participants enregistrés",
               es: "Evento social para los participantes inscritos"
+            },
+            texte: ""
+          },
+          {
+            intervenantId: [""],
+            interventionTitles: {
+              en: "Publication launch : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive https://fb.me/e/3DOqK39Q6",
+              fr: "Lancement publication : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive https://fb.me/e/3DOqK39Q6",
+              es: "Lanzamiento de la publicación : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive https://fb.me/e/3DOqK39Q6"
             },
             texte: ""
           }
