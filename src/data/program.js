@@ -201,7 +201,7 @@ export const program = [
         },
         timeRange: ["10:30", "12:30", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: ["manuelina-duarte"], // @todo Maryse Paquin et Manuelina Duarte à confirmer
+        president: ["manuelina-maria-duarte-candido"], // @todo Maryse Paquin et Manuelina Duarte à confirmer
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["ana-carolina-gelmini-de-faria","kimberly-terrany-alves-pires"],
@@ -388,18 +388,18 @@ export const program = [
           {
             intervenantId: [""],
             interventionTitles: {
-              en: "Social event for registered participants",
-              fr: "Événement social pour les participants enregistrés",
-              es: "Evento social para los participantes inscritos"
+              en: "Publication launch : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive. Facebook Live : https://fb.me/e/3DOqK39Q6",
+              fr: "Lancement publication : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive. Facebook Live : https://fb.me/e/3DOqK39Q6",
+              es: "Lanzamiento de la publicación : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive. Facebook Live : https://fb.me/e/3DOqK39Q6"
             },
             texte: ""
           },
           {
             intervenantId: [""],
             interventionTitles: {
-              en: "Publication launch : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive https://fb.me/e/3DOqK39Q6",
-              fr: "Lancement publication : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive https://fb.me/e/3DOqK39Q6",
-              es: "Lanzamiento de la publicación : Médiation culturelle, musées, publics diversifiés. Guide pour une expérience inclusive https://fb.me/e/3DOqK39Q6"
+              en: "Social event for registered participants",
+              fr: "Événement social pour les participants enregistrés",
+              es: "Evento social para los participantes inscritos"
             },
             texte: ""
           }
