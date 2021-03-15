@@ -1,7 +1,7 @@
 export const program = [
   {
     day: "2021-03-15",
-    zoomLink: "https://uqam.zoom.us/j/82199544381",
+    zoomLink: "https://www.facebook.com/events/465936658145088/",
     subscribeLink : "", // J'ai un doute ici, le lien change t-il selon les jours ?
     sessions: [
       {
@@ -67,7 +67,28 @@ export const program = [
           // }
         ],
       },
-
+      {
+        id: "social-event-01",
+        titles: {
+          en: "Social event",
+          fr: "Événement social",
+          es: "Asamblea General de ICOFOM"
+        },
+        timeRange: ["12:00", "13:00", "EDT"],
+        replayLink: "",
+        president: [""],
+        interventions: [
+          {
+            intervenantId: [""],
+            interventionTitles: {
+              en: "Social event for registered participants",
+              fr: "Événement social pour les participants enregistrés",
+              es: "Evento social para los participantes inscritos"
+            },
+            texte: ""
+          }
+        ]
+      },
       {
         id: "decoloniser-les-musees-1",
         // si multilingue :
@@ -147,7 +168,7 @@ export const program = [
   },
   {
     day: "2021-03-16",
-    zoomLink: "https://uqam.zoom.us/j/86793141656",
+    zoomLink: "https://www.facebook.com/events/465936658145088/",
     subscribeLink : "", // J'ai un doute ici, le lien change t-il selon les jours ?
     sessions: [
       {
@@ -209,7 +230,28 @@ export const program = [
           }
         ],
       },
-      // @todo ajouter événement social
+      {
+        id: "social-event-02",
+        titles: {
+          en: "Social event",
+          fr: "Événement social",
+          es: "Asamblea General de ICOFOM"
+        },
+        timeRange: ["12:30", "13:30", "EDT"],
+        replayLink: "",
+        president: [""],
+        interventions: [
+          {
+            intervenantId: [""],
+            interventionTitles: {
+              en: "Social event for registered participants",
+              fr: "Événement social pour les participants enregistrés",
+              es: "Evento social para los participantes inscritos"
+            },
+            texte: ""
+          }
+        ]
+      },
       {
         id: "premiers-peubles-1",
         titles: {
@@ -280,7 +322,7 @@ export const program = [
   },
   {
     day: "2021-03-17",
-    zoomLink: "https://uqam.zoom.us/j/84145509024",
+    zoomLink: "https://www.facebook.com/events/465936658145088/",
     subscribeLink : "", // J'ai un doute ici, le lien change t-il selon les jours ?
     sessions: [
       {
@@ -332,7 +374,28 @@ export const program = [
           }
         ],
       },
-      // @todo social event
+      {
+        id: "social-event-03",
+        titles: {
+          en: "Social event",
+          fr: "Événement social",
+          es: "Asamblea General de ICOFOM"
+        },
+        timeRange: ["12:00", "13:00", "EDT"],
+        replayLink: "",
+        president: [""],
+        interventions: [
+          {
+            intervenantId: [""],
+            interventionTitles: {
+              en: "Social event for registered participants",
+              fr: "Événement social pour les participants enregistrés",
+              es: "Evento social para los participantes inscritos"
+            },
+            texte: ""
+          }
+        ]
+      },
       {
         id: "decolonisation-musee-art",
         titles: {
@@ -382,7 +445,7 @@ export const program = [
   },
   {
     day: "2021-03-18",
-    zoomLink: "https://uqam.zoom.us/j/87535454686",
+    zoomLink: "https://www.facebook.com/events/465936658145088/",
     subscribeLink : "", // J'ai un doute ici, le lien change t-il selon les jours ?
     sessions: [
       {

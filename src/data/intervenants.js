@@ -102,7 +102,7 @@ export const intervenants = [
     id: "barbara-molina", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Bárbara",
     lastName: "Molina",
-    institution: "Universidad de Barcelona-España",
+    institution: "Universidad de Barcelona - España",
     presentation: "Bárbara Molina, PhD por la Universidad de Barcelona en Gestión de la cultura y el patrimonio. Ex becaria en el Museo Nacional del Indígena Americano del Instituto Smithsoniano en Washington D.C. Se ha desempeñado como docente universitaria en Ecuador en la Universidad de Azuay, la Universidad de Cuenca, y la Universidad Politécnica Salesiana. Es investigadora, consultora y gestora independiente en museología, gestión participativa del patrimonio cultural y mundial.",
     intervention: "La representación andina en los museos etnológicos europeos",
     texte: "icofom2021-barbara-molina",
