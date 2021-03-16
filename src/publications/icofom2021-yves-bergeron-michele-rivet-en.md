@@ -31,7 +31,7 @@ was presented in Kyoto, do museums really engage in a critical dialogue
 about the past and future of nations and communities? In other words,
 are museums truly embarking on a path towards decolonization, or do they
 still prop up myths of homogeneous societies? These are the initial
-questions that led ICOFOM to propose its 43rd symposium, to be held in
+questions that led ICOFOM to propose its 44th symposium, to be held in
 Canada from March 15-19, 2021. The call for proposals was sent out just
 as the COVID-19 pandemic was sweeping the planet, and borders closed at
 the same time as museums were forced to close their doors. Visitors, and
@@ -164,7 +164,7 @@ heritage by promoting community debates as part of the museological
 dialogue. ICOFOM and its partners will serve as the main platform for
 this global reflection.
 
-The 43rd ICOFOM Symposium, *The Decolonization of Museology: Museums,
+The 44th ICOFOM Symposium, *The Decolonization of Museology: Museums,
 Mixing and Myths of Origin*, to be held in Montreal, Ottawa, and Quebec
 City in March 2021, is part of this research program. Several questions,
 found here, are on the agenda:

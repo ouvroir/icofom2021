@@ -23,7 +23,7 @@ export const intervenants = [
     firstName: "Elisabeth",
     lastName: "Kaine",
     institution: "Titulaire de la Chaire UNESCO en transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment",
-    presentation: "Élisabeth Kaine est professeure associée en design à l’UQAC. Elle a créé le projet Design et culture matérielle qui développe depuis 1991 des méthodes de co-création et de concertation comme leviers de développement des individus et des communautés autochtones. Elle a fondé <em>La Boîte Rouge vif</em>, un OBNL voué à la valorisation des cultures autochtones, et fut à sa direction de 2000 à 2017. Elle a initié une grande concertation auprès des 11 nations autochtones du Québec et dirigé la production de deux ouvrages en témoignant en 2016 (Voix, Visages, Paysages et Le petit guide de la grande concertation). Elle est titulaire de la chaire UNESCO La transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment.",
+    presentation: "Élisabeth Kaine est professeure associée en design à l’UQAC. Elle a créé le projet Design et culture matérielle qui développe depuis 1991 des méthodes de co-création et de concertation comme leviers de développement des individus et des communautés autochtones. Elle a fondé La Boîte Rouge vif, un OBNL voué à la valorisation des cultures autochtones, et fut à sa direction de 2000 à 2017. Elle a initié une grande concertation auprès des 11 nations autochtones du Québec et dirigé la production de deux ouvrages en témoignant en 2016 (Voix, Visages, Paysages et Le petit guide de la grande concertation). Elle est titulaire de la chaire UNESCO La transmission culturelle chez les Premiers peuples comme dynamique de mieux-être et d’empowerment.",
     intervention: {
       en: "[Title to come]",
       fr: "Récit d’une incursion autochtone en territoire muséal",
@@ -272,7 +272,7 @@ export const intervenants = [
     id: "freire-rodriguez-saldana", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
     firstName: "Freire",
     lastName: "Rodríguez Saldaña",
-    institution: "UNAM – Ciudad de México – México",
+    institution: "UNAM, Ciudad de México – México",
     presentation: "Sociologist with background in Art History and Museology. Experience of 15 years in the National Coordination of Museums and Exhibitions of INAH in Mexico, where he participated in various museum projects on management, support for curatorship, transfer of collections, museology and visitor studies. Participation in various forums and publications.",
     intervention: "La leçon des Peuples Premiers",
     texte: "icofom2021-freire-rodriguez-saldana",

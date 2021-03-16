@@ -28,7 +28,7 @@ entablan un diálogo crítico sobre el pasado y el futuro de las naciones
 y comunidades? En otras palabras, ¿los museos están realmente
 encaminándose hacia la descolonización o todavía mantienen los mitos de
 sociedades homogéneas? Estas son las preguntas iniciales que llevaron al
-ICOFOM a proponer su 43º simposio, a realizarse en Canadá del 15 al 19
+ICOFOM a proponer su 44º simposio, a realizarse en Canadá del 15 al 19
 de marzo de 2021. La convocatoria para propuestas se envió justo cuando
 la pandemia de la COVID-19 arrasaba el planeta y las fronteras fueron
 cerradas, al mismo tiempo que los museos fueron obligados a clausurar
@@ -170,7 +170,7 @@ patrimonio cultural, mediante la promoción de debates comunitarios como
 parte del diálogo museológico. Es una reflexión global, donde el ICOFOM
 y sus socios sirven como la plataforma principal.
 
-El 43° Simposio de ICOFOM: “La descolonización de la museología: Museos,
+El 44° Simposio de ICOFOM: “La descolonización de la museología: Museos,
 mestizajes y mitos de origen”, que se celebrará en Montreal, Ottawa y la
 ciudad de Quebec en marzo de 2021, es parte de este programa de
 investigación. Varias de las siguientes preguntas están en la agenda:
