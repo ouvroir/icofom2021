@@ -126,7 +126,7 @@ export const intervenants = [
     presentation: "Diplômée de l’École du Louvre en histoire de l’art et en muséologie, Marion Bertin est docteure en anthropologie de l’Université de La Rochelle (CRHIA) et diplômée de Troisième Cycle de l’École du Louvre. Ses recherches portent sur les circulations d’objets océaniens dans les collections privées et publiques. Elle est aussi secrétaire de l’ICOFOM.",
     intervention: "Que signifie « décoloniser » les musées ?",
     texte: "icofom2021-marion-bertin",
-    sessions: ["decoloniser-les-musees-2"]
+    sessions: ["decoloniser-les-musees-2", "metissage-2"]
   },
   {
     id: "maria-juliana-angarita", // on essaie ici de garder une nomenclature identique pour tous les ids : prenom-nom
@@ -745,5 +745,15 @@ export const intervenants = [
     intervention: "",
     text: "",
     sessions: ["decolonisation-musee-art"]
+  },
+  {
+    id: "melissa-aguilar",
+    firstName: "Melissa",
+    lastName: "Aguilar Rojas",
+    institution: "",
+    presentation: "",
+    intervention: "",
+    text: "",
+    session: ["metissage-2"]
   }
 ]

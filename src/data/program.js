@@ -547,7 +547,7 @@ export const program = [
         },
         timeRange: ["13:30", "15:00", "EDT"], // heure de début / heure de fin / timezone. Selon vos besoins de multilingue / localisation des dates, possibilité de changer ce format
         replayLink: "", // liens YouTube du replay, si déjà disponibles. Laisser la chaîne vide si ce n'est pas le cas. On n'entre ici que l'id de la vidéo : "https://www.youtube.com/watch?v=TDZUcqDG-aM"
-        president: ["habib-saidi"], // @todo ajouter deuxième Alain Caron
+        president: ["marion-bertin", "melissa-aguilar"], // @todo ajouter deuxième Alain Caron
         interventions: [ // toujours utiliser un tableau même s'il n'y a qu'une seule intervention sur la session
           {
             intervenantId: ["markus-walz"],
