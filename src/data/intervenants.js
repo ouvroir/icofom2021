@@ -754,6 +754,6 @@ export const intervenants = [
     presentation: "",
     intervention: "",
     text: "",
-    session: ["metissage-2"]
+    sessions: ["metissage-2"]
   }
 ]
